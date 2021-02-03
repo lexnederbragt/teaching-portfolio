@@ -1,0 +1,32 @@
+<%doc>
+This is Mako comment block
+to test the use of Mako as preprocessor.
+</%doc>
+
+_Introduksjon_
+
+# #include "introduksjon.do.txt"
+
+======= Hvordan jeg som underviser har utviklet meg =======
+
+# #include "utvikling.do.txt"
+
+======= Min undervisningsfilosofi (Teaching Statement) =======
+
+# #include "teaching-statement.do.txt"
+
+======= Kollegialt samarbeid om utvikling av undervisning =======
+
+# #include "kollegialt-samarbeid.do.txt"
+
+======= Fokus på studentenes læring =======
+
+# #include "studentenes-laering.do.txt"
+
+======= Bruk av forskning i undervisningen =======
+
+# #include "forskningsbasert.do.txt"
+
+======= Dokumentasjon (Vedlegg) =======
+
+# #include "dokumentasjon.do.txt"

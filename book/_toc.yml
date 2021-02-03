@@ -1,0 +1,28 @@
+- file: 01_main
+  title: 01_main
+  numbered: false
+
+- file: 02_main
+  title: Hvordan jeg som underviser har utviklet meg
+  numbered: false
+
+- file: 03_main
+  title: Min undervisningsfilosofi (Teaching Statement)
+  numbered: false
+
+- file: 04_main
+  title: Kollegialt samarbeid om utvikling av undervisning
+  numbered: false
+
+- file: 05_main
+  title: Fokus på studentenes læring
+  numbered: false
+
+- file: 06_main
+  title: Bruk av forskning i undervisningen
+  numbered: false
+
+- file: 07_main
+  title: Dokumentasjon (Vedlegg)
+  numbered: false
+
