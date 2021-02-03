@@ -1,3 +1,5 @@
 DEST=/Users/alexajo/github/teaching-portfolio/book
 mkdir -p $DEST
 doconce jupyterbook main.do.txt --show_titles --sep=section --dest=$DEST --dest_toc=$DEST --skip_inline_comments
+
+jupyter-book build book
