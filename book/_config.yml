@@ -30,3 +30,7 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+
+# Activate the sphinxcontrib.bibtex extension
+bibtex_bibfiles:
+   - references.bib
