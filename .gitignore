@@ -1,1 +1,6 @@
 Trash/
+book/_build/
+.*_html_file_collection
+tmp_*.do.txt
+*~~
+*.dlog

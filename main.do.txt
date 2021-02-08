@@ -30,3 +30,7 @@ _Introduksjon_
 ======= Dokumentasjon (Vedlegg) =======
 
 # #include "dokumentasjon.do.txt"
+
+======= References =======
+
+BIBFILE: papers.pub

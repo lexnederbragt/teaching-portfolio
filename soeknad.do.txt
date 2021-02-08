@@ -1,1 +1,83 @@
 Placeholder
+
+Fokus på studentenes læring
+
+En klar utvikling over tid
+
+En forskende tilnærming
+
+En kollegial holdning og praksis
+
+Det digitale
+
+
+----
+
+Notater Snakk Om 210203
+https://www.uio.no/link/arrangementer/2021/meritteringsseminar.html
+
+Tanke: jeg kastet meg jo inn i noe som var mye større enn jeg trodde.
+Brukte tidligere erfaringer (IN-BIOS, Carpentries, mer? PhD?)
+Utfordringer var å motivere studentene å lære programmering og modellering i biologi.
+
+* aktive metoder
+* men ikke flipped classroom (selv om det var noe der 1. året)
+* min visjon om BIOS1100 og CSE@IBV
+    * Carpentries relevans
+* hvordan å dokumentere arbeidet/utviklingen?
+* kan jeg bruke noe av det jeg fikk itilbakemeldinger på Samkodingsøkten fra Fellesdelen?
+* hvorfor ble jeg emneansvarlig BIOS1100? Hvordan? Hvorfor ville jeg det selv?
+    * involvering i (C)CSE
+    * Carpentries
+
+* arbeidslivsrelevans - studenter som får somemrjobber ogs, Even Werner, Marius, Alex sin student (eDNA)
+* ha med sensurarbeid som jeg gjorde for NBMU (Jon Olav Vik)
+* ha med all veiledning jeg har gjort?
+* ha med besøk ministeren, ALC rom
+* i 2020 var forskende tilnærming og kollegial holdning svakere sider med en del søknader; sett det i et bredere perspektiv
+    * f. eks. samkoding utover realfag (humanioria)
+
+Dokumentasjon, dokumentasjon, dokumentasjon!
+
+Legg vekt på at jeg startet med arbeidet som senioringeniør.
+
+=== Fokus på studentenes læring ===
+
+=== En klar utvikling over tid ===
+
+=== En forskende tilnærming ===
+
+* Parson's problem, peer instruction, constructive alignment, labelled subgoals
+* her kommer også studentevalueringer in
+* master prosjekter
+    * transdisciplinær veiledningsteam!
+
+=== En kollegial holdning og praksis ===
+
+(forskning og undervisning som fellesskapsaktivitet)
+
+* Gruppelæreropplæring
+* erfaringsdokument, bruk av tilbakemeldinger fra TAs
+* emneansvarlig er en slags teamleder
+    * noen er til og med ansatt for å jobbe med deg
+* UnderVerk
+* presentasjoner i CCSE sammenheng
+* MNT bidrag
+* ta grep når gruppelærere ikke funhgerer så godt
+
+
+=== Det digitale ===
+
+* Menti
+* Jupyter og JupyterHub@UiO
+* digital eksamen fra dag 1, eksamens-jupyterHub fra 2019
+* fikk milder: prosjekt integrering JupyterHub@UiO og Canvas
+
+
+=== Visjon for hvordan du skal bruke statusen ===
+
+Alternativt overskrift: Videre arbeid og utvikling
+
+* visjon om videre utviklingsarbeid
+* utdanningsterminen
+* JupyterDays@UiO
