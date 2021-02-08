@@ -1,17 +1,63 @@
-Placeholder
+===== Motivasjon for å søke meritteringsordningen =====
 
-Fokus på studentenes læring
+* å dele erfaringer har vært sentral
 
-En klar utvikling over tid
+===== Formel pedagogisk kompetanse =====
 
-En forskende tilnærming
+* Kurs i universitetspedagogikk
 
-En kollegial holdning og praksis
+Annen releavnt utdanning: Carpentries instruktør trening?
 
-Det digitale
+===== Spesifisering av hvordan SoTL kriteriene er oppfylt =====
+
+=== Fokus på studentenes læring ===
+
+* formativ vurdering
+* aktiv bruk av evalueringsmekanismene for å forbedre læring
+* pedagogisk opplæaring gruppelærere
+
+=== En klar utvikling over tid ===
+
+* kort oversikt over utviklingen i BIOS1100
+
+=== En forskende tilnærming ===
+
+* bruk av forsking: Parson's problem, peer instruction, constructive alignment, labelled subgoals
+* her kommer også studentevalueringer in
+* master prosjekter
+    * transdisciplinær veiledningsteam!
+
+=== En kollegial holdning og praksis ===
+
+(forskning og undervisning som fellesskapsaktivitet)
+
+* Gruppelæreropplæring
+* emneansvarlig er en slags teamleder
+    * noen er til og med ansatt for å jobbe med deg
+* UnderVerk
+* presentasjoner i CCSE sammenheng
+* MNT bidrag
+* ta grep når gruppelærere ikke funhgerer så godt
 
 
-----
+=== Det digitale ===
+
+* Menti
+* Jupyter og JupyterHub@UiO
+* digital eksamen fra dag 1, eksamens-jupyterHub fra 2019
+* fikk milder: prosjekt integrering JupyterHub@UiO og Canvas
+
+
+===== Visjon for hvordan du skal bruke statusen =====
+
+Alternativt overskrift: Videre arbeid og utvikling
+
+* visjon om videre utviklingsarbeid
+* utdanningsterminen
+* JupyterDays@UiO
+
+
+% if SHOW_NOTES:
 
 Notater Snakk Om 210203
 https://www.uio.no/link/arrangementer/2021/meritteringsseminar.html
@@ -41,43 +87,4 @@ Dokumentasjon, dokumentasjon, dokumentasjon!
 
 Legg vekt på at jeg startet med arbeidet som senioringeniør.
 
-=== Fokus på studentenes læring ===
-
-=== En klar utvikling over tid ===
-
-=== En forskende tilnærming ===
-
-* Parson's problem, peer instruction, constructive alignment, labelled subgoals
-* her kommer også studentevalueringer in
-* master prosjekter
-    * transdisciplinær veiledningsteam!
-
-=== En kollegial holdning og praksis ===
-
-(forskning og undervisning som fellesskapsaktivitet)
-
-* Gruppelæreropplæring
-* erfaringsdokument, bruk av tilbakemeldinger fra TAs
-* emneansvarlig er en slags teamleder
-    * noen er til og med ansatt for å jobbe med deg
-* UnderVerk
-* presentasjoner i CCSE sammenheng
-* MNT bidrag
-* ta grep når gruppelærere ikke funhgerer så godt
-
-
-=== Det digitale ===
-
-* Menti
-* Jupyter og JupyterHub@UiO
-* digital eksamen fra dag 1, eksamens-jupyterHub fra 2019
-* fikk milder: prosjekt integrering JupyterHub@UiO og Canvas
-
-
-=== Visjon for hvordan du skal bruke statusen ===
-
-Alternativt overskrift: Videre arbeid og utvikling
-
-* visjon om videre utviklingsarbeid
-* utdanningsterminen
-* JupyterDays@UiO
+% endif

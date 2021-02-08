@@ -4,3 +4,4 @@ book/_build/
 tmp_*.do.txt
 *~~
 *.dlog
+*.md

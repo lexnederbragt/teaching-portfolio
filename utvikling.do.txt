@@ -1,1 +1,34 @@
-Placeholder
+===== BIOS1100 2017-2020 =====
+
+
+=== BIOS1100 ===
+
+2017 saw the introduction of new bachelor programs in all science
+disciplines at UiO, and with it, now also the bioscience program was
+going to introduce computational modeling early in the program. It was
+decided to expose students to this topic already in the first semester
+with the compulsory course BIOS1100 - "introduction to computational
+modelling in bioscience". I was given the responsibility to design and
+organise the course, which started in 2017. It is the first such course
+in Norway, and perhaps in the world.
+
+BIOS1100 aims to teach simple (mathematical) modelling, implementing
+these models using the programming language Python, while all the time
+focussing on problems relevant for bioscience students. The focus on
+biology aims to ensure students see the relevance of the material
+taught, which is important for student motivation and learning. Problems
+ranging from population growth and dynamics, inheritance, DNA analysis
+and disease epidemics are used to gradually introduce more complex
+programming and modelling.
+
+A textbook has been, and still is being, developed for BIOS1100. It
+introduces new programming concepts, illustrating their immediate
+usefulness in the context of a biological problem.
+
+The course is a first-semester course, obligatory for all students
+taking the Bioscience program. It consists of weekly lectures (2 hours),
+compulsory group sessions (4 hours) and optional Participatory Live
+Coding sessions for students new to programming.
+
+
+FIXME: legge til Participatory Live Coding
