@@ -1,5 +1,47 @@
 # Dokumentasjon (Vedlegg)
 
 
-Placeholder
+
+FIXME oversett til norsk
+
+### Universitetsundervisning
+
+#### Emneansvar
+
+BIOS1100 - Introduction to Computational Modelling in the Biosciences: <http://www.uio.no/studier/emner/matnat/ibv/BIOS1100>; new first-year bachelor course that I am coordinator and main teacher for; the course is the first implementation of the 'Computing in Science Education' project for the Biosciences study program, teaching python programming and modelling of real biological phenomena, 2017-
+
+INF-BIO5121/9121 - High Throughput Sequencing technologies and bioinformatics analysis Univ. of Oslo: <http://inf-biox121.readthedocs.org/en/2015/>; I organise the course, coordinating with the five other teachers, and teach the assembly module: <http://inf-biox121.readthedocs.org/en/2016/Assembly/>, 2012-2016
+
+#### Annen universitetsundervisning
+
+MBV-INF4410/9410 Bioinformatics for Molecular Biology (Univ. of Oslo): lecture on "The bioinformatics of sequencing and assembling genomes", and "What does it mean to do bioinformatics?", 2013-2016
+
+BIO9905MERG1 - Bioinformatics for Metagenomic Analyses and Environmental Sequencing (Univ. of Oslo): lectures on "Next Generation Sequencing techniques and data relevant for metagenomics analyses" and "Assembly of metagenomes", 2011
+
+BIO2120 Evolusjonsbiologi (Univ. of Oslo): lectures on "Evolution and Development" and "Evolution of Genes and Genomes"; group work, 2006 - 2007
+
+Erasmus ICP course Marine Cell Biology (Observatoire Oceanologique, Banyuls-sur-mer, France): lectures on "Fundamental aspects of development" and "Cell cycle changes during development", 2000
+
+#### Workshops
+
+Next-Gen Sequence Analysis Workshop 'week 3' (intermediate and advanced skills) (invited) 2015, Michigan State University <http://angus.readthedocs.org/en/2015/week3.html>
+Univ. California Davis Assembly Masterclass (invited) 2013
+<http://davis-assembly-masterclass-2013.readthedocs.org/en/latest/>
+*De novo* genome assembly, Univ. of Oslo, 2011
+*De novo* genome assembly (invited), Univ. of Gothenburg, 2011
+
+### Software og Data Carpentry
+[Software Carpentry](http://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) are teaching researchers in science, engineering, medicine, and related disciplines worldwide computing and data analysis skills through short workshops using volunteer instructors.  I am a certified instructor of and organize and lead workshops in Norway and Sweden. Together with Karin Lagesen and with support from the Science Library (UiO), we have established Software and Data Carpentry at the University of Oslo, see [uio.no/carpentry](http://uio.no/carpentry), organising workshops more and more frequently, and increasing the number of certified instructors. I am also a certified *instructor trainer*, which enables me to give workshops for researchers that want to become instructors for Software or Data Carpentry.
+
+#### Software Carpentry workshops taught
+
+University of Oslo: 2012, 2013, 2015, 2016, 2017
+Netherlands eScience Centre: 2017
+University of Bergen: 2014
+Science for Life Laboratory, Stockholm, Sweden 2014
+
+#### Software/Data Carpentry instructor retreat
+
+I gave a session on Interactive learning techniques, recording: <https://www.youtube.com/watch?v=QptHJgzooU0>.
+
 

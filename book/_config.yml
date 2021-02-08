@@ -33,4 +33,4 @@ html:
 
 # Activate the sphinxcontrib.bibtex extension
 bibtex_bibfiles:
-   - references.bib
+   - papers.bib

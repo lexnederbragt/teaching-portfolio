@@ -7,3 +7,8 @@ mappe.docx:
 soeknad.docx:
 	doconce format pandoc soeknad && \
 	pandoc -t docx -o $@ soeknad.md
+
+book:
+	doconce jupyterbook main \
+	--dest=$DEST --dest_toc=$DEST \
+	--show_titles sep=section
