@@ -5,11 +5,11 @@ DEST=/Users/alexajo/github/teaching-portfolio/book
 
 all: mappe.docx soeknad.docx
 
-mappe.docx:
+mappe.docx: *.do.txt
 	doconce format pandoc main && \
-	pandoc -t docx -o $@ main.md
+	pandoc -t docx -o $@ main.md --toc
 
-soeknad.docx:
+soeknad.docx: soeknad.do.txt
 	doconce format pandoc soeknad && \
 	pandoc -t docx -o $@ soeknad.md
 
@@ -20,5 +20,5 @@ book: *.do.txt
 	cat book/01_main.md | python scripts/fix_landing.py > book/01_main.md.new && \
 	mv book/01_main.md.new book/01_main.md
 
-build:
+build: book book/*.md
 	jupyter-book build book --all

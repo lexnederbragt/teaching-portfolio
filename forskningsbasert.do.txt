@@ -1,3 +1,6 @@
 Placeholder
 
-cite{wilson_good_2017}
+## Forskning om undervisning, læring og vurdering har
+## informert utforming og gjennomføring av tiltak for å styrke undervisningskvalitet.
+## Vitenskapelige fremgangsmåter er brukt for å samle inn,
+## dokumentere og analysere undervisning og/eller studentenes læring.

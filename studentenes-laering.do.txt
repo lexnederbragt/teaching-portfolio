@@ -1,1 +1,6 @@
 Placeholder
+
+## Undervisningsopplegget er tilpasset studentenes kjennetegn,
+## deres behov for tilbakemelding,
+## og en tydelig kopling mellom læringsmål og vurderingsformer.
+## Tilbakemeldinger fra studenter brukes systematisk til å utvikle undervisningen.

@@ -11,15 +11,15 @@
   numbered: false
 
 - file: 04_main
-  title: Kollegialt samarbeid om utvikling av undervisning
-  numbered: false
-
-- file: 05_main
   title: Fokus på studentenes læring
   numbered: false
 
-- file: 06_main
+- file: 05_main
   title: Bruk av forskning i undervisningen
+  numbered: false
+
+- file: 06_main
+  title: Kollegialt samarbeid om utvikling av undervisning
   numbered: false
 
 - file: 07_main
