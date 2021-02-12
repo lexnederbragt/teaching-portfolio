@@ -7,7 +7,7 @@ all: mappe.docx soeknad.docx
 
 mappe.docx: *.do.txt
 	doconce format pandoc main && \
-	pandoc -t docx -o $@ main.md --toc
+	pandoc -t docx -o $@ --toc --toc-depth=2 -s main.md
 
 soeknad.docx: soeknad.do.txt
 	doconce format pandoc soeknad && \

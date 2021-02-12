@@ -1,7 +1,21 @@
 
 FIXME oversett til norsk
 
+* ha med utviklingsnotat fellesdelen
+* ha med ten quick tips?
+* jupyter canvas projsekt
+* 'emneplaner' jeg har utviklet
+* sluttraportene BIOS1100
+* lenke til AMBP
+* digitale læringsressurser?
+* MNT 2019
+* lenke til BIOS1100 canvas sidene for alle år
+* mine blog posts?
+* github.uio.no sider for gruppelræere
+
 ===== Universitetsundervisning =====
+
+* flytt til utvikling,do.txt
 
 === Emneansvar ===
 
@@ -21,6 +35,17 @@ Erasmus ICP course Marine Cell Biology (Observatoire Oceanologique, Banyuls-sur-
 
 === Workshops ===
 
+
+FIME - og kopier til /Users/alexajo/current/CV/to_add.md (!)
+
+2011
+NSC course: High Through-put Sequencing: technology basics, applications and bioinformatic analysis (Oct. 25-27 2011)
+Course webpage: https://www.sequencing.uio.no/events/2011/nsc_course_2011.html
+
+Workshop on Assembly
+Workshop webpage: https://github.com/lexnederbragt/denovo-assembly-tutorial/
+
+
 Next-Gen Sequence Analysis Workshop 'week 3' (intermediate and advanced skills) (invited) 2015, Michigan State University <http://angus.readthedocs.org/en/2015/week3.html>
 Univ. California Davis Assembly Masterclass (invited) 2013
 <http://davis-assembly-masterclass-2013.readthedocs.org/en/latest/>
@@ -28,6 +53,7 @@ Univ. California Davis Assembly Masterclass (invited) 2013
 *De novo* genome assembly (invited), Univ. of Gothenburg, 2011
 
 ===== Software og Data Carpentry =====
+
 "Software Carpentry": "http://software-carpentry.org/" and "Data Carpentry": "http://www.datacarpentry.org/" are teaching researchers in science, engineering, medicine, and related disciplines worldwide computing and data analysis skills through short workshops using volunteer instructors.  I am a certified instructor of and organize and lead workshops in Norway and Sweden. Together with Karin Lagesen and with support from the Science Library (UiO), we have established Software and Data Carpentry at the University of Oslo, see "uio.no/carpentry": "http://uio.no/carpentry", organising workshops more and more frequently, and increasing the number of certified instructors. I am also a certified *instructor trainer*, which enables me to give workshops for researchers that want to become instructors for Software or Data Carpentry.
 
 === Software Carpentry workshops taught ===
@@ -38,3 +64,7 @@ Science for Life Laboratory, Stockholm, Sweden 2014
 
 === Software/Data Carpentry instructor retreat ===
 I gave a session on Interactive learning techniques, recording: <https://www.youtube.com/watch?v=QptHJgzooU0>.
+
+===== Liste over vedlegg =====
+
+* SWC, DC certificates

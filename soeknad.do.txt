@@ -46,6 +46,9 @@ Annen releavnt utdanning: Carpentries instruktør trening?
 * Jupyter og JupyterHub@UiO
 * digital eksamen fra dag 1, eksamens-jupyterHub fra 2019
 * fikk milder: prosjekt integrering JupyterHub@UiO og Canvas
+* infosidene på github.uio.no for gruppelærere
+* fra github.uio.no til MS Teams for dele filer
+* MS Teams for kommunikasjon (litt Slack før)
 
 
 ===== Visjon for hvordan du skal bruke statusen =====
@@ -55,6 +58,15 @@ Alternativt overskrift: Videre arbeid og utvikling
 * visjon om videre utviklingsarbeid
 * utdanningsterminen
 * JupyterDays@UiO
+
+Undervisningstermin
+* Ta et år der jeg bare følger kurs for å se hvordan CSE blir implementert?
+* skrive ferdig AMBP?
+* skirve en bok om det å undervise Python på lavere grad i fag der dette ikke er naturlig?
+* lage en variant av https://www.uio.no/studier/emner/matnat/ibv/MNPED9000/index.html Gruppelæreropplæring?
+
+Bidra til IBV
+* implementere LA programmet for IBV sine gruppelærere
 
 
 % if SHOW_NOTES:

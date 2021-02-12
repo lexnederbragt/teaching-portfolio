@@ -4,3 +4,5 @@ Placeholder
 ## informert utforming og gjennomføring av tiltak for å styrke undervisningskvalitet.
 ## Vitenskapelige fremgangsmåter er brukt for å samle inn,
 ## dokumentere og analysere undervisning og/eller studentenes læring.
+
+* hva vol jeg at studentene skal gjøre med forksning jeg presenterer
