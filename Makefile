@@ -1,6 +1,6 @@
 DEST=/Users/alexajo/github/teaching-portfolio/book
 
-.PHONY: book build
+.PHONY: book build clean
 
 all: pub/mappe.docx pub/soeknad.docx
 
@@ -23,3 +23,7 @@ pub/book: src/*.do.txt
 
 build: book book/*.md
 	jupyter-book build book --all
+
+clean:
+	cd src && \
+	doconce clean
