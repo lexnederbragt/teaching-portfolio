@@ -1,11 +1,107 @@
 # Hvordan jeg som underviser har utviklet meg
 
 
+### Begynnelsen
+
+
+#### Student og PhD student
+
+Min første erfaring som underviser var da jeg var gruppelærer for et kurs i zoologi.
+Det ble en veldig fin opplevelse:
+mens studentene så et tversnitt av en kattenyre,
+så jeg mange flere når studenter
+ba meg om hjlep med deres.
+Jeg følte at jeg lærte en god del mer av å undervise faget,
+da da jeg tok faget selv
+
+Som PhD student fikk jeg mulighet til å bli med som underviser på
+det europeiske Erasmus kurset "Marine Cell Biology",
+som fant sted på et marin biologsk laboratorium i Frankrike
+(Observatoire Oceanologique, Banyuls-sur-mer, France).
+Forkergruppen min var en av de som sto for kurset,
+og mine veiledere ba meg å holde et par foredrag
+og bidra med labøvelser.
+Denne erfaringen fortalte meg at jeg faktisk lite å undervise,
+å stå foran en gruppe studenter og formidle min kunnskup til dem.
+
+#### 2005-2009
+
+Jeg mener at denne erfaring har bidratt da jeg fikk stilling som postdokter
+ved Bioligisk Institutt (nå Institutt for Biovitenskap) ved Universitete i Oslo.
+Den jog jobbet for ba meg allered etter kort tid å bidra med noen forelesninger
+i kurset BIO2120 Evolusjonsbiologi om evolusjon og utviklingsbiologi
+(mitt doktorgrads fagfelt), og evolusjon av gener og genomer.
+Jeg ble også bedt å steppe inn en gang for å organisere en av
+labbene i BIO1000, det stor introduksjonskurset for nye studenter i biologi.
+Det var en ny erfaring å undervise unge studenter, noe jeg synes var spennende.
+Men, jeg var fortsatt opptatt av den klassiske undervisningsmåten
+med 45 minutter lange forelesnignen og ingen studentaktiviserende øvelser.
+
+Som forsker byttet jeg imidlertid fagfelt i retning bioinformatikk og genomikk.
+Datasettene jeg jobbet med begynte
+å bli så store at de ikke lenger kunne bearbeides med Excel.
+Jeg måtte lære meg bruk a kommandolinje-baserte verktøy og supercomputere.
+I tillegg lærte jeg meg et programmeringsspråk (Perl).
+Alt dette trengte jeg for å delta i genomrevolusjonen som startet i 2006/2007,
+der mye instrumenter gjorde det mulig for mindre forskningsgrupper å sette
+sammen, og undersøke, genomer til diverse organismer.
+
+Jeg merket fort at jeg ønsker å videreformidle min nye kunnskap til mine kollegaer,
+som hadde samme behov.
+Jeg ga korte kurs for kolleger i bruk av de verktøyene jeg brukte mest, og i progammering.
+
+### 2009-2016
+
+Fra 2009 ble jeg med i Norwegian Sequencing Centre (NSC),
+en nasjonal forskningsinfrastruktur for DNA sekvensering.
+NSC bestemt seg i 2011 for å starte med kursing av sine 'kunder', og
+satt opp et kurs med en generell introduksjon til sekvensering, og
+to paralelle praktiske kurs i bruk av bioinformatiske verktøy.
+Sammen med en kollegaforsker fra England organiserte vi en av disse:
+en to-dagers workshop om teknikker for å sette sammen genomer, sokalt 'genom assembly'.
+Vi tok bevisst en veldig praktisk tilnærming, der deltakere, PhD studenter
+og erfarne forskere, fikk mye hands-on erfaring med ekte data og bruk av verktøyene.
+Dette var en fantastisk erfaring: her følte jeg at deltakere virkelig lærte noe,
+og at de når de kom 'hjem' med en gang kunne bruke det de hadde lært.
+Dette var starten av en ny periode der jeg ble mer og mer overbevist om
+at denne hands-on læringen fungerer veldig bra,
+og er en god mulighet til å koble undervisningen veldig tett på pågående forskning.
+
+Rundt denne tiden oppdaget jeg Software Carpentry, en internasjonal organisasjon
+av frvilige som holdt workshops om bruk av verktøy for forskere som bruker
+mye beregninger og programmering i sin forskning ('research computing').
+Målgruppen var forskere som meg, som senere i karrieren sin oppdaget behov
+for å kunne bruke disse verktøy, uten å ha hatt dette i sin opplæring.
+Jeg så at deres tilnærming var grundig forankret i pedagogisk forskning,
+og at målet deres var å undervise kunnskap opparbeidet gjennom årene,
+og forhindre å finne på hjulet på nytt.
+Jeg merket at jeg ønsket å delta på en slik workshop og tok kontakt.
+Resultatet var at deres direktør
+FIXME [?]
+Greg Wilson kom til Oslo og holdt den første Software Carpentry workshoppen i Norden.
+Ikke bare lærte jeg mye om hvordan jeg kunne bli mer effektiv i min forskning,
+ejeg bled  - gledelig - rekrutert til å bli instruktør for Software Carpentry.
+Etter et (online) instruktør treningsprogram med stor fokus på pedagogikk,
+ble jeg og en kollega sertifisert får å kunne holde Software Carpentry workshops
+selv.
+
+
+Denne erfaringen endret mitt syn på undervisning totalt.
+Plutselig ble jeg bevisst på viktigheten av motivasjon for læring,
+det å begrense kognitiv last, formativ vurdering osv.
+
+
+
+
+
+* Mine erfaringer
+* refkleksjoner rundt det
+* hvordan undervisningspraksis har endret seg over tid
+* inkluder bruk av studentevalueringer
+
+ha med Carpentries, TTT, og inflyttelsen!
+
 ### BIOS1100 2017-2020
-
-
-
-#### BIOS1100
 
 2017 saw the introduction of new bachelor programs in all science
 disciplines at UiO, and with it, now also the bioscience program was

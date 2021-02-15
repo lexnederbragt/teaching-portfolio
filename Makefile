@@ -1,20 +1,21 @@
 DEST=/Users/alexajo/github/teaching-portfolio/book
 
+.PHONY: book build
 
-.PHONY: book
+all: pub/mappe.docx pub/soeknad.docx
 
-all: mappe.docx soeknad.docx
+book: pub/book
 
-mappe.docx: *.do.txt
-	doconce format pandoc main && \
-	pandoc -t docx -o $@ --toc --toc-depth=2 -s main.md
+pub/mappe.docx: src/*.do.txt
+	doconce format pandoc src/main && \
+	pandoc -t docx -o $@ --toc --toc-depth=2 -s src/main.md
 
-soeknad.docx: soeknad.do.txt
-	doconce format pandoc soeknad && \
-	pandoc -t docx -o $@ soeknad.md
+pub/soeknad.docx: src/soeknad.do.txt
+	doconce format pandoc src/soeknad && \
+	pandoc -t docx -o $@ src/soeknad.md
 
-book: *.do.txt
-	doconce jupyterbook main \
+pub/book: src/*.do.txt
+	doconce jupyterbook src/main \
 	--dest=${DEST} --dest_toc=${DEST} \
 	--show_titles sep=section && \
 	cat book/01_main.md | python scripts/fix_landing.py > book/01_main.md.new && \

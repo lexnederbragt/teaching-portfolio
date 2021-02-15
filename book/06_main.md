@@ -4,6 +4,8 @@
 ### Underverk
 
 
+* min rolle i programrevisjon biovitenskap 2017-
+* min rolle i CCSE
 
 I 2019 tok kollega Tone Gregers ved IBV initiativ til UndervisningVerksted ved IBV,
 også kalt Underverk. UnderVerk er
