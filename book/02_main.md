@@ -80,7 +80,7 @@ Resultatet var at deres direktør
 FIXME [?]
 Greg Wilson kom til Oslo og holdt den første Software Carpentry workshoppen i Norden.
 Ikke bare lærte jeg mye om hvordan jeg kunne bli mer effektiv i min forskning,
-ejeg bled  - gledelig - rekrutert til å bli instruktør for Software Carpentry.
+jeg bled  - gledelig - rekrutert til å bli instruktør for Software Carpentry.
 Etter et (online) instruktør treningsprogram med stor fokus på pedagogikk,
 ble jeg og en kollega sertifisert får å kunne holde Software Carpentry workshops
 selv.
@@ -90,6 +90,58 @@ Denne erfaringen endret mitt syn på undervisning totalt.
 Plutselig ble jeg bevisst på viktigheten av motivasjon for læring,
 det å begrense kognitiv last, formativ vurdering osv.
 
+#### INF-BIO5121/9121
+
+På denne tiden var det flere grupper på UiO som organiserte korts kurs eller
+workshops rundt analyse av DNA sekvenseringsdata.
+Alle sammen ble de bedt av det som på denne tiden var
+Computational Life Science initiaivet, en satsning fra fakultetet for å
+fremme bioinformatikk forksning og undervisning,
+å laget et poengivende kurs på master og PhD nivå basert på disse kursene.
+Vi ble enige å slå oss sammen i et 5 poengs intensivkurs
+der studentene fikk en generell introduksjon til DNA sekvensering og
+data analyse, etterfuglt av moduler om anvendte analyser tilsvarende
+våre opprinnelige workshops.
+Jeg ble bedt om å være kursansvarlig.
+I 2013 ble jeg tilbudt en 20% 1. amanuensis II stilling ved
+Institutt for Informatikk for blannet annet å drive dette kurset.
+Kurset ble en suksess og tiltrakk seg mange studenter, flest biologer,
+men alltid noen informatikere.
+Fra og med 2014 endret vi kurset til en 10 studiepeongskurs, siden vi opplevde
+at mange studenter droppet eksamen fordi de bare fikk 5 studiepoeng ut av det.
+
+
+Dette var min første erfaring som kursansvarlig (emneansvarlig),
+som var noe nytt for meg.
+Kurset var er teamarbeid med meg som leder, og jeg lærte mye om å drive fram
+et slikt prosjekt. Vi brukte studentevalueringer akitvt
+med et egetutviklet nettskjema som studentene fylte ut etter siste kursøkt.
+Dette førte til at jeg besluttet å bytte ut noen av forelesere,
+som fikk veldig dårlig tilbakemelding fra studentene.
+Jeg synes det var en vanskelig, men helt nødvendig beslutning å ta,
+og det fikk det ønskede effekten med bedre læringsutbytte for studentene
+for den aktuelle modulen.
+Erfaringen som emneansvarlig var positiv, og førte til en bedre forståelse
+for hele kursets løp, fra forberedelse, gjennføring, eksamen og evaluering.
+Jeg fikk også bedre innsikkt i studentene perspektiv på unversitets kurs.
+
+Våren 2014 tok jeg fellesdelen av Universitetspedagogisk Basiskompetanse.
+Jeg skrev et utviklingsarbeid om hvordan å øke studentdeltakelse
+i undervisningen i INF-BIOS5121/9121 kurset.
+Dette fikk jeg gode tilbakemeldinger på.
+Siden jeg var ansatt i en 20% 1. amanuensis II stilling trengte jeg ikke
+å gjenomføre hele opplegget og jeg valgte da bort kollegaveiledningen.
+
+Jeg fortsatte å involvere meg i The Carpentries.
+Vi fikk til et samarbeid med realfagsbiblioteket ved UiO.
+dette førte til at vi kunne tilby flere workshops.
+I 2016 ble jeg instruktør trener for the Carpentries.
+Dette innbærer at jeg kan lære opp nye instruktører.
+Til det har The Carpentries utviklet et instruktør trenings
+[opplærings materialet](https://carpentries.github.io/instructor-training)
+som er forankret i noen elementære pedagogiske forskning (pedagogisk psykologi)
+rundt hvordan vi lærer.
+Sentrale begreper er motivasjon, kognitiv last, novise-ekspert, mentale modeller, tilbakemelding og summativ versus formativ vurdering.
 
 
 
@@ -101,7 +153,9 @@ det å begrense kognitiv last, formativ vurdering osv.
 
 ha med Carpentries, TTT, og inflyttelsen!
 
-### BIOS1100 2017-2020
+### 2017-2020
+
+#### BIOS1100
 
 2017 saw the introduction of new bachelor programs in all science
 disciplines at UiO, and with it, now also the bioscience program was
@@ -132,5 +186,7 @@ Coding sessions for students new to programming.
 
 
 FIXME: legge til Participatory Live Coding
+
+<!-- mangel på pedagogisk litteratur? -->
 
 

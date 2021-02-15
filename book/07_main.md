@@ -15,10 +15,15 @@ FIXME oversett til norsk
 * lenke til BIOS1100 canvas sidene for alle år
 * mine blog posts?
 * github.uio.no sider for gruppelræere
+* nominert for årets underviser av MN
+* kan jeg si nominert av noen studenter for IVB pris?
+* ha med sensurarbeid som jeg gjorde for NBMU (Jon Olav Vik)
+* ha med all veiledning jeg har gjort?
+* ha med besøk ministeren, ALC rom
 
 ### Universitetsundervisning
 
-* flytt til utvikling,do.txt
+* flytt til utvikling.do.txt
 
 #### Emneansvar
 
@@ -72,5 +77,7 @@ I gave a session on Interactive learning techniques, recording: <https://www.you
 ### Liste over vedlegg
 
 * SWC, DC certificates
+* utviklingsarbeid /Volumes/GoogleDrive/My\ Drive/archive/uniped/Fellesdelen_V2014
+* sluttrapporter BIOS1100 2017-2020
 
 

@@ -42,7 +42,7 @@ information present in long-term memory. It is said that learning
 happens if this new information is transferred to long-term memory.
 While long-term memory can contain vast amounts of information, working
 memory is considered small, and has a capacity of about "seven plus or
-minus two" pieces of information [@millerMagicalNumberSeven1956].
+minus two" pieces of information [@miller_1956].
 Cognitive load theory is "a set of learning principles that deals with the optimal
 usage of the working memory" [(Caspersen and Bennedsen,
 2007)](https://www.zotero.org/google-docs/?XtsuNg). This theory, as
