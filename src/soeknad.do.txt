@@ -6,38 +6,20 @@
 
 * Kurs i universitetspedagogikk
 
-Annen releavnt utdanning: Carpentries instruktør trening?
+Annen relevant utdanning: Carpentries instruktør trening?
 
 ===== Spesifisering av hvordan SoTL kriteriene er oppfylt =====
 
 === Fokus på studentenes læring ===
 
-* formativ vurdering
-* aktiv bruk av evalueringsmekanismene for å forbedre læring
-* pedagogisk opplæaring gruppelærere
 
 === En klar utvikling over tid ===
 
-* kort oversikt over utviklingen i BIOS1100
 
 === En forskende tilnærming ===
 
-* bruk av forsking: Parson's problem, peer instruction, constructive alignment, labelled subgoals
-* her kommer også studentevalueringer in
-* master prosjekter
-    * transdisciplinær veiledningsteam!
 
 === En kollegial holdning og praksis ===
-
-(forskning og undervisning som fellesskapsaktivitet)
-
-* Gruppelæreropplæring
-* emneansvarlig er en slags teamleder
-    * noen er til og med ansatt for å jobbe med deg
-* UnderVerk
-* presentasjoner i CCSE sammenheng
-* MNT bidrag
-* ta grep når gruppelærere ikke funhgerer så godt
 
 
 === Det digitale ===
@@ -88,10 +70,7 @@ Utfordringer var å motivere studentene å lære programmering og modellering i 
     * involvering i (C)CSE
     * Carpentries
 
-* arbeidslivsrelevans - studenter som får somemrjobber ogs, Even Werner, Marius, Alex sin student (eDNA)
-* ha med sensurarbeid som jeg gjorde for NBMU (Jon Olav Vik)
-* ha med all veiledning jeg har gjort?
-* ha med besøk ministeren, ALC rom
+* arbeidslivsrelevans - studenter som får sommerjobber ogs, Even Werner, Marius, Alex sin student (eDNA)
 * i 2020 var forskende tilnærming og kollegial holdning svakere sider med en del søknader; sett det i et bredere perspektiv
     * f. eks. samkoding utover realfag (humanioria)
 

@@ -1,4 +1,3 @@
-Placeholder
 
 ## Forskning om undervisning, læring og vurdering har
 ## informert utforming og gjennomføring av tiltak for å styrke undervisningskvalitet.
@@ -90,7 +89,5 @@ men med randomisert rekkefølgen på linjene (instruksjonene),
 eventuelt supplert med noen unødvendige kodelinjer for å løse problemet
 (Parsons og Haden, 2006).
 
-## motivasjon og at alt er biologisk relevant (!)
-## finn noe litteratur som støtter opp under dette
 
 ===== Forskning på egen undervisning =====
