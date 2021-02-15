@@ -15,7 +15,7 @@ FIXME oversett til norsk
 
 ===== Universitetsundervisning =====
 
-* flytt til utvikling,do.txt
+* flytt til utvikling.do.txt
 
 === Emneansvar ===
 
@@ -68,3 +68,4 @@ I gave a session on Interactive learning techniques, recording: <https://www.you
 ===== Liste over vedlegg =====
 
 * SWC, DC certificates
+* utviklingsarbeid /Volumes/GoogleDrive/My\ Drive/archive/uniped/Fellesdelen_V2014
