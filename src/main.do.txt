@@ -37,4 +37,8 @@ _Introduksjon_
 
 ======= Litteraturliste =======
 
+% if FORMAT != "pandoc":
+
 BIBFILE: papers.pub
+
+% endif

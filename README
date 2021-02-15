@@ -7,6 +7,7 @@ jupyter-book build book
 ghp-import -n -p -f docs/_build/html/
 
 # references
+# export pedagogisk_mappe from Zotero (to Downloads folder)
 doconce fix_bibtex4publish ~/Downloads/pedagogisk_mappe.bib
 # next step may require manual intervention
 cd src && publish import ~/Downloads/pedagogisk_mappe.bib
