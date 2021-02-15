@@ -6,9 +6,15 @@ all: pub/mappe.docx pub/soeknad.docx
 
 book: pub/book
 
-pub/mappe.docx: src/*.do.txt
+src/papers.bib : src/papers.pub
+	cd src && publish export papers.bib
+
+pub/mappe.docx: src/*.do.txt src/papers.bib
 	doconce format pandoc src/main && \
-	pandoc -t docx -o $@ --toc --toc-depth=2 -s src/main.md
+	pandoc -t docx -o $@ --toc --toc-depth=2 -s \
+	--citeproc --csl src/plos-computational-biology.csl \
+    --bibliography src/papers.bib \
+	src/main.md
 
 pub/soeknad.docx: src/soeknad.do.txt
 	doconce format pandoc src/soeknad && \
