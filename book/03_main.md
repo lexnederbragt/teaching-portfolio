@@ -1,7 +1,5 @@
 # Min undervisningsfilosofi (Teaching Statement)
 
-
-
 FIXME fix references
 
 ### Introduction
@@ -26,6 +24,7 @@ incorporate what I have learned, and am learning, from educational
 science. This will be described in the following three sections.
 
 ### Cognitive load theory and the need to manage cognitive load
+<div id="cognitive_load"></div>
 
 #### Theoretical background
 
@@ -42,7 +41,7 @@ information present in long-term memory. It is said that learning
 happens if this new information is transferred to long-term memory.
 While long-term memory can contain vast amounts of information, working
 memory is considered small, and has a capacity of about "seven plus or
-minus two" pieces of information [@miller_1956].
+minus two" pieces of information <a href="08_main.html#miller_1956">[1]</a>.
 Cognitive load theory is "a set of learning principles that deals with the optimal
 usage of the working memory" [(Caspersen and Bennedsen,
 2007)](https://www.zotero.org/google-docs/?XtsuNg). This theory, as
@@ -131,9 +130,9 @@ did not master the Python programming, and were in danger of failing the
 course. I then decided to not introduce any new Python material, but
 instead offer some extra teaching using Participatory Live Coding. I had
 learned this technique from being an instructor for Software Carpentry.
-Software Carpentry, now of the global non-profit called "The
-Carpentries"
-([[https://carpentries.org]{.ul}](https://carpentries.org)), "teaches
+Software Carpentry, now part of the global non-profit called The Carpentries.
+[The Carpentries](https://carpentries.org),
+"teaches
 researchers the computing skills they need to get more done in less time
 and with less pain" and is mostly aimed at researchers at the PhD and
 postdoc level. Participatory live coding is the main method of teaching
@@ -279,8 +278,7 @@ misconception, or are told about one by the Teaching Assistants, I use
 that as inspiration for writing new ones.
 
 I have used Multiple Choice Questions, through the online Student
-Response System Mentimeter
-([[https://mentimeter.com]{.ul}](https://mentimeter.com)), during
+Response System [Mentimeter](https://mentimeter.com), during
 lectures and group work. I always combine this with Peer Instruction,
 using the approach described above. I regularly observe a mix between
 questions that are 'too simple' (a large majority of students get it
@@ -387,10 +385,8 @@ learned it" [(Biggs, 2012; Biggs and Tang,
 Following Biggs\' approach, we should start by determining our
 objectives.
 
-The learning outcomes of BIOS1100 are described on the course homepage
-[[https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/]{.ul}](https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/)
-(English:
-[[https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/index-eng.html]{.ul}](https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/index-eng.html)).
+The learning outcomes of BIOS1100 are described on [the course homepage](https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/)
+([English](https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/index-eng.html)).
 But since these are deliberately kept short, there is a need to expand
 on them.
 
@@ -405,8 +401,7 @@ BIOS1100 aims to teach.
 #### Practical implementation
 
 To align how we teach programming In BIOS1100, we use Jupyter Notebooks
-for everything. Jupyter Notebooks
-([[https://jupyter.org]{.ul}](https://jupyter.org)) are a form of
+for everything. [Jupyter Notebooks](https://jupyter.org) are a form of
 'computational' notebooks combining text, media, programming code and
 the ability to execute that code and include the results of running it
 in the same notebook. Teaching materials, including exercises, are

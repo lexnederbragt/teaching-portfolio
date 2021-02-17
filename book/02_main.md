@@ -1,8 +1,13 @@
 # Hvordan jeg som underviser har utviklet meg
 
-
 ### Begynnelsen
 
+* Mine erfaringer
+* refkleksjoner rundt det
+* hvordan undervisningspraksis har endret seg over tid
+* inkluder bruk av studentevalueringer
+* ha med Carpentries, TTT, og inflyttelsen!
+* min rolle i CCSE
 
 #### Student og PhD student
 
@@ -85,7 +90,6 @@ Etter et (online) instruktør treningsprogram med stor fokus på pedagogikk,
 ble jeg og en kollega sertifisert får å kunne holde Software Carpentry workshops
 selv.
 
-
 Denne erfaringen endret mitt syn på undervisning totalt.
 Plutselig ble jeg bevisst på viktigheten av motivasjon for læring,
 det å begrense kognitiv last, formativ vurdering osv.
@@ -109,7 +113,6 @@ Kurset ble en suksess og tiltrakk seg mange studenter, flest biologer,
 men alltid noen informatikere.
 Fra og med 2014 endret vi kurset til en 10 studiepeongskurs, siden vi opplevde
 at mange studenter droppet eksamen fordi de bare fikk 5 studiepoeng ut av det.
-
 
 Dette var min første erfaring som kursansvarlig (emneansvarlig),
 som var noe nytt for meg.
@@ -143,47 +146,56 @@ som er forankret i noen elementære pedagogiske forskning (pedagogisk psykologi)
 rundt hvordan vi lærer.
 Sentrale begreper er motivasjon, kognitiv last, novise-ekspert, mentale modeller, tilbakemelding og summativ versus formativ vurdering.
 
-
-
-
-* Mine erfaringer
-* refkleksjoner rundt det
-* hvordan undervisningspraksis har endret seg over tid
-* inkluder bruk av studentevalueringer
-
-ha med Carpentries, TTT, og inflyttelsen!
-
 ### 2017-2020
 
-#### BIOS1100
+I 2017 ble det introdusert nye bachelorprogrammer i alle studieprogrammer
+ved det matematisk- naturvitenskapelige fakultet ved Universitetet i Oslo.
+Alle programmene inkludert fra da av et beregningsaspekt fra første semester.
+På Institutt for Biovitenskap ble dette implementert
+ved et nytt introduksjonskurs BIOS1100 - Innføring i beregningsmodeller for biovitenskap,
+som er obligatorisk for alle biovitenskapelige studenter.
+Videre skulle andre kurs, både obligatoriske og fordypningskursene,
+impelementere beregningsperspektivet som en del av undervisningen.
 
-2017 saw the introduction of new bachelor programs in all science
-disciplines at UiO, and with it, now also the bioscience program was
-going to introduce computational modeling early in the program. It was
-decided to expose students to this topic already in the first semester
-with the compulsory course BIOS1100 - "introduction to computational
-modelling in bioscience". I was given the responsibility to design and
-organise the course, which started in 2017. It is the first such course
-in Norway, and perhaps in the world.
+Jeg var ikke involvert å prosessen som førte til disse endringene.
+Men jeg var, og er, sterkt overbevist om alle biologer bør skaffe seg beregningskompetanse.
+Arbeidet med The Carpentries viser at mange ferdigutdannede biologer
+mengler denne kompetansen. Jeg er selv et godt eksempel på det.
 
-BIOS1100 aims to teach simple (mathematical) modelling, implementing
-these models using the programming language Python, while all the time
-focussing on problems relevant for bioscience students. The focus on
-biology aims to ensure students see the relevance of the material
-taught, which is important for student motivation and learning. Problems
-ranging from population growth and dynamics, inheritance, DNA analysis
-and disease epidemics are used to gradually introduce more complex
-programming and modelling.
+Da jeg i 2016 fikk tilbudet å ta emneansvar for BIOS1100
+og utvikle kurset fra første semester det ble undervist,
+takket jeg gledelig ja.
+Dette var en fantastisk mulighet til å utvikle et unikt kurs som
+skulle forberede studentene til å være framtidens biologer.
 
-A textbook has been, and still is being, developed for BIOS1100. It
-introduces new programming concepts, illustrating their immediate
-usefulness in the context of a biological problem.
+Det viste seg at dette ansvaret var mye større enn jeg trodde,
+men også har vært veldig givende.
+BIOS1100, og jeg som underviser,
+har gått gjennom en utrolig utvikling de første fire gangene det ble undervist.
+Nedenfor beskriver jeg denne utviklingen i kort trekk.
 
-The course is a first-semester course, obligatory for all students
-taking the Bioscience program. It consists of weekly lectures (2 hours),
-compulsory group sessions (4 hours) and optional Participatory Live
-Coding sessions for students new to programming.
+#### Om BIOS1100
 
+BIOS1100 tar sikte på å undervise i enkel (matematisk) modellering, implementering
+disse modellene bruker programmeringsspråket Python, mens det hele tiden
+fokusere på problemer som er relevante for studenter i biovitenskap. Fokuset på
+biologi tar sikte på å sikre at studentene ser materialets relevans
+undervist, noe som er viktig for studentens motivasjon og læring. Problemer
+alt fra befolkningsvekst og dynamikk, arv, DNA-analyse
+og sykdomsepidemier brukes til å gradvis innføre mer komplekse
+programmering og modellering.
+
+Som beskrevet i the section [cognitive_load](03_main.html#cognitive_load): blah.
+
+Kurset er basert på en ny lærebok skrevet av fire doktorgradsstudenter i nevrovitenskap som alle har bakgrunn innen bedriftsfysikk. Læreboka er den første som gir en introduksjon til programmering i biologisk sammenheng og er akseptert for publisering av Springer.
+
+Kurset ble undervist av Lex Nederbragt ved hjelp av nye, studentaktive metoder i det nye læringslaboratoriet ved Institutt for biovitenskap. Kurset og læringslaboratoriet var et fokus for utdanningsministerens besøk til UiO i oktober 2017. To MSc-studenter og en doktorgradstudent vil studere implementeringen av beregningsmetoder i BIOS 1100. Vi er glade for fremtiden til databehandling innen alle vitenskaper ved UiO.
+
+#### 2017
+
+#### 2018
+
+#### 2019-2020
 
 FIXME: legge til Participatory Live Coding
 

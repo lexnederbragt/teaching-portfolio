@@ -1,8 +1,5 @@
 # Kollegialt samarbeid om utvikling av undervisning
 
-
-
-
 * min rolle i programrevisjon biovitenskap 2017-
 * min rolle i CCSE
 * ha med Onboarding/offboarding lært fra carpentries (for gruppelærere)
@@ -96,11 +93,9 @@ og måten de samarbeider med studentene på, har blitt forbedret.
 Det er som om de tar jobben mer seriøst når de forstår at det er en vitenskap
 bak det å lære og undervise.
 
-
 følelse av tilghørighet og eierskap til kurset
 
 Både PhD, MSc og BSC studenter
-
 
 #### ???
 
@@ -109,7 +104,6 @@ Både PhD, MSc og BSC studenter
 #### Studenter som bidragsyttere i det faglige innholdet
 
 CSE sommerstudenter
-
 
 [^underverk-urls]: <https://www.uio.no/for-ansatte/enhetssider/mn/ibv/underverk/>,
 se også <https://www.mn.uio.no/kurt/undervisningsutvikling/underverk/>

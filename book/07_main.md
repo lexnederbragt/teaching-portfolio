@@ -1,7 +1,5 @@
 # Dokumentasjon (Vedlegg)
 
-
-
 FIXME oversett til norsk
 
 * ha med utviklingsnotat fellesdelen
@@ -20,6 +18,7 @@ FIXME oversett til norsk
 * ha med sensurarbeid som jeg gjorde for NBMU (Jon Olav Vik)
 * ha med all veiledning jeg har gjort?
 * ha med besøk ministeren, ALC rom
+* ha med utkast til Junes artikkel?
 
 ### Universitetsundervisning
 
@@ -51,7 +50,6 @@ Course webpage: <https://www.sequencing.uio.no/events/2011/nsc_course_2011.html>
 
 Workshop on Assembly
 Workshop webpage: <https://github.com/lexnederbragt/denovo-assembly-tutorial/>
-
 
 Next-Gen Sequence Analysis Workshop 'week 3' (intermediate and advanced skills) (invited) 2015, Michigan State University <http://angus.readthedocs.org/en/2015/week3.html>
 Univ. California Davis Assembly Masterclass (invited) 2013
