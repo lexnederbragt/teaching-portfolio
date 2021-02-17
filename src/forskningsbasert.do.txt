@@ -6,17 +6,13 @@
 
 * hva vil jeg at studentene skal gjøre med forksning jeg presenterer
 * bruk av forsking: Parson's problem, peer instruction, constructive alignment, labelled subgoals
-* her kommer også studentevalueringer in
 * master prosjekter
-    * transdisciplinær veiledningsteam!
+ * transdisciplinær veiledningsteam!
 
 ===== Bruk av resultater fra forsning om læring i undervisningen =====
 
 Å lære å programmere anses generelt som vanskelig
-cite{guzdial_2015}
-cite{jenkins_2002}
-cite{robins_et_al_2003}.
-
+cite{guzdial_2015} cite{jenkins_2002} cite{robins_et_al_2003}.
 For et motargument
 (og et utmerket sammendrag av forskningen som støtter denne posisjonen),
 se imidlertid cite{luxton_reilly_2016}.
@@ -77,10 +73,10 @@ blir studentene bedt om å løse lignende problemer selv.
 Basert på begrenset eksisterende forskning om emnet, (Skudder og Luxton-Reilly, 2014)
 fokuserer jeg på to typer bearbeidede eksempler:
 * eksempel-problem-par, hvor hvert utarbeidede eksempel er parret med et
-  lignende problem for studentene å løse umiddelbart etterpå
+ lignende problem for studentene å løse umiddelbart etterpå
 * "faded working examples", der etter å ha presentert en utarbeidet komplett løsning på et problem,
-  blir det presentert problemer med flere trinn som studentene blir bedt om å løse,
-  og slutter med et problem som studentene fullt ut skal løse
+ blir det presentert problemer med flere trinn som studentene blir bedt om å løse,
+ og slutter med et problem som studentene fullt ut skal løse
 
 _Parsons problems_
 En annen viktig type oppgave jeg bruker er såkalte "Parsons problemer".
@@ -91,3 +87,149 @@ eventuelt supplert med noen unødvendige kodelinjer for å løse problemet
 
 
 ===== Forskning på egen undervisning =====
+
+Det nye bachelor studieprogrammet Biovitenskap,
+som startet høsten 2017, er unik i at det integrerer programmering i hele studieløpet.
+Første semester møter studentene BIOS1100 som gir en innføring
+i å lage og eksperimentere med enkle modeller av biologiske systemer.
+
+Det er per dags dato lite forskningsbasert kunnskap om
+hvordan biologistudenter stiller seg til programmering i biologi
+og enda mindre hvilke læringsstrategier de bruker
+for å løse biologiske problemstillinger med programmering.
+
+Som et første steg i å samle kunnskap på dett området har vi hatt fire
+lektorstudenter som tar en undervisningsrettet master
+til å skrive sin oppgave om studenter som tar BIOS1100.
+
+Formålet med disse prosjektetene har vært
+å undersøke studenters holdninger og motivasjon for programmering og modellering i biologi,
+samt finne ut hvordan studentene velger å løse ulike biologiske problemstillinger ved hjelp av programmering.
+Gjennom prosjektet har vi ønsket å bidra til bedre læring og motivasjon i beregningsorientert biologi.
+
+Jeg har vært medveileder for alle fire studenter.
+Veiledningsteamet har vært tverrflaglig,
+med utdanningsforskere fra fysisk institutt,
+og undervisere fra skolelaboratoriet ved Institutt for Biologi
+og meg som emneansvarlig i BIOS1100.
+
+Funnene i masterprosjekter har jeg brukt aktivt for å forbedre kurset,
+både faglig og hvordan emnet undervises.
+Nedenfor gjøres kort rede for prosjektene, funnene, og hvordan
+disse har blitt intergrert i videreutvikling av BIOS1100.
+
+* June skriver artikkel
+* MNT 2019, MNT 2021
+
+=== June Edvarda Eliassen 2020 ===
+
+* tittel: Biologistudenters motivasjon for beregningsorientert biologi etter innføring av krav om full fordypning i realfaglig matematikk
+* problemstlling: Hvordan var motivasjonen hos studentene for programmering og modellering i biologi etter innføring av krav om full fordypning i realfaglig matematikk?
+* lenke til oppgaven: http://urn.nb.no/URN:NBN:no-82918
+* metode: spørreskjema som ble delt ut første og siste forelesning
+* teoretisk rammeverk: Eccels’ forventningsverdi teori om prestasjonsorienterte valg;
+  Hidi og Renningers fire-fasemodell for interesseutvikling;
+  Banduras mestringsforventningsteori
+
+Kort sammendrag:
+
+Studien fokuserte på eventuelle effekter krav om full fordypning
+av realfaglig matematikk (R2-kravet) har hatt
+på motivasjonen for programmering og modellering i biologi hos studentene
+som tok emnet hosten 2019.
+Data fra sporreundersokelsene fra hostsemesteret 2019 ble analysert og sammenlignet
+med data (*før* R2-kravet) fra en Marthe Mjøen Berg sin studie fra 2018.
+Resultatene indikerer at matematikk R2 ser ut til a henge sammen med
+storre mestringsforventning og storre interesse for BIOS1100.
+På den andre siden ser det ut som om mange av studentene
+valgte bort full fordypning i biologi til fordel for R2.
+Funnene støtter antagelsen om at nytteverdi er den sterkeste motiverende faktoren for emne.
+Nytteverdien må ses i lys av at emne er obligatorisk for studieprogramet,
+og at studenter eller har lite interesse for programmering og modellering i biologi.
+
+Anbefalinger for BIOS1100:
+
+
+På grunnlag av disse funnene forslås det å spille på relevansen for å skape større interesse for programmering og modellering i biologi. Dersom studentene ser at de kan bruke programmering inn i tema de interesserer seg for, kan dette bidra til å øke interessen for beregningsorientering i biologi.
+
+LN: covid-19 i 2020, aktualisering av problemstillingen
+
+Det er derfor viktig at relevansen for fremtidige yrker blir løftet frem i undervisningen – både for kommende biologer, lektorstudenter og studenter som kanskje ser andre muligheter for fremtiden, selv om de fullfører studieprogrammet.
+
+=== Sofie Rudberg 2020 ===
+
+* tittel: Relevansen av kompetansen fra matematikk R2 i beregningsorientert biologi
+* problemstlling: Hvordan gjør kompetansen fra R2 seg gjeldende i problemløsningsstrategier hos studenter i arbeid med beregningsorientert biologi?
+* lenke til oppgaven: http://urn.nb.no/URN:NBN:no-82936
+* metode: observasjoner av studentene i situasjoner med oppgaveløsning, og intervju
+* teoretisk rammeverk: Computational thinking, mathematical thinking
+
+
+Kort sammendrag:
+
+Studentene er stort sett positive til at det har blitt R2-krav på utdanningen, og anser de strategiske kunnskapene fra matematikken som relevante
+Studentene benytter seg av problemløsningsstrategier kjent fra matematikk og computational thinking
+Studentene har derimot utfordringer med å løse mer sammensatte oppgaver
+Studentene benytter seg ikke av problemløsningsstrategiene kjent fra matematikk og computational thinking når de arbeider med mer tradisjonell biologi (BIOS1110)
+kompetansen fra matematikk R2 er relevant for studentene på biovitenskap, men undervisningen bør legge opp til mer trening innen ulike problemløsningsstrategier
+
+Når de løser oppgaver i beregningsorientert biologi. Studentene forteller derimot at det er vanskelig å løse mer sammensatte oppgaver, hvilket kan henge sammen med utfordringer knyttet til bruk av de ulike problemløsningsstrategiene. Dette gjenspeiles også når studentene forteller om hvordan de arbeider i et mer tradisjonelt biologiemne de tar parallelt med BIOS1100. Ut ifra hva studentene fortalte i intervjuene, benytter de seg ikke av problemløsningsstrategiene kjent fra matematikk og computational thinking når de arbeider med mer tradisjonell biologi.
+I denne studien argumenterer jeg for at kompetansen fra matematikk R2 er relevant for studentene på biovitenskap, og at undervisning av problemløsningsstrategier bør inngå som en del av bachelorutdanningen.
+
+
+=== Marthe Mjøen Berg 2019 ===
+
+* tittel: Studentar si interesse og meistringsforventning for programmering og modellering i biologi
+* problemstlling: Kva kjenneteiknar studentar si interesse og meistringsforventning for programmering og modellering i biologi?
+* lenke til oppgaven: http://urn.nb.no/URN:NBN:no-73633
+* metode: spørreskjema som ble delt ut første og siste forelesning
+* teoretisk rammeverk: Eccels’ forventningsverdi teori om prestasjonsorienterte valg;
+  Hidi og Renningers fire-fasemodell for interesseutvikling;
+  Banduras mestringsforventningsteori
+
+
+Kort sammendrag:
+
+
+Den overordna problemstillinga: «Kva kjenneteiknar studentar si interesse og meistrings- forventning for programmering og modellering i biologi?» har vore delt inn i tre forskingsspørsmål og forsøkt svara på gjennom resultat og diskusjon. Eg vil i dette kapittelet oppsummere resultata som svarer på desse forskingsspørsmåla, og sjå dei opp mot motivasjonsteorien. Til slutt vil eg framlegge nokre undervisningsmessige implikasjonar, samt forslag til vidare forsking.
+7.1.1 KvakjenneteiknarstudentanesomgårpåBIOS1100?
+Vi har sett at studentmassen på BIOS1100 består av ein stor del kvinner. Dette har vi også sett ser att i biologiinteressene. Mange er interessert i helserelatert biologi og få er interessert i programmering og modellering i biologi. Interesse for biologi kan sjåast i samanheng med at studentmassen hovudsakleg er studentar på biovitenskap, og som har vald studieprogrammet sitt fordi dei er veldig interesserte i biologi. Den låge oppslutninga kring interesse for programmering og modellering i biologi, har blitt vidare diskutert i forskings- spørsmål 2.
+Ikkje overraskande har studentane på BIOS1100 relativt mykje biologierfaring. Medan færre Har full fordjuping i Matematikk R2 frå vidaregåande, og relativt få har noko særleg med programmeringserfaring. Erfaringane frå biologi, matematikk og programmering ser ein att i kva delar av BIOS1100 dei rapporterer som utfordrande. Biologi blir minst utfordrande, medan «matematikk og modellering» og «programmering og modellering» ser studentane i større grad på som utfordrande.
+7.1.2 InteresseverdiogmeistringsforventningtilBIO1100og studieprogrammet
+Interesseverdi til BIOS1100 og studieprogrammet
+Interesseverdien til BIOS1100 har gått litt ned gjennom semesteret. Dette diskuterte eg i samanheng med opplevinga av «programmering og modellering», samt «matematikk og modellering» som utfordrande komponentar i emnet. Det å oppleve noko som meir utfordrande enn venta, har tidlegare vist seg å innverke på interessa (Lipstein & Renninger, 2006). Likevel argumenterte eg for at nedgangen i interesseverdien gjennom semesteret er så
+65
+liten at vi må sjå den i samanheng. Fleire av studentane rapporterer eit meir positivt syn på programmering og modellering i biologi. I tillegg rapporterer studentane «programmering og modellering» som mindre utfordrande etter BIOS1100, enn før. Med dette prøver eg å få fram at interesseutviklinga for BIOS100 ikkje er eintydig negativ. Det finst også teikn til ei positiv utvikling.
+Skilnaden i interesseverdien mellom BIOS1100 og studieprogrammet er stor og tydeleg. Dette ser ein både gjennom den store effektstorleiken (0,8), og gjennom den høge andelen studentar som rapporterer indre motivasjonsårsaker for val av studieprogram. Dette vart sett i lys av studentane si rapportering av BIOS1100 som noko obligatorisk, samt den relativt låge interessa for programmering og modellering i biologi. Som ein tredje faktor; i rapporteringa av emnet som nyttig, argumenterte eg for at dette totalt trekkjer studentane sin motivasjon for BIOS1100 mot ein ytre, autonom motivasjon. Ei motivasjonsform som i større grad er prega av ytre faktorar, og som plasserer BIOS1100 i ein annan motivasjonskategori enn studieprogrammet (Hidi & Renninger, 2006; Ryan & Deci, 2000, 2009).
+Teoretisk sett kan ein kategorisere motivasjonsformene for BIO1100 og studieprogrammet som ulike nyansar av indre og ytre motivasjon. BIOS1100, i den grad det for fleire opplevast som obligatorisk og utfordrande, men samstundes nyttig, indikerer ei autonom form for motivasjon. Studieprogrammet på si side, viser klåre trekk av ei større grad av indre motivasjon. Dette såg ein tydelegast i rapporteringa av årsaker for val av studieprogram (Hidi & Renninger, 2006; Ryan & Deci, 2000, 2009).
+Meistringsforventning til studieprogrammet og til BIOS1100 gjennom semesteret
+Studentane utviklar noko høgre meistringsforventning til BIOS1100 i løpet av semesteret. Eg diskuterte at auken i meistringsforventning indikerer at studentane kan ha fått positive erfaringar gjennom semesteret. «Synet på programmering og modellering i biolog» viser at fleire studentar har fått eit meir positivt syn på BIOS1100, noko som kan støtte auken i meistringsforventning til BIOS1100. Denne endringa i synet på programmering og modellering i biologi, gir tydelege koplingar til nytteverdi i EV-modellen (Eccles, 1983; Wigfield & Eccles, 2000). Sjølv om nyttetenking ofte er kopla mot ei form for ytre motivasjon, grensar den likevel til indre motivasjon (Hidi & Renninger, 2006; Ryan & Deci, 2000, 2009). Dersom det er ei slik motivasjon studentane har, kan dette også bygge opp under auken i meistringsforventning til BIOS1100 gjennom semesteret.
+66
+
+Meistringsforventninga studentane har til studieprogrammet, samanlikna med BIO1100 er ulike. Eg diskuterte difor årsaker til at studentane har større tru for å meistre studieprogrammet sitt enn BIOS1100. Også her blei opplevinga av BIOS1100 som eit obligatorisk emnet trekt fram. Samtidig viste også enkeltvariablane i samlevariabelen meistringsforventning, at studentane trur fagstoffet på studiet bli lettare og dei er mindre bekymra for å meistre studieprogrammet enn BIOS1100. Eg diskuterte at skilnaden i meistringsforventning mellom BIOS1100 og studieprogrammet kan ha noko med den abstrakte tilnærminga til programmering, samt mangelen på programmeringserfaring blant studentane (Gomes & Mendes, 2014). Det er uansett tydeleg at studentane har eit anna syn på å meistre studieprogrammet enn BIOS1100.
+Dei fleste studentane studerer biovitenskap, eit studieprogram med mange biologiske emne. Difor er det ikkje overraskande at studentane rapporterer biologi som den «lettaste» delen av BIOS1100. Når studentane rapporterer relativt store utfordringar med «programmering og modellering», «matematikk og modellering», må eg stille eit spørsmål. Er det slik at studentane ikkje ser den berekningsorienterte komponenten som noko tilhøyrande studieprogrammet? Er programmering og modellering noko studentane berre opplever som noko tilhøyrande BIOS1100?
+7.1.3 Skilnaderiinteresseverdiogmeistringsforventningmellomulike grupper kjønn og programmeringserfaringar
+I testane på effektstorleik gav tidlegare programmeringserfaring ein middels effekt på interesseverdi til BIOS1100. Det å ha tidlegare erfaringar med noko, gir ein erfaringsbasis å ta utgangspunkt i noko som kan verke inn i interesseutviklinga (Renninger & Hidi, 2015).
+Mellom kjønna viste testane for effektstorleik på interesseverdi ein liten til middels skilnad, i favør mennene. I seg sjølv var ikkje denne skilnaden så stor. Men sett i samanheng, har mennene mykje høgre meistringsforventning til BIOS1100. Og dette viser tendensen som tidlegare forsking også har sett. Menn tenderer til ei større fagleg sjølvtillit i teknologiske læringssituasjonar (Grunspan et al., 2016; Schreiner et al., 2010; Schunk & Pajares, 2002). Sett opp mot ein undervisningsmessig samanheng, diskuterte eg om kjønnsskilnaden gjer det naudsynt og å gje kvinnene ekstra undervisningsmessig støtte. Noko som ein mogleg bør ta ta omsyn til i vidare utvikling og i undervisning av emnet BIOS1100.
+67
+
+Alle testane med effektstorleik på interesseverdi og meistringsforventning til studie- programmet, både av grupper med ulike kjønn og ulike programmeringserfaringar, gir ingen utslag på studieprogrammet. At programmeringsbakgrunn ikkje gir utslag på interesseverdi og meistringsforventning til studieprogrammet, er ikkje overraskande. Men at ein ikkje ser kjønnsskilnader opp mot studieprogrammet, når ein ser relativt store skilnader i BIOS1100 er noko å merke seg. Den ikkje-eksisterande skilnaden mellom kjønna si meistringsforventning til studieprogrammet poengterer atter ein gong det mykje av datamaterialet har vist. Studentane må ha eit anna syn på studieprogrammet enn på BIOS1100. Den spesifikke årsaken til dette, er uvisst å vite gjennom min analyse av datamaterialet. Her ligg det store moglegheiter i vidare studiar.
+
+
+=== Lars Erik Håland 2019 ===
+
+* tittel: Studenters arbeid med programmering i biovitenskapelige problemstillinger. En kvalitativ studie av biologistudenters arbeid med Python
+* problemstilling: Hvordan arbeider studenter når de programmerer i introduksjonskurs i biologi?
+* lenke til oppgaven: http://urn.nb.no/URN:NBN:no-73632
+* metode: observasjoner av studentene i situasjoner med oppgaveløsning, og intervju
+* teoretisk rammeverk: Computational Thinking
+
+
+Kort sammendrag:
+
+Første spørsmålet omhandlet hvilke utfordringer studentene møtte når de programmerte. De funnene jeg har viser at studentene opplever de samme typer utfordringer som man ser i andre introduksjonskurs i programmering. Studentene har vist at det er utfordrende å skrive store programmer og at de sliter med å finne ut hva programmeringsoppgavene krever av dem. Arbeidet med å skrive selve programmet har også vist seg å by på flere utfordringer hos studentene. I stor grad handler dette om at studentene mangler konseptuelle kunnskaper, noe som fører til at de er usikre på hvilke programstrukturer de skal bruke, hvordan strukturene virker og hvordan de setter sammen hele programmet. Videre byr matematikken på utfordringer hos studentene. Her opplever studentene at matematikken ligger på et nivå de ikke behersker og deres forkunnskaper i matematikk skaper utfordringer for dem i BIOS1100. Studentene opplever også en del typer feilmeldinger når de programmerer, men det virker ikke som en stor utfordring for dem.
+Når det kommer til studentenes strategiske kunnskaper, så virker disse å være nokså svake. Innenfor modellen til Shute et al. (2017) ser vi at studentene bruker få strategier når de programmerer. Det er i stor grad to strategier studentene bruker. Den ene er bruk av eksempelprogrammer og den andre er prøv- og feil-strategier. Jeg har i denne oppgaven argumentert for at å bruk av eksempelprogrammer ikke er negativt i seg selv, men at det blir ineffektivt for studentens arbeid når dette blir en dominerende strategi. Begge strategiene virker å være en kompensasjon for mangelen av mer effektive strategier og det er mye som tyder på at studentenes utfordringer henger sammen med deres mangelfulle strategiske kunnskaper.
+Det tredje spørsmålet har sett på hvordan biovitenskapelige spørsmål påvirker studentens programmering. Gjennom denne studien har jeg sett at det biologifaglige ikke påvirker studentens arbeid med å skrive selve programmet. Derimot virker det å ha positivt effekt på deres evne til å løse programmeringsoppgaver, siden studentene får en pekepinn på hva svaret
+i oppgaven skal bli. Samtidig gjør det oppgaven vanskeligere, fordi det krever at de både må bruke biologi- og programmeringskunnskaper. Bruk av biovitenskapelige oppgaver fører også til at programmeringen blir mer interessant for de fleste studentene.
+Til sist har jeg sett på hvordan studentene arbeider i BIOS1100. Her har jeg sett at de nesten ikke arbeider med programmering på egenhånd, men at de jobber mest i grupper. Dette skyldes at det er vanskelig å programmere på egenhånd og jeg anser det derfor som viktig å tilrettelegge for mer individuelt arbeid i emnet.
+Programmering begynner å sette sitt merke på den realfaglige utdanningen. På Universitet i Oslo er programmering allerede godt etablert i mange av realfagene og nå blir det også en del av matematikk og naturfag i norsk grunn- og videregående skole. Samtidig er programmering i realfaglig utdanning et ungt fagfelt og det er lite vitenskapelig konsensus om hvordan realfaglig programmering bør undervises. Jeg har i min studie avdekket en rekke utfordringer hos studenter som programmerer i biologi. Noen er generelle for programmering, mens andre kan relateres til det biologifaglige. Mange av utfordringene ser ut til å være en konsekvens av studentenes mangelfulle programmerings- og problemløsningsstrategier. Dette er viktige funn fordi vi som lærere og professorer må ta hensyn til studentenes forutsetninger og utfordringer når vi utdanner dem i programmering.
