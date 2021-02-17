@@ -23,6 +23,7 @@ pub/soeknad.docx: src/soeknad.do.txt
 pub/book: src/*.do.txt
 	doconce jupyterbook src/main \
 	--dest=${DEST} --dest_toc=${DEST} \
+	--allow_refs_to_external_docs \
 	--show_titles sep=section && \
 	cat book/01_main.md | python scripts/fix_landing.py > book/01_main.md.new && \
 	mv book/01_main.md.new book/01_main.md

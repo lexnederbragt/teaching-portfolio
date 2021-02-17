@@ -37,8 +37,8 @@ _Introduksjon_
 
 ======= Litteraturliste =======
 
-% if FORMAT != "pandoc":
+##% if FORMAT != "pandoc":
 
 BIBFILE: papers.pub
 
-% endif
+##% endif

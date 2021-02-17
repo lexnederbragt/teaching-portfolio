@@ -11,7 +11,7 @@
 * inkluder bruk av studentevalueringer
 * ha med Carpentries, TTT, og inflyttelsen!
 * min rolle i CCSE
-
+* (hvor å si dette?] programmering for fagets sjyld, ikke bare plotte data for plottets skyld
 === Student og PhD student ===
 
 Min første erfaring som underviser var da jeg var gruppelærer for et kurs i zoologi.
@@ -205,6 +205,8 @@ undervist, noe som er viktig for studentens motivasjon og læring. Problemer
 alt fra befolkningsvekst og dynamikk, arv, DNA-analyse
 og sykdomsepidemier brukes til å gradvis innføre mer komplekse
 programmering og modellering.
+
+Som beskrevet i section ref{cognitive_load}: blah.
 
 Kurset er basert på en ny lærebok skrevet av fire doktorgradsstudenter i nevrovitenskap som alle har bakgrunn innen bedriftsfysikk. Læreboka er den første som gir en introduksjon til programmering i biologisk sammenheng og er akseptert for publisering av Springer.
 

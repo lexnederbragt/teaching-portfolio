@@ -1,1 +1,2 @@
 * add word template with page numbers
+* how to remove bibliography for word output, while keeping it for jupyterbook?
