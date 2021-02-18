@@ -1,6 +1,5 @@
 # Introduksjon
 
-
-Placeholder
+Denne pedagogiske mappen har følgende struktur:
 
 

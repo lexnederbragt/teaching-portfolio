@@ -1,11 +1,5 @@
 # Bruk av forskning i undervisningen
 
-* hva vil jeg at studentene skal gjøre med forksning jeg presenterer
-* bruk av forsking: Parson's problem, peer instruction, constructive alignment, labelled subgoals
-* master prosjekter
- * transdisciplinær veiledningsteam!
-
-
 ### Bruk av resultater fra forsning om læring i undervisningen
 
 Å lære å programmere anses generelt som vanskelig
@@ -146,7 +140,7 @@ og at studenter eller har lite interesse for programmering og modellering i biol
 
 Anbefalinger for BIOS1100:
 
-På grunnlag av disse funnene forslås det å spille på relevansen for å skape større interesse for programmering og modellering i biologi. Dersom studentene ser at de kan bruke programmering inn i tema de interesserer seg for, kan dette bidra til å øke interessen for beregningsorientering i biologi.
+På grunnlag av disse funnene foreslås det å spille på relevansen for å skape større interesse for programmering og modellering i biologi. Dersom studentene ser at de kan bruke programmering inn i tema de interesserer seg for, kan dette bidra til å øke interessen for beregningsorientering i biologi.
 
 LN: covid-19 i 2020, aktualisering av problemstillingen
 

@@ -1,7 +1,5 @@
 # Min undervisningsfilosofi (Teaching Statement)
 
-FIXME fix references
-
 ### Introduction
 
 My approach to developing my teaching is based on the observation that

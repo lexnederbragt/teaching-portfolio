@@ -10,12 +10,10 @@ author: Lex Nederbragt
 execute:
   execute_notebooks: force
 
-# enable use of <img> tag, see https://jupyterbook.org/content/figures.html#
-#parse:
-#  myst_extended_syntax: true
-
-# Define the name of the latex output file for PDF builds
 latex:
+# Enable unicode æ ø å
+  latex_engine: xelatex
+# Define the name of the latex output file for PDF builds
   latex_documents:
     targetname: mappe.tex
 

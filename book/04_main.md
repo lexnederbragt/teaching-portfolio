@@ -1,15 +1,5 @@
 # Fokus på studentenes læring
 
-* hvilke pedagogiske tilnærminger bruker jeg
-* hvordan det bidrar stimulerer studentenes læring
-* koble til teaching statement, men mer konkret, eksempler
-* formativ vurdering
-* aktiv bruk av evalueringsmekanismene for å forbedre læring
-* her kommer også studentevalueringer in
-* pedagogisk opplæaring gruppelærere
-* Bruk av samkoding
-* hvordan aktiviserer jeg studentene? studentaktive undervisningsformer
-
 ### Baklengsdesign og samstemt undervisning
 
 Samstemt undervisning oppnås på flere måter

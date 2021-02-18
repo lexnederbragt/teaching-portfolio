@@ -1,25 +1,5 @@
 # Dokumentasjon (Vedlegg)
 
-FIXME oversett til norsk
-
-* ha med utviklingsnotat fellesdelen
-* ha med ten quick tips?
-* jupyter canvas projsekt
-* 'emneplaner' jeg har utviklet
-* sluttraportene BIOS1100
-* lenke til AMBP
-* digitale læringsressurser?
-* MNT 2019
-* lenke til BIOS1100 canvas sidene for alle år
-* mine blog posts?
-* github.uio.no sider for gruppelræere
-* nominert for årets underviser av MN
-* kan jeg si nominert av noen studenter for IVB pris?
-* ha med sensurarbeid som jeg gjorde for NBMU (Jon Olav Vik)
-* ha med all veiledning jeg har gjort?
-* ha med besøk ministeren, ALC rom
-* ha med utkast til Junes artikkel?
-
 ### Universitetsundervisning
 
 * flytt til utvikling.do.txt

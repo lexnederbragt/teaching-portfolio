@@ -1,20 +1,5 @@
 # Kollegialt samarbeid om utvikling av undervisning
 
-* min rolle i programrevisjon biovitenskap 2017-
-* min rolle i CCSE
-* ha med Onboarding/offboarding lært fra carpentries (for gruppelærere)
-
-(forskning og undervisning som fellesskapsaktivitet)
-
-* Gruppelæreropplæring
-* emneansvarlig er en slags teamleder
-    * noen er til og med ansatt for å jobbe med deg
-
-* UnderVerk
-* presentasjoner i CCSE sammenheng
-* MNT bidrag
-* ta grep når gruppelærere ikke fungerer så godt
-
 ### Underverk
 
 I 2019 tok kollega Tone Gregers ved IBV initiativ til UndervisningVerksted ved IBV,
