@@ -1,2 +1,3 @@
 * add word template with page numbers
+* footnotes in jupyterbook have same formatting as citations.
 * how to remove bibliography created by DocOnce for word output, while keeping it for jupyterbook?
