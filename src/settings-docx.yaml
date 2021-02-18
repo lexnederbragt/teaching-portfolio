@@ -1,0 +1,4 @@
+---
+# ensure citations are hyperinked to the bibliography entry
+link-citations: true
+---

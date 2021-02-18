@@ -11,10 +11,10 @@ src/papers.bib : src/papers.pub
 
 pub/mappe.docx: src/*.do.txt src/papers.bib
 	doconce format pandoc src/main && \
-	pandoc -t docx -o $@ --toc --toc-depth=2 -s \
+	pandoc src/main.md src/settings-docx.yaml \
+	-t docx -o $@ --toc --toc-depth=2 -s \
 	--citeproc --csl src/plos-computational-biology.csl \
     --bibliography src/papers.bib \
-	src/main.md
 
 pub/soeknad.docx: src/soeknad.do.txt
 	doconce format pandoc src/soeknad && \
