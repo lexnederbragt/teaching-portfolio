@@ -9,8 +9,10 @@ book: pub/book
 src/papers.bib : src/papers.pub
 	cd src && publish export papers.bib
 
-pub/mappe.docx: src/*.do.txt src/papers.bib
-	doconce format pandoc src/main && \
+src/main.md: src/*.do.txt src/papers.bib
+	doconce format pandoc src/main
+
+pub/mappe.docx: src/main.md
 	pandoc src/main.md src/settings-docx.yaml \
 	-t docx -o $@ --toc --toc-depth=2 -s \
 	--citeproc --csl src/plos-computational-biology.csl \
