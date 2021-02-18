@@ -7,3 +7,5 @@ tmp_*.do.txt
 *.dlog
 *.md
 .DS_Store
+
+vedlegg/

@@ -55,3 +55,10 @@ at vi bør unngå å regne på renter, men heller studere eksponensiell bakterie
 Koblinger med BIOS1110.
 
 ===== Evaluering og systematisk utvikling av undervisningen =====
+
+# #ifdef NOTES
+* felles studentrepresentanter med BIOS1110
+* studentevalueringer
+* evalueringer med gruppelærere
+* 'tilbakemeldinger' fra lektorstudenter som tar undervisningsrettet master
+# #endif
