@@ -1,8 +1,3 @@
-<%doc>
-This is Mako comment block
-to test the use of Mako as preprocessor.
-</%doc>
-
 % if FORMAT == "pandoc":
 TOC: on
 % endif

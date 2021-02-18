@@ -1,5 +1,8 @@
 
+# #ifdef NOTES
+
 FIXME fix references
+# #endif
 
 ===== Introduction =====
 

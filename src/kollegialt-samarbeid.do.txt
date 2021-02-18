@@ -1,3 +1,4 @@
+# #ifdef NOTES
 
 ## Søkeren har samarbeidet med kolleger, studenter,
 ## ledelse og andre om undervisningsutvikling/studiekvalitetsarbeid,
@@ -18,6 +19,7 @@
 * MNT bidrag
 * ta grep når gruppelærere ikke fungerer så godt
 
+# #endif
 
 ===== Underverk =====
 

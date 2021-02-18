@@ -1,9 +1,12 @@
 ===== Begynnelsen =====
 
-## Søkeren har bygget opp solid kompetanse på undervisning og studentenes læring,
-## har tatt ansvar for utdanningskvalitet,
-## og har arbeidet systematisk med å utvikle undervisning og utdanningskvalitet.
+# #ifdef NOTES
 
+* Søkeren har bygget opp solid kompetanse på undervisning og studentenes læring,
+* har tatt ansvar for utdanningskvalitet,
+* og har arbeidet systematisk med å utvikle undervisning og utdanningskvalitet.
+
+---
 
 * Mine erfaringer
 * refkleksjoner rundt det
@@ -12,6 +15,9 @@
 * ha med Carpentries, TTT, og inflyttelsen!
 * min rolle i CCSE
 * (hvor å si dette?] programmering for fagets sjyld, ikke bare plotte data for plottets skyld
+
+# #endif
+
 === Student og PhD student ===
 
 Min første erfaring som underviser var da jeg var gruppelærer for et kurs i zoologi.
