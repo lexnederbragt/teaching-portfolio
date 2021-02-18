@@ -4,7 +4,7 @@ DEST=/Users/alexajo/github/teaching-portfolio/book
 
 all: pub/mappe.docx pub/soeknad.docx
 
-book: pub/book
+book: build
 
 src/papers.bib : src/papers.pub
 	cd src && publish export papers.bib
@@ -26,11 +26,10 @@ pub/book: src/*.do.txt
 	doconce jupyterbook src/main \
 	--dest=${DEST} --dest_toc=${DEST} \
 	--allow_refs_to_external_docs \
-	--show_titles sep=section && \
-	cat book/01_main.md | python scripts/fix_landing.py > book/01_main.md.new && \
-	mv book/01_main.md.new book/01_main.md
+	--titles=titles.txt \
+	--show_titles sep=section
 
-build: book book/*.md
+build: pub/book book/*.md
 	jupyter-book build book --all
 
 clean:

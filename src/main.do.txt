@@ -2,7 +2,7 @@
 TOC: on
 % endif
 
-_Introduksjon_
+======= Introduksjon =======
 
 # #include "introduksjon.do.txt"
 
