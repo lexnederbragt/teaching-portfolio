@@ -22,8 +22,6 @@ Erasmus ICP course Marine Cell Biology (Observatoire Oceanologique, Banyuls-sur-
 
 #### Workshops
 
-FIME - og kopier til /Users/alexajo/current/CV/to_add.md (!)
-
 2011
 NSC course: High Through-put Sequencing: technology basics, applications and bioinformatic analysis (Oct. 25-27 2011)
 Course webpage: <https://www.sequencing.uio.no/events/2011/nsc_course_2011.html>
@@ -55,7 +53,6 @@ I gave a session on Interactive learning techniques, recording: <https://www.you
 ### Liste over vedlegg
 
 * SWC, DC certificates
-* utviklingsarbeid /Volumes/GoogleDrive/My\ Drive/archive/uniped/Fellesdelen_V2014
 * sluttrapporter BIOS1100 2017-2020
 
 

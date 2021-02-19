@@ -39,12 +39,10 @@ information present in long-term memory. It is said that learning
 happens if this new information is transferred to long-term memory.
 While long-term memory can contain vast amounts of information, working
 memory is considered small, and has a capacity of about "seven plus or
-minus two" pieces of information <a href="08_main.html#miller_1956">[1]</a>.
+minus two" pieces of information <a href="08_main.html#miller1956magical">[1]</a>.
 Cognitive load theory is "a set of learning principles that deals with the optimal
-usage of the working memory" [(Caspersen and Bennedsen,
-2007)](https://www.zotero.org/google-docs/?XtsuNg). This theory, as
-defined in a recent review on the subject [(Sweller et al.,
-2019)](https://www.zotero.org/google-docs/?VMxIhb), "aims to explain how
+usage of the working memory" <a href="08_main.html#caspersen2007Instructional">[2]</a>. This theory, as
+defined in a recent review on the subject <a href="08_main.html#sweller2019Cognitive">[3]</a>, "aims to explain how
 the information processing load induced by learning tasks can affect
 students' ability to process new information and to construct knowledge
 in long-term memory". The theory argues that the limited capacity of
@@ -60,8 +58,9 @@ account.
 
 Learning how to program is an important part of the teaching in
 BIOS1100. Learning to program is generally considered difficult
-[(Guzdial, 2015; Jenkins, 2002; Robins et al.,
-2003)](https://www.zotero.org/google-docs/?OjF63O). Reducing cognitive
+<a href="08_main.html#jenkins2002difficulty">[4]</a> <a href="08_main.html#robins2003Learning">[5]</a>
+<a href="08_main.html#guzdial2015LearnerCentered">[6]</a>.
+Reducing cognitive
 load for students then becomes an important goal. I have always felt
 students can not learn programming from looking at a slide presentation
 of programming concepts, and then asking them to start programming
@@ -72,8 +71,7 @@ students would be required to retrieve the factual knowledge presented
 during lecture and apply it to solve complex problems without any
 guidance on how to approach the problem. There is thus a need for
 alternative ways of teaching the fundamental building blocks of a
-programming language. One that is more based on Guided Instruction
-[(Fisher and Frey, 2013)](https://www.zotero.org/google-docs/?dw50Jz).
+programming language. One that is more based on Guided Instruction <a href="08_main.html#fisher2013Better">[7]</a>.
 
 My main technique for reducing cognitive load when learning programming
 is called Participatory Live Coding.
@@ -83,8 +81,8 @@ is called Participatory Live Coding.
 Participatory live coding is a guided instructional technique "in which
 a teacher or instructor writes and narrates code out loud as they teach
 and invites learners to join them by writing and executing the same
-code" [(Nederbragt et al.,
-2020)](https://www.zotero.org/google-docs/?NDSa2v). The instructor reads
+code" <a href="08_main.html#nederbragt2020Ten">[8]</a>.
+The instructor reads
 what is being typed out loud, explaining the different elements and
 principles. Teacher and students all execute the commands or program,
 leading to an immediate evaluation of the results - hence the term
@@ -135,8 +133,9 @@ researchers the computing skills they need to get more done in less time
 and with less pain" and is mostly aimed at researchers at the PhD and
 postdoc level. Participatory live coding is the main method of teaching
 in the two-day workshops, and it is part of the training and assessment
-for becoming a certified instructor [(Wilson,
-2019)](https://www.zotero.org/google-docs/?qilqqq)
+for becoming a certified instructor
+
+[Fixme 1: ref TTT material? erinalisonbecker2019carpentries]
 
 In BIOS1100, I thus offered sessions re-teaching the Python material
 with Participatory Live Coding, with the effect that many students
@@ -155,11 +154,11 @@ to be able to teach using this technique. One of the things taught
 during Instructor Training workshops for The Carpentries is
 Participatory Live Coding. I am a certified Instructor Trainer for The
 Carpentries, meaning I already had taught Participatory Live Coding to
-incoming instructors. I reused the material developed by The Carpentries
-[(Erin Alison Becker et al.,
-2019)](https://www.zotero.org/google-docs/?1KrEqk) to train enough
-Teaching Assistants so that they could teach Python using PLC during the
-group sessions.
+incoming instructors.
+I reused the material developed by The Carpentries
+<a href="08_main.html#erinalisonbecker2019carpentries">[9]</a>
+to train enough Teaching Assistants so that they could teach Python
+using PLC during the group sessions.
 
 The results were that students in 2018 had a much greater confidence in
 Python programming. To start learning programming using Live Coding
@@ -171,8 +170,7 @@ sometimes all of the 4 hour group sessions were used doing Live Coding
 with the students. Too little time was left for students working on
 their own with exercises. A master student who studied the BIOS1100
 students for his project that year concluded that students lacked good
-problem solving skills because of this [(Håland,
-2019)](https://www.zotero.org/google-docs/?sHmFMo).
+problem solving skills because of this <a href="08_main.html#haland2019Programmering">[10]</a>.
 
 In other words, while in 2017, we did not help students enough with
 learning programming, in 2018 we helped them too much and did not
@@ -185,9 +183,8 @@ by Teaching Assistants were limited to the first two hours, which left
 two hours for students working on their own solving problems. During the
 first two hours, some Live Coding was done to further explain concepts,
 or for so-called worked examples. Worked examples "provide a full
-problem solution that learners must carefully study" [(Sweller et al.,
-2019)](https://www.zotero.org/google-docs/?Etqt1z), and are another
-technique for reducing cognitive load.
+problem solution that learners must carefully study" <a href="08_main.html#sweller2019Cognitive">[3]</a>,
+and are another technique for reducing cognitive load.
 
 Participatory Live Coding was what made introducing Python programming
 to new Bioscience students possible. I believe this technique can be
@@ -218,8 +215,8 @@ wrong, but rather be indicative of possible misconceptions.
 
 **Formative assessment combined with Peer Instruction**
 
-Originally created by Eric Mazur at Harvard [(Mazur,
-1997)](https://www.zotero.org/google-docs/?vCsJAA), Peer Instruction is
+Originally created by Eric Mazur at Harvard <a href="08_main.html#mazur1997Peer">[11]</a>,
+Peer Instruction is
 an evidence-based method where students are actively discussing the
 material amongst themselves based on prompts provided by the teacher. By
 asking students to reflect on course material together in their own
@@ -242,8 +239,7 @@ desired, the teacher can go over the different answers and explain how
 they are right or wrong.
 
 Peer instruction has also been studied in the context of programming,
-with positive results on student learning [(Crouch and Mazur, 2001;
-Porter et al., 2013, 2016)](https://www.zotero.org/google-docs/?vC9WNx).
+with positive results on student learning <a href="08_main.html#crouch2001Peer">[12]</a>.
 
 #### What does this mean for BIOS1100?
 
@@ -361,22 +357,18 @@ essential for improving the course.
 #### Theoretical background
 
 Constructive Alignment is concerned with aligning the learning
-activities with the intended learning outcomes. Following Biggs
-[(2012)](https://www.zotero.org/google-docs/?jWdTHb), we start with
-determining:
+activities with the intended learning outcomes.
+Following Biggs <a href="08_main.html#biggs2012What">[13]</a>, we start with determining:
 
 1)  What are the desired learning outcomes, these are the objectives
-
 2)  How to measure whether desired learning has been achieved, assessment
-
 3)  What (teaching and learning) activities can we use that engage
     students in a way that leads to learning
 
 Biggs calls this Constructive Alignment, which is an aligned system of
 instruction where "the objectives define what we should be teaching; how
 we should be teaching it; and how we could know how well students have
-learned it" [(Biggs, 2012; Biggs and Tang,
-2011)](https://www.zotero.org/google-docs/?cBFxN3).
+learned it" <a href="08_main.html#biggs2011Teaching">[14]</a>.
 
 #### What does this mean for BIOS1100?
 

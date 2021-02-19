@@ -133,19 +133,12 @@ Våren 2014 tok jeg fellesdelen av Universitetspedagogisk Basiskompetanse.
 Jeg skrev et utviklingsarbeid om hvordan å øke studentdeltakelse
 i undervisningen i INF-BIOS5121/9121 kurset.
 Dette fikk jeg gode tilbakemeldinger på.
-* hvordan gikk det da?
-* /Volumes/GoogleDrive/My\ Drive/archive/uniped/Fellesdelen_V2014
-
 Siden jeg var ansatt i en 20% 1. amanuensis II stilling trengte jeg ikke
 å gjenomføre hele opplegget og jeg valgte da bort kollegaveiledningen.
-
-* er Carpentries versus SWC godt nok forklart?
 
 Jeg fortsatte å involvere meg i The Carpentries.
 Vi fikk til et samarbeid med realfagsbiblioteket ved UiO.
 dette førte til at vi kunne tilby flere workshops.
-* mer? fjerne?
-
 I 2016 ble jeg instruktør trener for the Carpentries.
 Dette innbærer at jeg kan lære opp nye instruktører.
 Til det har The Carpentries utviklet et instruktør trenings
@@ -153,9 +146,6 @@ Til det har The Carpentries utviklet et instruktør trenings
 som er forankret i noen elementære pedagogiske forskning (pedagogisk psykologi)
 rundt hvordan vi lærer.
 Sentrale begreper er motivasjon, kognitiv last, novise-ekspert, mentale modeller, tilbakemelding og summativ versus formativ vurdering.
-
-* inflyttelsen av Carpentries instruktør trening/instruktør-trener
-* på min undervisning
 
 ### 2017-2020: BIOS1100
 
@@ -187,8 +177,6 @@ Nedenfor beskriver jeg denne utviklingen i kort trekk.
 
 #### Om BIOS1100
 
-* FIXME
-
 BIOS1100 tar sikte på å undervise i enkel (matematisk) modellering, implementering
 disse modellene bruker programmeringsspråket Python, mens det hele tiden
 fokusere på problemer som er relevante for studenter i biovitenskap. Fokuset på
@@ -207,7 +195,6 @@ Kurset ble undervist av Lex Nederbragt ved hjelp av nye, studentaktive metoder i
 * fra og med 2019 to timers ikke obligatorisk samkodingstimer
 * obligatoriske innleveringer
 * fire timers avsluttende digital eksamen
-* bruk til noe
 
 Det var en stor glede å kunne undervise begynner Python til førsteårsstudenter.
 Mye av det planlagte opplegget fungerte veldig godt og mange av valgene
@@ -327,8 +314,6 @@ Konklusjonen er at vi har funnet ‘formen’ for undervisningen i BIOS1100, med
 2019Oppgaver for både obligatoriske innleveringer og slutteksamen hadde større fokus på å løse biologiske problemer med hjelp av modellering og programmering, og det var (mye) mindre oppgaver for å bare teste forståelse av programmeringskonsepter, noe som var en stor del av den summative vurderingen i 2017 og 2018
 
 #### Programmering
-
-* while løkker før for løkker og numpy arrays mye senere enn lister
 
 2018
 ● Rekkefølge i programmeringsundervisningen ble tilpasset etter erfaringer fra 2017:

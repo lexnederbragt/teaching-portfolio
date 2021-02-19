@@ -3,10 +3,11 @@
 ### Bruk av resultater fra forsning om læring i undervisningen
 
 Å lære å programmere anses generelt som vanskelig
-<a href="08_main.html#guzdial_2015">[2]</a> <a href="08_main.html#jenkins_2002">[3]</a> <a href="08_main.html#robins_et_al_2003">[4]</a>.
+<a href="08_main.html#jenkins2002difficulty">[4]</a> <a href="08_main.html#robins2003Learning">[5]</a>
+<a href="08_main.html#guzdial2015LearnerCentered">[6]</a>.
 For et motargument
 (og et utmerket sammendrag av forskningen som støtter denne posisjonen),
-se imidlertid <a href="08_main.html#luxton_reilly_2016">[5]</a>.
+se imidlertid <a href="08_main.html#luxton-reilly2016Learning">[15]</a>.
 Å lære et programmeringsspråk er litt som å lære et nytt skriftspråk:
 man må ikke bare lære seg syntaksen,
 men også hvordan man kombinerer ord for å gi meningsfulle setninger (‘grammatikken’).
@@ -35,7 +36,7 @@ Kognitiv belastningsteori er
 
 
 
-Denne teorien, som definert i en nylig review av emnet <a href="08_main.html#sweller_et_al_2019">[6]</a>,
+Denne teorien, som definert i en nylig review av emnet <a href="08_main.html#sweller2019Cognitive">[3]</a>,
 "aims to explain how the information processing load induced by learning tasks can affect students’ ability to process new information and to construct knowledge in long-term memory"
 Teorien hevder at den begrensede kapasiteten til arbeidsminnet
 begrenser sterkt hvor mye ny informasjon som kan behandles til enhver tid.
@@ -56,7 +57,7 @@ for mine studenter når de lærer seg programmering i BIOS1100.
 **Worked examples**
 
 "Worked examples provide a full problem solution that learners must carefully study"
-<a href="08_main.html#sweller_et_al_2019">[6]</a>.
+<a href="08_main.html#sweller2019Cognitive">[3]</a>.
 Worked examples kan betraktes som en form for læring fra eksempler.
 Når løsningen på et problem er utarbeidet ved demonstrasjon,
 blir studentene bedt om å løse lignende problemer selv.
