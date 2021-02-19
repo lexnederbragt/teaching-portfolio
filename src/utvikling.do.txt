@@ -14,7 +14,7 @@
 * inkluder bruk av studentevalueringer
 * ha med Carpentries, TTT, og inflyttelsen!
 * min rolle i CCSE
-* (hvor å si dette?] programmering for fagets sjyld, ikke bare plotte data for plottets skyld
+* (hvor å si dette?] programmering for fagets skyld, ikke bare plotte data for plottets skyld
 
 # #endif
 
