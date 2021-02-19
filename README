@@ -1,13 +1,5 @@
-DEST=/Users/alexajo/github/teaching-portfolio/book
-mkdir -p $DEST
-doconce jupyterbook main.do.txt --show_titles --sep=section --dest=$DEST --dest_toc=$DEST --skip_inline_comments
+# Pedagogisk Mappe (Teaching Portfolio) Lex Nederbragt
 
-jupyter-book build book
+Work in progress winter/spring 2021
 
-ghp-import -n -p -f docs/_build/html/
-
-# references
-# export pedagogisk_mappe from Zotero (to Downloads folder)
-doconce fix_bibtex4publish ~/Downloads/pedagogisk_mappe.bib
-# next step may require manual intervention
-cd src && publish import ~/Downloads/pedagogisk_mappe.bib
+The current version of the portfolio is the file `pub/book`

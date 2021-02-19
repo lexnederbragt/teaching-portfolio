@@ -28,7 +28,7 @@ pub/mappe.docx: src/main.md
 	pandoc src/main.md src/settings-docx.yaml \
 	-t docx -o $@ --toc --toc-depth=2 -s \
 	--citeproc --csl src/plos-computational-biology.csl \
-    --bibliography src/papers.bib \
+    --bibliography src/papers.bib
 
 # DocOnce export for Jupyterbook
 pub/book: src/*.do.txt
