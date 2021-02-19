@@ -1,7 +1,7 @@
 * add word template with page numbers
 * footnotes in jupyterbook have same formatting as citations.
 * how to remove bibliography created by DocOnce for word output, while keeping it for jupyterbook?
-
+* fix missing URLs in bibliography
 * produce a bookPDF; so far works but citations become [?]
 ```
 cd src && \

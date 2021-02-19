@@ -15,10 +15,11 @@
 ===== Bruk av resultater fra forsning om læring i undervisningen =====
 
 Å lære å programmere anses generelt som vanskelig
-cite{guzdial_2015} cite{jenkins_2002} cite{robins_et_al_2003}.
+cite{jenkins2002difficulty} cite{robins2003Learning}
+cite{guzdial2015LearnerCentered}.
 For et motargument
 (og et utmerket sammendrag av forskningen som støtter denne posisjonen),
-se imidlertid cite{luxton_reilly_2016}.
+se imidlertid cite{luxton-reilly2016Learning}.
 Å lære et programmeringsspråk er litt som å lære et nytt skriftspråk:
 man må ikke bare lære seg syntaksen,
 men også hvordan man kombinerer ord for å gi meningsfulle setninger (‘grammatikken’).
@@ -48,7 +49,7 @@ Kognitiv belastningsteori er
 A set of learning principles that deals with the optimal usage of the working memory -- Caspersen and Bennedsen, 2007
 !equote
 
-Denne teorien, som definert i en nylig review av emnet cite{sweller_et_al_2019},
+Denne teorien, som definert i en nylig review av emnet cite{sweller2019Cognitive},
 "aims to explain how the information processing load induced by learning tasks can affect students’ ability to process new information and to construct knowledge in long-term memory"
 Teorien hevder at den begrensede kapasiteten til arbeidsminnet
 begrenser sterkt hvor mye ny informasjon som kan behandles til enhver tid.
@@ -69,7 +70,7 @@ for mine studenter når de lærer seg programmering i BIOS1100.
 _Worked examples_
 
 "Worked examples provide a full problem solution that learners must carefully study"
-cite{sweller_et_al_2019}.
+cite{sweller2019Cognitive}.
 Worked examples kan betraktes som en form for læring fra eksempler.
 Når løsningen på et problem er utarbeidet ved demonstrasjon,
 blir studentene bedt om å løse lignende problemer selv.

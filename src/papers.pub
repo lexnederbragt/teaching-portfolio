@@ -1,25 +1,6 @@
 * articles
-** Good Enough Practices in Scientific Computing
-   key:       wilson_good_2017
-   author:    Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal
-   year:      2017
-   journal:   PLOS Computational Biology
-   volume:    13
-   number:    6
-   pages:     e1005510
-   doi:       10.1371/journal.pcbi.1005510
-   pdf:       missing
-   url:       http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510
-   status:    published
-   abstract:  Author summary Computers are now essential in all branches of science, but most researchers are never taught the equivalent of basic lab skills for research computing. As a result, data can get lost, analyses can take much longer than necessary, and researchers are limited in how effectively they can work with software and data. Computing workflows need to follow the same practices as lab projects and notebooks, with organized data, documented steps, and the project structured for reproducibility, but researchers new to computing often don't know where to start. This paper presents a set of good computing practices that every researcher can adopt, regardless of their current level of computational skill. These practices, which encompass data management, programming, collaborating with colleagues, organizing projects, tracking work, and writing manuscripts, are drawn from a wide variety of published sources from our daily lives and from our work with volunteer organizations that have delivered workshops to over 11,000 people since 2010.
-   entrytype: article
-   file:      Full Text PDF:/Users/alexajo/Zotero/storage/764KVKF7/Wilson et al. - 2017 - Good enough practices in scientific computing.pdf:application/pdf;Snapshot:/Users/alexajo/Zotero/storage/CHNZU8NT/article.html:text/html
-   issn:      1553-7358
-   keywords:  Computer software, Control systems, Data management, Data processing, Programming languages, Reproducibility, Software tools, Source code
-   month:     jun
-   urldate:   2017-06-22
 ** What the Student Does: Teaching for Enhanced Learning
-   key:        biggs_2012
+   key:        biggs2012What
    author:     John Biggs
    year:       2012
    journal:    Higher Education Research \& Development
@@ -28,7 +9,6 @@
    number:     1
    pages:      39--55
    doi:        10.1080/07294360.2012.642839
-   pdf:        missing
    status:     published
    abstract:   Many teachers see major difficulties in maintaining academic standards in today's larger and more diversified classes. The problem becomes more tractable if learning outcomes are seen as more a function of students' activities than of their fixed characteristics. The teacher's job is then to organise the teaching/learning context so that all students are more likely to use the higher order learning processes which ``academic'' students use spontaneously. This may be achieved when all components are aligned, so that objectives express the kinds of understanding that we want from students, the teaching context encourages students to undertake the learning activities likely to achieve those understandings, and the assessment tasks tell students what activities are required of them, and tell us how well the objectives have been met. Two examples of aligned teaching systems are described: problem-based learning and the learning portfolio.
    annotation: \_eprint: https://doi.org/10.1080/07294360.2012.642839
@@ -36,8 +16,22 @@
    issn:       0729-4360
    month:      feb
    shorttitle: What the Student Does
+** Peer {{Instruction}}: {{Ten}} Years of Experience and Results
+   key:        crouch2001Peer
+   author:     Catherine H. Crouch, Eric Mazur
+   year:       2001
+   journal:    American Journal of Physics
+   volume:     69
+   number:     9
+   pages:      970--977
+   doi:        10.1119/1.1374249
+   status:     published
+   entrytype:  article
+   issn:       0002-9505
+   month:      aug
+   shorttitle: Peer {{Instruction}}
 ** The Magical Number Seven, Plus Or Minus Two: Some Limits on Our Capacity for Processing Information.
-   key:       miller_1956
+   key:       miller1956magical
    author:    George A. Miller
    year:      1956
    journal:   Psychological Review
@@ -46,7 +40,6 @@
    number:    2
    pages:     81--97
    doi:       10.1037/h0043158
-   pdf:       missing
    status:    published
    abstract:  A variety of researches are examined from the standpoint of information theory. It is shown that the unaided observer is severely limited in terms of the amount of information he can receive, process, and remember. However, it is shown that by the use of various techniques, e.g., use of several stimulus dimensions, recoding, and various mnemonic devices, this informational bottleneck can be broken. 20 references. (PsycINFO Database Record (c) 2016 APA, all rights reserved)
    address:   {US}
@@ -54,7 +47,7 @@
    issn:      1939-1471(Electronic),0033-295X(Print)
    keywords:  *Cognitive Processes,Information Theory
 ** Ten Quick Tips for Teaching With Participatory Live Coding
-   key:       nederbragt_et_al_2020
+   key:       nederbragt2020Ten
    author:    Alexander Nederbragt, Rayna Michelle Harris, Alison Presmanes Hill, Greg Wilson
    year:      2020
    journal:   PLOS Computational Biology
@@ -63,39 +56,21 @@
    number:    9
    pages:     e1008090
    doi:       10.1371/journal.pcbi.1008090
-   pdf:       missing
    status:    published
    entrytype: article
    issn:      1553-7358
    keywords:  Computer software,Eyes,Human learning,Instructors,Learning,Personal computers,Textbooks,Workshops
    language:  en
    month:     sep
-** Success in Introductory Programming: What Works?
-   key:        porter_et_al_2013
-   author:     Leo Porter, Mark Guzdial, Charlie McDowell, Beth Simon
-   year:       2013
-   journal:    Communications of the ACM
-   volume:     56
-   number:     8
-   pages:      34--36
-   doi:        10.1145/2492007.2492020
-   pdf:        missing
-   status:     published
-   abstract:   How pair programming, peer instruction, and media computation have improved computer science education.
-   entrytype:  article
-   issn:       0001-0782
-   month:      aug
-   shorttitle: Success in Introductory Programming
 ** Learning and {{Teaching Programming}}: {{A Review}} and {{Discussion}}
-   key:        robins_et_al_2003
+   key:        robins2003Learning
    author:     Anthony Robins, Janet Rountree, Nathan Rountree
    year:       2003
-   journal:    Computer Communications
+   journal:    Computer Science Education
    volume:     13
    number:     2
    pages:      137--172
    doi:        10.1076/csed.13.2.137.14200
-   pdf:        missing
    status:     published
    abstract:   In this paper we review the literature relating to the psychological/educational study of programming. We identify general trends comparing novice and expert programmers, programming knowledge and strategies, program generation and comprehension, and object-oriented versus procedural programming. (We do not cover research relating specifically to other programming styles.) The main focus of the review is on novice programming and topics relating to novice teaching and learning. Various problems experienced by novices are identified, including issues relating to basic program design, to algorithmic complexity in certain language features, to the ``fragility'' of novice knowledge, and so on. We summarise this material and suggest some practical implications for teachers. We suggest that a key issue that emerges is the distinction between effective and ineffective novices. What characterises effective novices? Is it possible to identify the specific deficits of ineffective novices and help them to become effective learners of programming?
    entrytype:  article
@@ -103,12 +78,11 @@
    month:      jun
    shorttitle: Learning and {{Teaching Programming}}
 ** Cognitive {{Architecture}} and {{Instructional Design}}: 20~{{Years Later}}
-   key:        sweller_et_al_2019
-   author:     John Sweller, Jeroen J. G. van Merri{\"e}nboer, Fred Paas
+   key:        sweller2019Cognitive
+   author:     John Sweller, Jeroen J. G. {van Merri{\"e}nboer}, Fred Paas
    year:       2019
    journal:    Educational Psychology Review
    doi:        10.1007/s10648-019-09465-5
-   pdf:        missing
    status:     published
    abstract:   Cognitive load theory was introduced in the 1980s as an instructional design theory based on several uncontroversial aspects of human cognitive architecture. Our knowledge of many of the characteristics of working memory, long-term memory and the relations between them had been well-established for many decades prior to the introduction of the theory. Curiously, this knowledge had had a limited impact on the field of instructional design with most instructional design recommendations proceeding as though working memory and long-term memory did not exist. In contrast, cognitive load theory emphasised that all novel information first is processed by a capacity and duration limited working memory and then stored in an unlimited long-term memory for later use. Once information is stored in long-term memory, the capacity and duration limits of working memory disappear transforming our ability to function. By the late 1990s, sufficient data had been collected using the theory to warrant an extended analysis resulting in the publication of Sweller et al. (Educational Psychology Review, 10, 251\textendash 296, 1998). Extensive further theoretical and empirical work have been carried out since that time and this paper is an attempt to summarise the last 20 years of cognitive load theory and to sketch directions for future research.
    entrytype:  article
@@ -119,11 +93,10 @@
    shorttitle: Cognitive {{Architecture}} and {{Instructional Design}}
 * books
 ** Teaching for Quality Learning at University: What the Student Does
-   key:        biggs_et_al_2011
+   key:        biggs2011Teaching
    author:     John B. Biggs, Catherine So-kum Tang
    year:       2011
    publisher:  {McGraw-Hill/Society for Research into Higher Education ; Open University Press}
-   pdf:        missing
    status:     published
    abstract:   This best-selling book explains the concept of constructive alignment in education and aids implementation of this in teaching practice.
    address:    {Philadelphia, Pa.]; Maidenhead, Berkshire, England; New York}
@@ -133,11 +106,10 @@
    language:   English
    shorttitle: Teaching for Quality Learning at University
 ** Better {{Learning Through Structured Teaching}}: {{A Framework}} for the {{Gradual Release}} of {{Responsibility}}
-   key:         fisher_Frey_2013
+   key:         fisher2013Better
    author:      Douglas Fisher, Nancy Frey
    year:        2013
    publisher:   {ASCD}
-   pdf:         missing
    status:      published
    abstract:    In this updated 2nd edition of the ASCD best-seller, Douglas Fisher and Nancy Frey dig deeper into the hows and whys of the gradual release of responsibility instructional framework. To gradually release responsibility is to equip students with what they need to be engaged and self-directed learners. On a day-to-day level, it means delivering lessons purposefully planned to incorporate four essential and interrelated instructional phases: 1. Focused Instruction: Preparing students for learning by establishing lesson purpose, modeling strategies and skills, thinking aloud, and noticing how students respond. 2. Guided Instruction: Strategically using prompts, cues, and questions to lead students to new understanding. 3. Collaborative Learning: Allowing students to consolidate their understanding through exploration, problem-solving, discussion, and thinking with their peers. 4. Independent Learning: Requiring students to use the skills and knowledge they've acquired to create authentic products and ask new questions. The authors explore each phase, using real-life examples from a variety of disciplines. You'll find tips and tools for classroom implementation, including checklists for planning and assessment; advice on feedback, homework, group work, differentiated instruction, and blended learning; answers to frequently asked questions; and examples that align to Common Core State Standards. No matter what grade level or subject you teach, Better Learning Through Structured Teaching is your essential guide to helping students expand their capacity for successful and long-lasting learning.
    entrytype:   book
@@ -147,12 +119,21 @@
    language:    en
    month:       dec
    shorttitle:  Better {{Learning Through Structured Teaching}}
+** Learner-{{Centered Design}} of {{Computing Education}}: {{Research}} on {{Computing}} for {{Everyone}}
+   key:        guzdial2015LearnerCentered
+   author:     Mark Guzdial
+   year:       2015
+   publisher:  {Morgan \& Claypool}
+   status:     published
+   entrytype:  book
+   isbn:       978-1-62705-351-8
+   month:      nov
+   shorttitle: Learner-{{Centered Design}} of {{Computing Education}}
 ** Peer Instruction: a User's Manual
-   key:        mazur_1997
+   key:        mazur1997Peer
    author:     Eric Mazur
    year:       1997
    publisher:  {Prentice Hall}
-   pdf:        missing
    status:     published
    abstract:   Mazur shows teachers how to teach students of physics that they can understand memorization as a different alternative to mathematics. He describes interactive teaching, including different types of lecturing and group study, as a method of teaching physics.
    address:    {Upper Saddle River, N.J.}
@@ -161,67 +142,41 @@
    isbn:       978-0-13-565441-5
    language:   English
    shorttitle: Peer Instruction
-** Learner-{{Centered Design}} of {{Computing Education}}: {{Research}} on {{Computing}} for {{Everyone}}
-   key:        guzdial_2015
-   author:     Mark Guzdial
-   year:       2015
-   publisher:  {Morgan \& Claypool}
-   pdf:        missing
-   status:     published
-   entrytype:  book
-   isbn:       978-1-62705-351-8
-   month:      nov
-   shorttitle: Learner-{{Centered Design}} of {{Computing Education}}
-** Teaching Tech Together: How to Make Your Lessons Work and Build a Teaching Community Around Them
-   key:        wilson_20189
-   author:     Wilson, Greg
-   year:       2019
-   publisher:  Routledge \& CRC Press
-   pdf:        missing
-   status:     published
-   abstract:   Hundreds of grassroots groups have sprung up around the world to teach programming, web design, robotics, and other skills outside traditional classrooms. These groups exist so that people don't have to learn these things on their own, but ironically, their founders and instructors are often teaching themselves how to teach. There's a better way. This book presents evidence-based practices that will help you create and deliver lessons that work and build a teaching community around them. Topics include the differences between different kinds of learners, diagnosing and correcting misunderstandings, teaching as a performance art, what motivates and demotivates adult learners, how to be a good ally, fostering a healthy community, getting the word out, and building alliances with like-minded groups. The book includes over a hundred exercises that can be done individually or in groups, over 350 references, and a glossary to help you navigate educational jargon.
-   entrytype:  book
-   isbn:       9780367352974
-   language:   English
-   shorttitle: Teaching Tech Together
 * proceedings
-** A {{Multi}}-Institutional {{Study}} of {{Peer Instruction}} in {{Introductory Computing}}
-   key:       porter_et_al_2016
-   author:    Leo Porter, Dennis Bouvier, Quintin Cutts, Scott Grissom, Cynthia Lee, Robert McCartney, Daniel Zingaro, Beth Simon
-   year:      2016
-   booktitle: Proceedings of the 47th {{ACM Technical Symposium}} on {{Computing Science Education}}
-   publisher: {Association for Computing Machinery}
-   pages:     358--363
-   doi:       10.1145/2839509.2844642
-   pdf:       missing
-   status:    published
-   abstract:  Peer Instruction (PI) is a student-centric pedagogy in which students move from the role of passive listeners to active participants in the classroom. Over the past five years, there have been a number of research articles regarding the value of PI in computer science. The present work adds to this body of knowledge by examining outcomes from seven introductory programming instructors: three novices to PI and four with a range of PI experience. Through common measurements of student perceptions, we provide evidence that introductory computing instructors can successfully implement PI in their classrooms. We find encouraging minimum (74\%) and average (92\%) levels of success as measured through student valuation of PI for their learning. This work also documents and hypothesizes reasons for comparatively poor survey results in one course, highlighting the importance of the choice of grading policy (participation vs. correctness) for new PI adopters.
-   address:   {New York, NY, USA}
-   entrytype: inproceedings
-   isbn:      978-1-4503-3685-7
-   keywords:  clickers,faculty adoption,peer instruction
-   month:     feb
-   series:    {{SIGCSE}} '16
+** Instructional {{Design}} of a {{Programming Course}}: {{A Learning Theoretic Approach}}
+   key:        caspersen2007Instructional
+   author:     Michael E. Caspersen, Jens Bennedsen
+   year:       2007
+   booktitle:  Proceedings of the {{Third International Workshop}} on {{Computing Education Research}}
+   publisher:  {ACM}
+   pages:      111--122
+   doi:        10.1145/1288580.1288595
+   status:     published
+   abstract:   We present a brief overview of a model for the human cognitive architecture and three learning theories based on this model: cognitive load theory, cognitive apprenticeship, and worked examples (a key area of cognitive skill acquisition). Based on this brief overview we argue how an introductory object-oriented programming course is designed according to results of cognitive science and educational psychology in general and cognitive load theory and cognitive skill acquisition in particular; the principal techniques applied are: worked examples, scaffolding, faded guidance, cognitive apprenticeship, and emphasis of patterns to aid schema creation and improve learning. As part of the presentation of the course, we provide a characterization of model-driven programming---the approach we have adopted in the introductory programming course. The result is an introductory programming course emphasizing a pattern-based approach to programming and schema acquisition in order to improve learning.
+   address:    {New York, NY, USA}
+   entrytype:  inproceedings
+   isbn:       978-1-59593-841-1
+   keywords:   cognition,cognitive apprenticeship,cognitive load theory,instructional design,learning,model-driven programming,object-oriented programming,patternbased approach to programming education,worked examples
+   series:     {{ICER}} '07
+   shorttitle: Instructional {{Design}} of a {{Programming Course}}
 ** On the Difficulty of Learning to Program
-   key:       jenkins_2002
+   key:       jenkins2002difficulty
    author:    Tony Jenkins
    year:      2002
    booktitle: Proceedings for the 3rd {{Annual}} Conference of the {{LTSN Centre}} for {{Information}} and {{Computer Sciences}}
    publisher: {Loughborough University}
    pages:     53--58
-   pdf:       missing
    status:    published
    abstract:  Few students find learning to program easy. This paper considers why this is so by examining what makes this most basic of skills so difficult to acquire. There are many factors at work. Some are simply inherent in the subject while others have more to do with the modus operandi of teaching departments. Others are deeply interlinked with the expectations, attitudes, and previous experiences of the teaching staff and their students. If computing educators are ever to truly develop a learning environment where all the students learn to program quickly and well, it is vital that an understanding of the difficulties and complexities faced by the students is developed. At the moment the way in which programming is taught and learned is fundamentally broken.
    entrytype: inproceedings
 ** Learning to {{Program}} Is {{Easy}}
-   key:       luxton_reilly_2016
+   key:       luxton-reilly2016Learning
    author:    Andrew {Luxton-Reilly}
    year:      2016
    booktitle: Proceedings of the 2016 {{ACM Conference}} on {{Innovation}} and {{Technology}} in {{Computer Science Education}}
    publisher: {ACM}
    pages:     284--289
    doi:       10.1145/2899415.2899432
-   pdf:       missing
    status:    published
    abstract:  The orthodox view that "programming is difficult to learn" leads to uncritical teaching practices and poor student outcomes. It may also impact negatively on diversity and equity within the Computer Science discipline. But learning to program is easy --- so easy that children can do it. We make our introductory courses difficult by establishing unrealistic expectations for novice programming students. By revisiting the expected norms for introductory programming we may be able to substantially improve outcomes for novice programmers, address negative impressions of disciplinary practices and create a more equitable environment.
    address:   {New York, NY, USA}
@@ -231,14 +186,25 @@
    series:    {{ITiCSE}} '16
 * theses
 ** {Programmering I Biovitenskapelige Problemstillinger}
-   key:        haaland_2019
+   key:        haland2019Programmering
    author:     Lars Erik Revheim H{\aa}land
    year:       2019
-   pdf:        missing
    status:     published
    abstract:   Programmering f\aa r en stadig sterkere rolle i de ulike realfagene. Dette ser vi gjennom fagfornyelsen i norsk grunn- og videreg\aa ende skole, og p\aa{} behovet i n\ae ringslivet. Universitetet i Oslo er blant de f\o rste i Norge til \aa{} innf\o re programmering som en obligatorisk del av realfagene. Siden realfaglig programmering er s\aa, er det behov for forskning p\aa{} dette feltet. I min studie har jeg fors\o kt \aa{} kartlegge hvordan biologistudenter arbeider med programmeringsoppgaver. Informantene i denne studien har v\ae rt tre grupper med studenter som tar emnet \guillemotleft Innf\o ring i beregningsorienterte modeller i biovitenskap\guillemotright{} (BIOS1100), et obligatorisk emne for alle studenter som studerer biovitenskap ved UiO. Studien har blitt gjennomf\o rt ved \aa{} bruke en kombinasjon av fokusgruppeintervju og observasjon av gruppearbeid. I tillegg har jeg anvendt et sp\o rsm\aa l i et sp\o rreskjema som ble gitt ut til alle studentene ved BIOS1100. Funnene fra denne studien viser at studentene m\o ter en rekke utfordringer n\aa r de programmerer i biovitenskapelige emner. Utfordringene er i stor grad knyttet til \aa{} lage store programmer, forst\aa{} hva som skal programmerers, bruke ulike programstrukturer og anvende matematikk. Jeg argumenterer for at mange av disse utfordringene er en konsekvens av manglende strategisk kunnskap hos studentene. I hovedsak viser studentene til to typer strategier n\aa r de programmerer; 1) bruk av eksempelprogrammer, 2) pr\o ving og feiling. Videre ser vi at biovitenskapelige problemstillinger har liten p\aa virkning p\aa{} arbeidet med \aa{} skrive programmer, men at det b\aa de kan ha positiv og negativ effekt p\aa{} studentenes ferdigheter/l\ae ring til \aa{} l\o se programmeringsoppgaver. Samtidig virker studentene \aa{} ha st\o rre interesse for programmering n\aa r de f\aa r arbeide med biovitenskapelige problemstillinger. Til slutt ser vi at studentene for det meste programmerer i grupper og at dette kan ha b\aa de positive og negative f\o lger for studentenes l\ae ring av programmering. I denne studien argumenterer jeg for at probleml\o sning b\o r vektlegges i programmeringskurs. Her kan \guillemotleft Computational thinking\guillemotright{} v\ae re en nyttig probleml\o sningsstrategi for \aa{} l\ae re studentene hvordan de bedre og mer effektivt l\o ser programmeringsoppgaver.
    annotation: Accepted: 2019-09-23T23:46:36Z
    entrytype:  phdthesis
    language:   nob
-   school:     Faculty of Mathematics and Natural Sciences, University of Oslo
+   school:     University of Oslo
    thesistype: phd
+* misc
+** Carpentries/Instructor-Training: {{The Carpentries Instructor Training June}} 2019
+   key:          erinalisonbecker2019carpentries
+   author:       Erin Alison Becker, Christina Koch, Karen Word, Rayna Michelle Harris, Maneesha Sane, Lex Nederbragt, Fran{\c c}ois Michonneau, Kari L. Jordan, Amy E. Hodge, Christopher Erdmann, Ariel Rokem, Ted Laderas, Greg Wilson, Ian Lee, Murray Cadzow, Sarah Brown, Toby Hodges, Aleksandra Nenadic, Jonah Duckles, R{\'e}mi Rampin, Tracy Teal, Katrin Leinweber, Paula Andrea Martinez, R{\'e}mi Emonet, Alexander Konovalov, Eric Jankowski, Gerard Capes, Jason Williams, Katherine Koziar, Nicol{\'a}s Palopoli, Noah Spies, Allison Weber, {amoskane}, Anita Sch{\"u}rch, AnnaWilliford, {Brian Ballsun-Stanton}, Jeffrey Oliver, Mik Black, Neil Kindlon, St{\'e}phane Guillou, Yo Yehudi, Alistair John Walsh, Andrew B. Collier, Callin Switzer, Christian Brueffer, Colin Morris, Dan Allan, DanielBrett, Danielle Quinn, Darya Vanichkina, David Jennings, {davidbenncsiro}, Evan Peter Williamson, Jason M. Gates, Joe Atzberger, John Bradley, John Pellman, Jonathan Bradley, Karen Cranston, {Kees den Heijer}, Laurence, {Marie-Helene Burle}, Mike Henry, {naught101}, Neal Davis, Nicholas Tierney, Petraea, Sarah M. Brown, Sarah Stevens, {satya-vinay}, Sean, Serah Anne Njambi Kiburu, Stefan Helfrich, Steve Moss, Tiago M. D. Pereira
+   year:         2019
+   doi:          10.5281/zenodo.3258398
+   status:       published
+   abstract:     A two-day introduction to modern evidence-based teaching practices, built and maintained by the Carpentry community.
+   entrytype:    misc
+   howpublished: Zenodo
+   month:        jun
+   shorttitle:   Carpentries/Instructor-Training
