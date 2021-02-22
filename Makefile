@@ -27,6 +27,7 @@ src/main.md: src/*.do.txt src/papers.bib
 pub/mappe.docx: src/main.md
 	pandoc src/main.md src/settings-docx.yaml \
 	-t docx -o $@ --toc --toc-depth=2 -s \
+	--reference-doc src/word_template.docx \
 	--citeproc --csl src/plos-computational-biology.csl \
     --bibliography src/papers.bib
 
@@ -45,7 +46,8 @@ build: pub/book book/*.md
 # proposal merittert underiviser 2021
 pub/soeknad.docx: src/soeknad.do.txt
 	doconce format pandoc src/soeknad && \
-	pandoc -t docx -o $@ src/soeknad.md
+	pandoc -t docx --reference-doc src/word_template.docx \
+	src/soeknad.md -o $@
 
 # remove files doconce can recreate
 clean:

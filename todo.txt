@@ -1,11 +1,10 @@
-* add word template with page numbers
 * consider adding ` pandoc -s --toc src/main.md -o pub/mappe.md` for github
   - also update README
 * add `ghp-import -n -p -f docs/_build/html/` for gh-pages
 * footnotes in jupyterbook have same formatting as citations.
 * how to remove bibliography created by DocOnce for word output, while keeping it for jupyterbook?
 * fix missing URLs in bibliography
-* produce a bookPDF; so far works but citations become [?]
+* produce mappe.pdf ; so far works but citations become [?]
 ```
 cd src && \
 doconce format pdflatex main.do.txt \
