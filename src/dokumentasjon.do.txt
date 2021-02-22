@@ -1,19 +1,88 @@
+# #ifdef FIXMES
+
+* legge ved PDF fra nettskjema sluttevaluering BIOS1100?
+# #endif
+
+=== Fokus på studentenes læring ===
+
+
+=== En klar utvikling over tid ===
+
+* Pedagogisk Basiskompetanse
+    * Kursbevis: Kursbevis_universitets_spedagogisk_basiskompetanse.pdf
+    * Utviklingsnotat: Utviklingsnotat_Lex_Nederbragt.pdf
+    * moduler tatt i tillegg til Fellesdelen:
+      * FIXME
+* BIOS1100 (2017-)
+  * Kurstittel: _Innføring i beregningsmodeller for biovitenskap_
+  * Emnesidene: URL: "https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/"
+  * 2017
+    * "Semestersidene": "https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/h17/ressurser/hovedside.md"
+    * Fil: `Sluttrapport BIOS1100 Høsten 2017.pdf`
+  * 2018
+    * "Canvas sidene": "https://uio.instructure.com/courses/5848"
+    * Fil: `Sluttrapport BIOS1100 Høsten 2018.pdf`
+  * 2019
+    * "Canvas sidene": "https://uio.instructure.com/courses/20058"
+    * Fil: `Sluttrapport BIOS1100 Høsten 2019.pdf`
+  * 2020
+    * "Canvas sidene": "https://uio.instructure.com/courses/26583"
+    * Fil: `Sluttrapport BIOS1100 Høsten 2020.pdf`
+  * pensumbok "Introduction to Analysis and Modeling in Biology with Python",
+    "siste versjon (august 2020)": "https://uio.instructure.com/courses/26583/pages/introduction-to-analysis-and-modeling-in-biology-with-python?module_item_id=266340"
+  * Jeg har skrevet noen blogposter om BIOS1100: URL: "http://lexnederbragt.com/bios1100"
+* INF-BIO5121/9121 (2012-2016)
+  * Kurstittel: _High Throughput Sequencing technologies and bioinformatics analysis_
+  * Emnesidene: URL: "https://www.uio.no/studier/emner/matnat/ifi/INF-BIO5120/index-eng.html"
+  * Semestersidene for høsten 2016: URL: "http://inf-biox121.readthedocs.org/en/2016"
+
+=== En forskende tilnærming ===
+
+* Forskning på egen undervisning
+  * Vitenskapelige publikasjoner
+    * _A. Nederbragt, R. M. Harris, A. P. Hill and G. Wilson_ (2020).
+      "Ten quick tips for teaching with participatory live coding",
+       *PLOS Computational Biology*, 16(9),pp. e1008090,
+       "doi: 10.1371/journal.pcbi.1008090": "https://dx.doi.org/10.1371/journal.pcbi.1008090"
+  * Konferansebidrag
+    * MNT konferansen mars 2019: _Gregers, T.F., and Nederbragt, Lex_ (2019). Lektorstudenter utvikler unik kompetanse og bidrar til økt kvalitet på begynneremner gjennom en undervisningsrettet master. *Nordic Journal of STEM education* 3, 23–27,
+      URL: "https://doi.org/10.5324/njsteme.v3i1.2992".
+      Tilgjengelig som `Gregers and Nederbragt, Lex - 2019 - Lektorstudenter utvikler unik kompetanse og bidrar.pdf`
+    * MNT konferansen mars 2021: _J.E.Eliassen, M.V.Bøe, L.Nederbragt, M.M.Berg, og T.F.Gregers_ (2021).
+      Motivasjon for beregningsorientert biologi og sammenhengen med matematikk R2 fra videregående opplæring.
+      *Nordic Journal of STEM education*, *in press*.
+      Tilgjengelig som `Eliassen_etal_2021_Motivasjon for beregningsorientert biologi.pdf`
+## FIXME update to final publication
+  * Masterstudent June Edvarda Eliassen (2020)
+    * tittel: Biologistudenters motivasjon for beregningsorientert biologi etter innføring av krav om full fordypning i realfaglig matematikk
+    * lenke til oppgaven: URL: "http://urn.nb.no/URN:NBN:no-82918"
+  * Masterstudent Sofie Rudberg (2020)
+    * tittel: Relevansen av kompetansen fra matematikk R2 i beregningsorientert biologi
+    * lenke til oppgaven: URL: "http://urn.nb.no/URN:NBN:no-82936"
+  * Masterstudent Marthe Mjøen Berg (2019)
+    * tittel: Studentar si interesse og meistringsforventning for programmering og modellering i biologi
+    * lenke til oppgaven: URL: "http://urn.nb.no/URN:NBN:no-73633"
+  * Masterstudent Lars Erik Håland (2019)
+    * tittel: Studenters arbeid med programmering i biovitenskapelige problemstillinger. En kvalitativ studie av biologistudenters arbeid med Python
+    * lenke til oppgaven: URL: "http://urn.nb.no/URN:NBN:no-73632"
+
+=== En kollegial holdning og praksis ===
+
+* Gruppelærere
+  * "Dokumentasjonssider for gruppelærere": "https://pages.github.uio.no/alexajo/bios1100-assistants/start.html" (krever login med UiO brukernavn og passord)
+* CCSE
+  * Bidrag til "CCSE sine årsrapporter": "https://www.mn.uio.no/ccse/english/about/reports"
+
+=== Det digitale ===
+
+
 # #ifdef NOTES
 
 FIXME oversett til norsk
 
-* ha med utviklingsnotat fellesdelen
-* ha med ten quick tips?
 * jupyter canvas projsekt
   * https://www.usit.uio.no/om/organisasjon/itf/aktiviteter/prosjekter/jupyter-canvas/
-* 'emneplaner' jeg har utviklet
-* sluttraportene BIOS1100
-* lenke til AMBP
 * digitale læringsressurser?
-* MNT 2019
-* lenke til BIOS1100 canvas sidene for alle år
-* mine blog posts?
-* github.uio.no sider for gruppelræere
 * nominert for årets underviser av MN
 * kan jeg si nominert av noen studenter for IVB pris?
 * ha med sensurarbeid som jeg gjorde for NBMU (Jon Olav Vik)

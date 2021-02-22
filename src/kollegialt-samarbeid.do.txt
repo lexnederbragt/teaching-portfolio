@@ -16,8 +16,8 @@
     * noen er til og med ansatt for å jobbe med deg
 * UnderVerk
 * presentasjoner i CCSE sammenheng
-* MNT bidrag
 * ta grep når gruppelærere ikke fungerer så godt
+* utb´vikling av dokumentasjon via google shets/doc, github, MS Teams
 
 # #endif
 
