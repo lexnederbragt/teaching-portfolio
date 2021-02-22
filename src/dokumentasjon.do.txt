@@ -5,6 +5,7 @@ FIXME oversett til norsk
 * ha med utviklingsnotat fellesdelen
 * ha med ten quick tips?
 * jupyter canvas projsekt
+  * https://www.usit.uio.no/om/organisasjon/itf/aktiviteter/prosjekter/jupyter-canvas/
 * 'emneplaner' jeg har utviklet
 * sluttraportene BIOS1100
 * lenke til AMBP
@@ -19,6 +20,14 @@ FIXME oversett til norsk
 * ha med all veiledning jeg har gjort?
 * ha med besøk ministeren, ALC rom
 * ha med utkast til Junes artikkel?
+* Kurs i universitetspedagogikk
+  * Fellesdelen
+  * småkurs
+* Annen relevant utdanning: Carpentries instruktør trening?
+
+Utdanningsfaglige prosjekter
+* min rolle i det nye bachelor programmet ved IBV - CSE@IBV
+* Integrasjon Jupyter og Canvas
 
 # #endif
 

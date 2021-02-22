@@ -15,7 +15,7 @@
 * ha med Carpentries, TTT, og inflyttelsen!
 * min rolle i CCSE
 * (hvor å si dette?] programmering for fagets skyld, ikke bare plotte data for plottets skyld
-
+* ha med småkurs pedagogisk basiskompetanse
 # #endif
 
 * FIXME this is a TEST, remove
