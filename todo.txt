@@ -1,10 +1,13 @@
-* consider adding ` pandoc -s --toc src/main.md -o pub/mappe.md` for github
-  - also update README
-* add `ghp-import -n -p -f docs/_build/html/` for gh-pages
-* footnotes in jupyterbook have same formatting as citations.
-* how to remove bibliography created by DocOnce for word output, while keeping it for jupyterbook?
-* fix missing URLs in bibliography
-* produce mappe.pdf ; so far works but citations become [?]
+* current method for generating PDF:
+  - generate mappe.docx
+  - open in MS Word
+  - Save as --> PDF from MS Word (do not 'Print'),
+    select 'best for electronic distribution'
+* add `ghp-import -n -p -f book/_build/html/` for gh-pages
+* fix bibliography
+  *  missing URLs
+  * formatting issues
+* use DocOnce to produce mappe.pdf ; so far works but citations become [?]
 ```
 cd src && \
 doconce format pdflatex main.do.txt \

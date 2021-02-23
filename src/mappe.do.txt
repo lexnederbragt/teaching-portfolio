@@ -1,3 +1,5 @@
+TITLE: Pedagogisk mappe Lex Nederbragt
+DATE: today
 TOC: on
 
 ======= Introduksjon =======
@@ -30,8 +32,8 @@ TOC: on
 
 ======= Litteraturliste =======
 
-# if FORMAT != "pandoc":
+% if not DOCX:
 
 BIBFILE: papers.pub
 
-# endif
+% endif
