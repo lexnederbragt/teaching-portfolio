@@ -20,13 +20,13 @@ src/papers.bib : src/papers.pub
 	cd src && publish export papers.bib
 
 # markdown, needed for docx
-src/main.md: src/*.do.txt src/papers.bib
-	doconce format pandoc src/main
+src/mappe.md: src/*.do.txt src/papers.bib
+	doconce format pandoc src/mappe
 
 # Microsoft word
-pub/mappe.docx: src/main.md
+pub/mappe.docx: src/mappe.md
 	echo Converting to docx && \
-	pandoc src/main.md src/settings-docx.yaml \
+	pandoc src/mappe.md src/settings-docx.yaml \
 	-t docx -o $@ --toc --toc-depth=2 -s \
 	--reference-doc src/word_template.docx \
 	--citeproc --csl src/plos-computational-biology.csl \
@@ -34,7 +34,7 @@ pub/mappe.docx: src/main.md
 
 # DocOnce export for Jupyterbook
 pub/book: src/*.do.txt
-	doconce jupyterbook src/main \
+	doconce jupyterbook src/mappe \
 	--dest=${DEST} --dest_toc=${DEST} \
 	--allow_refs_to_external_docs \
 	--titles=titles.txt \
