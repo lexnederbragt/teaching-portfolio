@@ -3,7 +3,7 @@ DEST=/Users/alexajo/github/teaching-portfolio/book
 
 .PHONY: all book build clean
 
-all: pub/mappe.docx pub/soeknad.docx
+all: pub/mappe.docx pub/mappe.md pub/soeknad.docx
 
 book: build
 
@@ -21,7 +21,7 @@ src/papers.bib : src/papers.pub
 
 # markdown, needed for docx
 src/mappe.md: src/*.do.txt src/papers.bib
-	doconce format pandoc src/mappe
+	doconce format pandoc src/mappe -DDOCX
 
 # Microsoft word
 pub/mappe.docx: src/mappe.md
@@ -31,6 +31,10 @@ pub/mappe.docx: src/mappe.md
 	--reference-doc src/word_template.docx \
 	--citeproc --csl src/plos-computational-biology.csl \
     --bibliography src/papers.bib
+
+# markdown
+pub/mappe.md: src/mappe.md
+	pandoc -s --toc src/mappe.md -o pub/mappe.md
 
 # DocOnce export for Jupyterbook
 pub/book: src/*.do.txt
