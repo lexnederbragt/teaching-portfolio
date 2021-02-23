@@ -19,6 +19,8 @@
 * exit quiz jeg introduserte i gruppetimene i 2020
 * nevn samkodingsvideoer?
 
+* sjekk teaching statement for ting som må/kan inn her
+
 # #endif
 
 ===== Baklengsdesign og samstemt undervisning =====
@@ -63,4 +65,5 @@ Koblinger med BIOS1110.
 * studentevalueringer
 * evalueringer med gruppelærere
 * 'tilbakemeldinger' fra lektorstudenter som tar undervisningsrettet master
+* utskifte undervisere inf-bio5121 basert på tilbakemeldinger fra studenter
 # #endif

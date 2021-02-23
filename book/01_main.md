@@ -2,4 +2,18 @@
 
 Denne pedagogiske mappen har følgende struktur:
 
+* legge til et kapittel om samkoding
+* legge til et kapittel om det digitale
+
+Spesifisering av hvordan SoTL kriteriene er oppfylt:
+
+#### Fokus på studentenes læring
+
+#### En klar utvikling over tid
+
+#### En forskende tilnærming
+
+#### En kollegial holdning og praksis
+
+#### Det digitale
 

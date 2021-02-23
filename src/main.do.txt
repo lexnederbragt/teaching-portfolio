@@ -24,7 +24,7 @@ TOC: on
 
 # #include "kollegialt-samarbeid.do.txt"
 
-======= Dokumentasjon (Vedlegg) =======
+======= Dokumentasjon =======
 
 # #include "dokumentasjon.do.txt"
 

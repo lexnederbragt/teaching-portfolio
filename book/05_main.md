@@ -117,7 +117,7 @@ disse har blitt intergrert i videreutvikling av BIOS1100.
 
 * tittel: Biologistudenters motivasjon for beregningsorientert biologi etter innføring av krav om full fordypning i realfaglig matematikk
 * problemstlling: Hvordan var motivasjonen hos studentene for programmering og modellering i biologi etter innføring av krav om full fordypning i realfaglig matematikk?
-* lenke til oppgaven: <http://urn.nb.no/URN>:NBN:no-82918
+* lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-82918>
 * metode: spørreskjema som ble delt ut første og siste forelesning
 * teoretisk rammeverk: Eccels’ forventningsverdi teori om prestasjonsorienterte valg;
   Hidi og Renningers fire-fasemodell for interesseutvikling;
@@ -151,7 +151,7 @@ Det er derfor viktig at relevansen for fremtidige yrker blir løftet frem i unde
 
 * tittel: Relevansen av kompetansen fra matematikk R2 i beregningsorientert biologi
 * problemstlling: Hvordan gjør kompetansen fra R2 seg gjeldende i problemløsningsstrategier hos studenter i arbeid med beregningsorientert biologi?
-* lenke til oppgaven: <http://urn.nb.no/URN>:NBN:no-82936
+* lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-82936>
 * metode: observasjoner av studentene i situasjoner med oppgaveløsning, og intervju
 * teoretisk rammeverk: Computational thinking, mathematical thinking
 
@@ -170,7 +170,7 @@ I denne studien argumenterer jeg for at kompetansen fra matematikk R2 er relevan
 
 * tittel: Studentar si interesse og meistringsforventning for programmering og modellering i biologi
 * problemstlling: Kva kjenneteiknar studentar si interesse og meistringsforventning for programmering og modellering i biologi?
-* lenke til oppgaven: <http://urn.nb.no/URN>:NBN:no-73633
+* lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-73633>
 * metode: spørreskjema som ble delt ut første og siste forelesning
 * teoretisk rammeverk: Eccels’ forventningsverdi teori om prestasjonsorienterte valg;
   Hidi og Renningers fire-fasemodell for interesseutvikling;
@@ -206,7 +206,7 @@ Alle testane med effektstorleik på interesseverdi og meistringsforventning til
 
 * tittel: Studenters arbeid med programmering i biovitenskapelige problemstillinger. En kvalitativ studie av biologistudenters arbeid med Python
 * problemstilling: Hvordan arbeider studenter når de programmerer i introduksjonskurs i biologi?
-* lenke til oppgaven: <http://urn.nb.no/URN>:NBN:no-73632
+* lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-73632>
 * metode: observasjoner av studentene i situasjoner med oppgaveløsning, og intervju
 * teoretisk rammeverk: Computational Thinking
 

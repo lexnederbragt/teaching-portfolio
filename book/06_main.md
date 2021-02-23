@@ -6,7 +6,8 @@ I 2019 tok kollega Tone Gregers ved IBV initiativ til UndervisningVerksted ved I
 også kalt Underverk. UnderVerk er
 "en workshopserie der alle som er involvert i undervisning
 ved Institutt for Biovitenskap skal få mulighet til å arbeide med
-alle aspekter av undervisning i et kollegialt felleskap." [^underverk-urls]
+alle aspekter av undervisning i et kollegialt felleskap."
+(fra "siden om UnderVerk": " <https://www.uio.no/for-ansatte/enhetssider/mn/ibv/underverk/>,", krever login med UiO brukernavn og passord, se også [denne siden](https://www.mn.uio.no/kurt/undervisningsutvikling/underverk)).
 
 Sammen med kollega Hans-Petter Hersleth har jeg vært medorganisator for UnderVerk.
 Med støtte fra MatNat fakultetets studiekvalitetsmidler har vi organisert
@@ -56,7 +57,7 @@ Det første året hadde jeg en sesjon før kursstart (fæør somemrferie)
 men da blie det mye informasjon for lang tid før det skulle brukes
 
 De siste årene har jeg brukt de ukentlige møter med gruppelærere
-der jeg tok opp et tema som er pedagogsik relevant,
+der jeg tok opp et tema som er pedagogisk relevant,
 eller inviterte en annen person til å presentere temaet.
 
 Brukte aktiv læring (tenk-par-del osv)
@@ -89,8 +90,5 @@ Både PhD, MSc og BSC studenter
 #### Studenter som bidragsyttere i det faglige innholdet
 
 CSE sommerstudenter
-
-[^underverk-urls]: <https://www.uio.no/for-ansatte/enhetssider/mn/ibv/underverk/>,
-se også <https://www.mn.uio.no/kurt/undervisningsutvikling/underverk/>
 
 
