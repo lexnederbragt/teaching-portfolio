@@ -197,6 +197,46 @@
    school:     University of Oslo
    thesistype: phd
 * misc
+** Software {{Carpentry}}: {{Programming}} With {{Python}}
+   key:        achterberg2017Software
+   author:     Hakim Achterberg, James Adams, Joshua Adelman, James Allen, Jorge Aranda, Sung Bae, Piotr Banaszkiewicz, Pauline Barmby, Ewan Barr, David Beitey, Trevor Bekolay, Jared Berghold, Marius Bj{\o}rnstad, John Blischak, Maxime Boissonneault, Corinne Bosley, Azalee Bostroem, Andy Boughton, Ry4an Brase, Amy Brown, Kyler Brown, Abigail Cabunoc Mayes, Ian Carroll, John Chase, Stephen Childs, Jin Choi, Richard Clare, Sarah Clayton, Peter Cock, Michael Connell, Marianne Corvellec, Thomas Coudrat, Ryan Dale, Matt Davis, Neal Davis, Andrew Davison, Raffaella Demichelis, Gabriel A. Devenyi, Emily Dolson, David Dotson, Laurent Duchesne, Jonah Duckles, R{\'e}mi Emonet, K. Arthur Endsley, Nicolas Fauchereau, Talitha Ford, Konrad F{\"o}rstner, Ivan Gonzalez, Jan Gosmann, John Gosset, Jeremy Gray, Bastian Greshake, St{\'e}phane Guillou, Mary Haley, Sam Hames, Jessica B. Hamrick, Eilis Hannon, Michael Hansen, Kate Hertweck, Konrad Hinsen, Johan Hjelm, Toby Hodges, Derek Howard, Damien Irving, Mike Jackson, Ben Jolly, Nick Jones, Blake Joyce, David Ketcheson, W. Trevor King, Sigrid Klerke, Lauren Ko, Andy Kwong, Benjamin Laken, Hilmar Lapp, Doug Latornell, John R. Leeman, Jean-Christophe Leyder, Willem Ligtenberg, Johnny Lin, Andrew Lonsdale, Alexandre Manhaes Savio, Ryan May, Dan Mazur, Fran{\c c}ois Michonneau, Bill Mills, Zakariyya Mughal, Lex Nederbragt, Ryan Neufeld, Aaron O'Leary, Adam Obeng, Jeramia Ory, Natalia Osiecka, Jon Pipitone, Adrianna Pi{\'n}ska, Timoth{\'e}e Poisot, Pawel Pomorski, Narayanan Raghupathy, Florian Rathgeber, Meredith Rawls, Adam {Richie-Halford}, Janet Riley, Thomas Robitaille, Ariel Rokem, Marjorie Roswell, Mahdi Sadjadi, Elliott {Sales de Andrade}, Sebastian Schmeier, Leigh Sheneman, Arron Shiffer, Ardita Shkurti, Raniere Silva, Nicola Soranzo, Erik Spence, Ashwin Srinath, Valentina Staneva, Jim Stapleton, Brian Stucky, Cody Taylor, Tracy Teal, Bartosz Telenczuk, Ian Thomas, Brian Thorne, Giovanni Torres, Tim Tr{\"o}ndle, Jessica Upani, Olav Vahtras, Edwin {van der Helm}, Alistair Walsh, Nathan Walter, Derek Weitzel, Daniel Wheeler, Ethan White, Evan P. Williamson, Frank Willmore, Aidan Wilson, Greg Wilson, Xiao Xiao, Andrea Zonca
+   year:       2017
+   doi:        10.5281/zenodo.278222
+   status:     published
+   abstract:   A full-day introduction to programming with Python for researchers, developed and maintained by the Software Carpentry team.
+   entrytype:  misc
+   month:      feb
+   shorttitle: Software {{Carpentry}}
+** Software {{Carpentry}}: {{Version Control}} With {{Git}}
+   key:        ahmadia2017Softwarea
+   author:     Aron Ahmadia, James Allen, Alison Appling, Sean Aubin, Pete Bachant, Daniel Baird, Piotr Banaszkiewicz, Pauline Barmby, B{\'e}r{\'e}nice Batut, Trevor Bekolay, Maxim Belkin, John Blischak, Madeleine Bonsma, Jon Borrelli, Andy Boughton, Daina Bouquin, Rudi Brauning, Matthew Brett, Amy Brown, Abigail Cabunoc Mayes, Jane Charlesworth, Billy Charlton, Daniel Chen, Garret Christensen, Ruth Collings, Marianne Corvellec, Matt Davis, Gabriel A. Devenyi, Emily Dolson, Laurent Duchesne, Jonah Duckles, R{\'e}mi Emonet, Lo{\"i}c Est{\`e}ve, Emmanouil Farsarakis, Bennet Fauber, Anne Fouilloux, Konrad F{\"o}rstner, Stuart Geiger, Ivan Gonzalez, Marisa Guarinello, St{\'e}phane Guillou, Jamie Hadwin, Matthias Haeni, Pierre Haessig, Nicholas Hannah, Michael Hansen, Sumana Harihareswara, Alois Heilmaier, Martin Heroux, Kate Hertweck, Andreas Hilboll, Konrad Hinsen, Daisie Huang, Yuandra Ismiraldi, Mike Jackson, Christian Jacobs, Dorota Jarecka, Luke W. Johnston, David Jones, Zbigniew {J{\k{e}}drzejewski-Szmek}, Tom Kelly, W. Trevor King, Thomas Kluyver, Bernhard Konrad, Mateusz Kuzak, Arne K{\"u}derle, Kathleen Labrie, Hilmar Lapp, Doug Latornell, Mark Laufersweiler, David LeBauer, Kate Lee, Matthias Liffers, Clara Llebot, Catrina Loucks, Keith Ma, Kunal Marwaha, Ryan May, Fran{\c c}ois Michonneau, Bill Mills, Andreas Mueller, Madicken Munk, VP Nagraj, Lex Nederbragt, Juan {Nunez-Iglesias}, Brenna O'Brien, Aaron O'Leary, Catherine Olsson, Michael Panitz, Chris Pawsey, Stefan Pfenninger, Jon Pipitone, Timoth{\'e}e Poisot, Paul Preney, Timothy Rice, Kristina Riemer, David Rio Deiros, Natalie Robinson, Annika Rockenberger, Andrew Rohl, Ariel Rokem, Bill Sacks, Michael Sarahan, Sebastian Schmeier, Hartmut Schmider, Peter Shellito, Patrick C. Shriwise, Raniere Silva, Brendan Smithyman, Nicola Soranzo, Peter Steinbach, Sarah Stevens, Oliver Stueker, Benjamin Stuermer, Tiffany Timbers, Danielle Traphagen, Tim Tr{\"o}ndle, Anelda {van der Walt}, Steve Vandervalk, Greg Watson, Belinda Weaver, Mark Wheelhouse, Ethan White, Evan P. Williamson, Greg Wilson, Steven Wu, Qingpeng Zhang
+   year:       2017
+   doi:        10.5281/zenodo.278219
+   status:     published
+   abstract:   A half-day introduction to version control with Git and GitHub for researchers, developed and maintained by the Software Carpentry team.
+   entrytype:  misc
+   month:      feb
+   shorttitle: Software {{Carpentry}}
+** Software {{Carpentry}}: {{The Unix Shell}}
+   key:        aldazabalmensa2017Software
+   author:     Inigo Aldazabal Mensa, Harriet Alexander, James Allen, Areej {Alsheikh-Hussain}, Dean Attali, Daniel Baird, Asher Baltzell, Piotr Banaszkiewicz, Pauline Barmby, Rob Beagrie, Glen Beane, Andrea Bedini, Trevor Bekolay, Evgenij Belikov, Jason Bell, Brian Bill, Kai Blin, John Blischak, Simon Boardman, Maxime Boissonneault, Jessica Bonnie, Andy Boughton, Ry4an Brase, Amy Brown, Dana Brunson, Jarek Bryk, Orion Buske, Abigail Cabunoc Mayes, Mike Carlise, Daniel Chen, Kally Chung, Kathy Chung, Daniel Deveau, Gabriel A. Devenyi, Phillip Doehle, Emily Dolson, Maria Doyle, Jonah Duckles, R{\'e}mi Emonet, David Eyers, Filipe Fernandes, Hugues Fontenelle, Francis Gacenga, Paul Gardner, Matthew Gidden, Ivan Gonzalez, Norman Gray, St{\'e}phane Guillou, Varda F. Hagh, Michael Hansen, Emelie Harstad, Tom Hohenstein, Adina Howe, Fatma Imamoglu, Damien Irving, Mike Jackson, Emily Jane McTavish, Michael Jennings, Dan Jones, Megan A. Jones, Alix Keener, Kristopher Keipert, Tom Kelly, Jan T. Kim, W. Trevor King, Christina Koch, Bernhard Konrad, Sherry Lake, Dustin Lang, Doug Latornell, Philip Lijnzaad, Eric Ma, Alex Mac, Joshua Madin, Tobin Magle, Mark Mandel, Camille Marini, Kunal Marwaha, Sergey Mashchenko, Daniel McCloy, Fran{\c c}ois Michonneau, Ryan Middleton, Jackie Milhans, Bill Mills, Amanda Miotto, Sarah Mount, Lex Nederbragt, Daiva Nielsen, Danielle Nielsen, Klemens Noga, Aaron O'Leary, Randy Olson, Adam Orr, Nina Overgard Therkildsen, Kirill Palamartchouk, Adam Perry, Matthew Peterson, Jon Pipitone, Timoth{\'e}e Poisot, Hossein Pourreza, Timothy Povall, Adam {Richie-Halford}, Scott Ritchie, Cesar B. Rocha, Noam Ross, Halfdan Rydbeck, Mahdi Sadjadi, Shane Sanders, Pat Schloss, Bertie Seyffert, Genevieve Shattow, Raniere Silva, Sarah Simpkin, John Simpson, Byron Smith, Armin Sobhani, Nicola Soranzo, Ashwin Srinath, Daniel Standage, Meg Staton, Peter Steinbach, Marcel Stimberg, Bartosz Telenczuk, Florian Thoele, Tiffany Timbers, Stephen Turner, Anelda {van der Walt}, Jay {van Schyndel}, David Vollmer, Jens {von der Linden}, Andrew Walker, Josh Waterfall, Greg Watson, Ethan White, Evan P. Williamson, Carol Willing, Greg Wilson, Donny Winston, Holger Wolff, Lynn Young, Lee Zamparo
+   year:       2017
+   doi:        10.5281/zenodo.278226
+   status:     published
+   abstract:   A half-day introduction to automating tasks with the Unix shell for researchers, developed and maintained by the Software Carpentry team.
+   entrytype:  misc
+   month:      feb
+   shorttitle: Software {{Carpentry}}
+** Software {{Carpentry}}: {{Automation}} and {{Make}}
+   key:        allen2017Software
+   author:     James Allen, Pete Bachant, Piotr Banaszkiewicz, Trevor Bekolay, John Blischak, Maxime Boissonneault, Andy Boughton, Abigail Cabunoc Mayes, Gerard Capes, Gabriel A. Devenyi, Deborah Digges, Jonah Duckles, R{\'e}mi Emonet, Andrew Fraser, Michael Hansen, Kate Hertweck, Luiz Irber, Mike Jackson, W. Trevor King, Gang Liu, Fran{\c c}ois Michonneau, Bill Mills, Lex Nederbragt, Aaron O'Leary, Jon Pipitone, Timoth{\'e}e Poisot, Adam {Richie-Halford}, Jason Sherman, Raniere Silva, Byron Smith, Pier-Luc {St-Onge}, Andy Teucher, Evan P. Williamson, Greg Wilson
+   year:       2017
+   doi:        10.5281/zenodo.278220
+   status:     published
+   abstract:   A half-day introduction to task automation with Make, developed and maintained by the Software Carpentry team.
+   entrytype:  misc
+   month:      feb
+   shorttitle: Software {{Carpentry}}
 ** Carpentries/Instructor-Training: {{The Carpentries Instructor Training June}} 2019
    key:          erinalisonbecker2019carpentries
    author:       Erin Alison Becker, Christina Koch, Karen Word, Rayna Michelle Harris, Maneesha Sane, Lex Nederbragt, Fran{\c c}ois Michonneau, Kari L. Jordan, Amy E. Hodge, Christopher Erdmann, Ariel Rokem, Ted Laderas, Greg Wilson, Ian Lee, Murray Cadzow, Sarah Brown, Toby Hodges, Aleksandra Nenadic, Jonah Duckles, R{\'e}mi Rampin, Tracy Teal, Katrin Leinweber, Paula Andrea Martinez, R{\'e}mi Emonet, Alexander Konovalov, Eric Jankowski, Gerard Capes, Jason Williams, Katherine Koziar, Nicol{\'a}s Palopoli, Noah Spies, Allison Weber, {amoskane}, Anita Sch{\"u}rch, AnnaWilliford, {Brian Ballsun-Stanton}, Jeffrey Oliver, Mik Black, Neil Kindlon, St{\'e}phane Guillou, Yo Yehudi, Alistair John Walsh, Andrew B. Collier, Callin Switzer, Christian Brueffer, Colin Morris, Dan Allan, DanielBrett, Danielle Quinn, Darya Vanichkina, David Jennings, {davidbenncsiro}, Evan Peter Williamson, Jason M. Gates, Joe Atzberger, John Bradley, John Pellman, Jonathan Bradley, Karen Cranston, {Kees den Heijer}, Laurence, {Marie-Helene Burle}, Mike Henry, {naught101}, Neal Davis, Nicholas Tierney, Petraea, Sarah M. Brown, Sarah Stevens, {satya-vinay}, Sean, Serah Anne Njambi Kiburu, Stefan Helfrich, Steve Moss, Tiago M. D. Pereira
@@ -208,3 +248,11 @@
    howpublished: Zenodo
    month:        jun
    shorttitle:   Carpentries/Instructor-Training
+** Data {{Carpentry Wrangling Genomics Lesson}}
+   key:       wilson2017Data
+   author:    Greg Wilson, Erin Becker, Sheldon McKay, Fran{\c c}ois Michonneau, Jason J. Williams, Abigail Cabunoc Mayes, Raniere Silva, Pete (hoytpr), Kate Crosby, Lex Nederbragt, {NielInfante}, Fotis E. Psomopoulos, Hadrien Gourl{\'e}, Gaius (gaiusjaugustus), {dbmarchant}, R{\'e}mi Emonet, Peter Cock, Piotr Banaszkiewicz, Tracy Teal, {HLindsay}, Adam Thomas, Chris Hamm, James Allen, Kari L. Jordan, {EvanWill}, Maxim Belkin, Jon Pipitone, Nick Young, Ming Tang, Dev Paudel, {synesthesiam}, Bill Mills, Gabriel A. Devenyi, Ian Carroll, Trevor W. King, {gtehennepe}
+   year:      2017
+   doi:       10.5281/zenodo.1064254
+   status:    published
+   entrytype: misc
+   month:     nov

@@ -1,67 +1,101 @@
 ======= Søknad om status som merittert underviser =======
 
-Lex Nederbragt, Institutt for Biovitenskap, det Matematisk Naturvitenskapelige Faktultet
+Lex Nederbragt, Institutt for Biovitenskap, det Matematisk Naturvitenskapelige Fakultet
 
-## Søknaden skal redegjøre for din motivasjon for å søke meritteringsordningen, samt din visjon for hvordan du skal bruke statusen og den eventuelle utdanningsterminen.
+## Søknaden skal redegjøre for din motivasjon for å søke meritteringsordningen,
+## samt din visjon for hvordan du skal bruke statusen
+## og den eventuelle utdanningsterminen.
 
 ===== Motivasjon for å søke meritteringsordningen =====
 
-Hva synes jeg om det å undervise?
+Jeg har i alle faser i min karriere, som student, Phd student, postdoktor,
+senioringeniør og førstelektor, hatt glede av å utdanne andre studenter
+og kolleger gjennom workshops og kurs.
+Det er en driv inni meg å dele det jeg har lært, og som har vært nyttig,
+eller ga meg glede, til andre for at de skal kunne oppleve det samme.
+Jeg startet tidlig med å gi korte kurs i teknikker og verktøy
+innen bioinformatikk for kollegaene mine.
+Deretter var jeg en av de to hoveddrivere for etablering av Carpentry
+kursvirksomhet ved UiO - frivillige forskere som holder kurs i
+beregnings- og datahåndteringsverktøy for andre forskere.
+Jeg har etablert to nye kurs ved UiO, INF-BIO5121/9121 i 2012 og
+BIOS1100 i 2017.
+Spesielt prosessen med å utvikle BIOS1100 til å være et
+unikt prosjekt i norsk (og internasjonal?) sammenheng
+har vært veldig givende.
 
-Jeg har gjennom både min forskerkarriere og underviserkarriere alltid hatt
-en naturlig ønske/driv/tendens til å dele erfaringer.
-Jeg starte tidlig med å gi korte kurs i forskningsverktøy
-for kollegaene mine.
-
-Underverk mm
+Det er utrolig spennende å utvikle eller forbedre undervisningsmaterial
+eller aktiviteter, basert på noen ideer om hvordan å få til best læring,
+og så å sette det ut i praksisk og, sammen med studentene og gruppelærere,
+evaluere om det faktisk var noe nyttige ting som ble utviklet eller endret.
+Studentenes tilbakemelding om at de synes den undervisningen jeg ar ansvar
+for har fungert, eller har mulige forbedringspunkter,
+er noe jeg altid spent ser fram til.
 
 Å søke om status som merittert underviser er en stor sjanse å ta dette
 til et nytt nivå.
 Jeg ønsker å vise andre hvor givende det kan være å satse på undervisning.
 
 Jeg synes det er på tide å skape oppmerksomet og engasjement
-rundt det unike prosjektet med integrering av beregninger i et fag som biovitenskap, og spesielt i et førstesemester kurs
+rundt det unike prosjektet med integrering av beregninger i et fag som biovitenskap, og spesielt i et førstesemester kurs.
+
+
+## Underverk?
 
 ===== Refleksjoner over egen utvikling og læring som underviser =====
 
-[Lex: dette er oversatt fra teaching statement, bør omskrives noe]
+Min tilnærming til å utvikle undervisningen min er basert på observasjonen
+at utdanning er en egen vitenskap,
+og en overbevisning om at vi skal ta resultatene av den vitenskapen seriøst
+når vi utvikler kurs.
+Akkurat som tidligere forskning informerer oss når vi utvikler vår egen forskning, så burde forskning om hvordan studenter lærer informerer oss
+når vi utvikler vår egen undervisning.
 
-Min tilnærming til å utvikle undervisningen min er basert på observasjonen at
-utdanning er dens egen vitenskap, og en overbevisning om at vi skal ta
-resultatene av den vitenskapen seriøst når vi utvikler kurs. Akkurat som tidligere
-forskning informerer oss når vi utvikler vår egen forskning, så burde det
-pedagogisk forskning informerer oss når vi utvikler vår egen undervisning.
+De siste årene har jeg blitt kjent med noen sentrale begreper innen
+kognitiv psykologi og hvordan disse kan anvendes for å fremme læring.
+Utviklingen i min undervisning har i stor grad blitt påvirket av kunnskap om
+spesielt prinsippene kognitive last,
+formativ vurdering kombinert med Peer Instruction, og samstemt undervisning.
+Jeg har også implementert en studentaktiviserende undervisningsform,
+samkoding, får å øke læringsutbytte
+når studenter skal tilegne seg ny programmeringskunnskap.
+Optimal bruk av mulighetene tom ligger i nye digitale lærinsomgivelser
+er noe jeg er optatt av, og jeg har vært pionér i
+bruken av Jupyter notebooks og JupyterHub som grenesenitt for programmeringen .
 
-Utdanningsforskning er et stort felt, og det er mye å lære. Men,
-man kan ikke bruke alt det er å lære, man må begrense seg selv og
-fokus på noen få områder på den tiden. For meg er disse områdene i) Kognitive
-Lastteori, ii) Formativ vurdering og fagfelleinstruksjon, og iii)
-Samstemt Undervisning.
+Jeg mener at alt dette har kommet studentene til gode.
+Jeg akter å fortsette med å bruke utdanningsforskning i
+videre utvikling av min undervisning.
+
+## noe om det digitale?
+# Samkoding?
 
 ===== Visjon for hvordan jeg skal bruke statusen =====
 
 Jeg har med stor interesse følgt 'LA programmet' prosjektet
 ved fysisk institutt på fakultetet.
-og hovedmålet med dette USA-inspirerte LA-programmet er
-å hjelpe gruppelærerne til å bli gode undervisere
+og hovedmålet med dette USA-inspirerte konseptet er
+å hjelpe gruppelærerne til å bli bedre undervisere
 gjennom pedagogisk opplæring og ukentlige utviklingsmøter.
-Jeg har gjennom min egen pedagogisk oppløirng av gruppelærere
+Jeg har gjennom min egen pedagogisk opplæring av gruppelærere
 sett verdien av en slik tilnærming i praksis.
 Jeg ønsker å være en pådriver for at LA programmet implementeres
-for kurs på biovtenskapsprogrammet også.
+for kurs på biovitenskapsprogrammet også.
 
-Jeg har ikke noe fastsatt plan for en eventuel utdanningstermin, men mange tanker.
-Noen av dem handler om mer erfaringsdeling,
-for eksempel rundt bruk av Jupyter notebooks i undervisningen.
+Jeg har ennå ikke noe fastsatt plan for en eventuel utdanningstermin,
+men mange tanker.
+En av dem er å starte utvikling av et nytt kurs som jeg lenge har hatt lyst til å
+lage: jeg var med på en artikkel med tittelen "Good enough practices in scientific computing" (Wilson et al, 2017, URL: "https://doi.org/10.1371/journal.pcbi.1005510").
+Planen er å laget et kurs som underviser "Good enough practices in Computational Biology" der master og PhD studenter lærer moderne teknikker rundt reproduserbarhet,
+datahåndtering og deling, programvareutvikling mm.
+
 Jeg kunne også tenke meg å skrive en bok om det å undervise Python
-på lavere grad i fag der dette ikke er naturlig.
-
-Et alternativ er å observere et eller flere kurs som med suksess integrerer
+på lavere grad i fag der dette ikke er naturlig. Et alternativ er å observere et eller flere kurs som med suksess integrerer
 beregninger på et annet universitet, for å høste fra deres erfaring -
 og for å dele erfaringer gjort på UiO.
 
-
 # #ifdef NOTES
+------------------------------------------------------------
 
 Alternativt overskrift: Videre arbeid og utvikling
 
@@ -85,8 +119,8 @@ Undervisningstermin
   og det digitale læringsmiljø
 * fokus på biologiske eksempler for å vise relevans, ha autentiske oppgaver,
   og dermed øke motivasjon
-* system for underveisevaluering (erfaringsdokument, exit-quiz), midtveis- og
-  sluttevaluering
+* systematisk bruk av underveisevaluering (erfaringsdokument, exit-quiz),
+  midtveis- og sluttevaluering
 
 === En klar utvikling over tid ===
 
@@ -95,15 +129,16 @@ Undervisningstermin
 * implementering av samkoding ('Participatory Live Coding') i begynnerundervisning
   av programmering i Python
 * evaluerings-basert utvikling av BIOS1100 med forbederinger av undervisningsmetoder,
-  timeplan, formativ of summativ vurdering
+  timeplan, formativ of summativ vurdering, økt samstemt undervisning
 * økende bruk av studentaktive læringsmetoder
 
 === En forskende tilnærming ===
 
-* bruk av kunnskap fra forskningen om hvordan studenter lære å programmere
-  - reduksjon av kognitiv last med hjelp av samkoding, worekd examples,
-  Parsons problemer
-* lektorstudenter som tar en utdanningsfaglig master og som informerer
+* bruk av kunnskap fra utdanningsforskning om hvordan studenter lære å
+  programmere: reduksjon av kognitiv last med hjelp av samkoding,
+  worked examples, Parsons problemer
+* forskning på BIOS1100 studenter av lektorstudenter
+  som tar en utdanningsfaglig master og som informerer
   om hvordan studenter arbeider med oppgaver i BIOS1100,
   samt hvilke faktorer påvirker deres motivasjon
 
@@ -111,9 +146,9 @@ Undervisningstermin
 
 * medorganisator av UndervisningVerksted (UnderVerk) på Institutt for Biovitenskap,
   felles arena for erfaringsdeling blant undervisere på instituttet
-* felles studentrepresentanter BIOS1100 og BIOS1110
 * miljøbygging blant gruppelærere med pedagogisk opplæring
 * bruk av sommerstudenter for utvikling av undervisningsmaterial
+* felles studentrepresentanter BIOS1100 og BIOS1110
 * medlem av ledergruppe i Centre for Computing in Science Education (CCSE)
 
 === Det digitale ===
@@ -122,12 +157,11 @@ Undervisningstermin
   (Jupyter), som resulterte i en sky-basert løsning for flere kurs på UiO (JupyterHub)
 * strukturert bruk av sidene på Canvas
 * pågående prosjekt "Integrasjon av Jupyter og Canvas for digital vurdering"
-* bruk av Student Respons Systemer Mentimeter for formativ vurdering og
-  innhenting av svarfordelinger i etterkant
+* bruk av Student Respons Systemet Mentimeter for formativ vurdering og
+  innhenting av besvarelser i etterkant
 
 
 # #ifdef NOTES
-
 
 
 ===== Formel pedagogisk kompetanse =====
