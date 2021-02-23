@@ -25,6 +25,7 @@ src/main.md: src/*.do.txt src/papers.bib
 
 # Microsoft word
 pub/mappe.docx: src/main.md
+	echo Converting to docx && \
 	pandoc src/main.md src/settings-docx.yaml \
 	-t docx -o $@ --toc --toc-depth=2 -s \
 	--reference-doc src/word_template.docx \
@@ -46,6 +47,7 @@ build: pub/book book/*.md
 # proposal merittert underiviser 2021
 pub/soeknad.docx: src/soeknad.do.txt
 	doconce format pandoc src/soeknad && \
+	echo Converting to docx && \
 	pandoc -t docx --reference-doc src/word_template.docx \
 	src/soeknad.md -o $@
 
