@@ -1,8 +1,19 @@
 
 # #ifdef NOTES
+Fra Line Wittek
 
-FIXME fix references
+Jeg synes du får til å presentere både de "store" pedagogiske idealene dine og vise helt konkret hva dette har ført til i mer konkret forstand - det er mange som sliter med å få frem akkurat denne tosidigheten, men dette synes jeg at du har fått fint til. Beskrivelsen på s. 3 under overskriften "Participatory live ...." blir kanskje litt vel detaljert og noe implisitt, så her kan du jo vurdere om du kan korte ned noe for å få plass til det du mangler.
+
 # #endif
+
+===== Om denne undervisningsfilosofien =====
+
+Denne teksten er skrevet til å leses som et selfstendig dokument,
+uavhengig av det øvrige innholdet i denne pedagogiske mappen.
+Dermed er det nok noe overlapp mellom denne teksten
+og de øvrige kapitlene.
+I tillegg er teksten skrevet på engelsk
+siden jeg å dele den med internasjonale kollegaer.
 
 ===== Introduction =====
 
@@ -137,10 +148,7 @@ researchers the computing skills they need to get more done in less time
 and with less pain" and is mostly aimed at researchers at the PhD and
 postdoc level. Participatory live coding is the main method of teaching
 in the two-day workshops, and it is part of the training and assessment
-for becoming a certified instructor
-
-[Fixme: ref TTT material? erinalisonbecker2019carpentries]
-
+for becoming a certified instructor cite{erinalisonbecker2019carpentries}.
 In BIOS1100, I thus offered sessions re-teaching the Python material
 with Participatory Live Coding, with the effect that many students
 reported that they now finally understood it.

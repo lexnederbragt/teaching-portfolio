@@ -115,49 +115,50 @@ Undervisningstermin
 
 === Fokus på studentenes læring ===
 
-* stor fokus på samstemt undervisning, avstemme øvelser, innleveringer og eksamen,
+* Stor fokus på samstemt undervisning, avstemme øvelser, innleveringer og eksamen,
   og det digitale læringsmiljø
-* fokus på biologiske eksempler for å vise relevans, ha autentiske oppgaver,
+* Fokus på biologiske eksempler for å vise relevans, ha autentiske oppgaver,
   og dermed øke motivasjon
-* systematisk bruk av underveisevaluering (erfaringsdokument, exit-quiz),
+* Systematisk bruk av underveisevaluering (erfaringsdokument, exit-quiz),
   midtveis- og sluttevaluering
 
 === En klar utvikling over tid ===
 
-* fra workshops til koordinator for et team av undervisere til emneansvarlig for
+* Fra workshops til koordinator for et team av undervisere til emneansvarlig for
   et kurs jeg fikk utvikle selv fra grunnen av
-* implementering av samkoding ('Participatory Live Coding') i begynnerundervisning
+* Implementering av samkoding ('Participatory Live Coding') i begynnerundervisning
   av programmering i Python
-* evaluerings-basert utvikling av BIOS1100 med forbederinger av undervisningsmetoder,
+* Evaluerings-basert utvikling av BIOS1100 med forbederinger av undervisningsmetoder,
   timeplan, formativ of summativ vurdering, økt samstemt undervisning
-* økende bruk av studentaktive læringsmetoder
+* Økende bruk av studentaktive læringsmetoder
 
 === En forskende tilnærming ===
 
-* bruk av kunnskap fra utdanningsforskning om hvordan studenter lære å
+* Bruk av kunnskap fra utdanningsforskning om hvordan studenter lære å
   programmere: reduksjon av kognitiv last med hjelp av samkoding,
   worked examples, Parsons problemer
-* forskning på BIOS1100 studenter av lektorstudenter
+* Forskning på BIOS1100 studenter av lektorstudenter
   som tar en utdanningsfaglig master og som informerer
   om hvordan studenter arbeider med oppgaver i BIOS1100,
   samt hvilke faktorer påvirker deres motivasjon
 
 === En kollegial holdning og praksis ===
 
-* medorganisator av UndervisningVerksted (UnderVerk) på Institutt for Biovitenskap,
+* Medorganisator av UndervisningVerksted (UnderVerk) på Institutt for Biovitenskap,
   felles arena for erfaringsdeling blant undervisere på instituttet
-* miljøbygging blant gruppelærere med pedagogisk opplæring
-* bruk av sommerstudenter for utvikling av undervisningsmaterial
-* felles studentrepresentanter BIOS1100 og BIOS1110
-* medlem av ledergruppe i Centre for Computing in Science Education (CCSE)
+* Miljøbygging blant gruppelærere med pedagogisk opplæring
+* Bruk av sommerstudenter for utvikling av undervisningsmaterial
+* Felles studentrepresentanter BIOS1100 og BIOS1110
+* Medlem av ledergruppe i Centre for Computing in Science Education (CCSE)
 
 === Det digitale ===
 
-* pionér i bruk av interaktive brukergrensesnitt for programmeringsopplæring
+* Pionér i bruk av interaktive brukergrensesnitt for programmeringsopplæring
   (Jupyter), som resulterte i en sky-basert løsning for flere kurs på UiO (JupyterHub)
-* strukturert bruk av sidene på Canvas
-* pågående prosjekt "Integrasjon av Jupyter og Canvas for digital vurdering"
-* bruk av Student Respons Systemet Mentimeter for formativ vurdering og
+* Strukturert bruk av sidene på Canvas
+* Bruk av GitHub og MS Teams for interaksjon og deling av materialet med gruppelærere
+* Pågående prosjekt "Integrasjon av Jupyter og Canvas for digital vurdering"
+* Bruk av Student Respons Systemet Mentimeter for formativ vurdering og
   innhenting av besvarelser i etterkant
 
 
@@ -201,7 +202,7 @@ bevisst og systematisk tilnærming til det pedagogiske og utdanningsfaglige utvi
 * Menti
 * Jupyter og JupyterHub@UiO
 * digital eksamen fra dag 1, eksamens-jupyterHub fra 2019
-* fikk milder: prosjekt integrering JupyterHub@UiO og Canvas
+* fikk midler: prosjekt integrering JupyterHub@UiO og Canvas
 * infosidene på github.uio.no for gruppelærere
 * fra github.uio.no til MS Teams for dele filer
 * MS Teams for kommunikasjon (litt Slack før)

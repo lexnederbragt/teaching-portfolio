@@ -21,6 +21,13 @@
 
 * sjekk teaching statement for ting som må/kan inn her
 
+FORSLAG
+* sammenfatte relevant deler fra teaching statement
+* ta det med motivasjon her
+* ta det med studentevalueringer her
+  * inf-bio
+  * bios1100
+
 # #endif
 
 ===== Baklengsdesign og samstemt undervisning =====
