@@ -226,7 +226,7 @@ so-called distractors. Ideally, distractors should not be too obviously
 wrong, but rather be indicative of possible misconceptions.
 
 _Formative assessment combined with Peer Instruction_
-
+label{formative_assessment}
 Originally created by Eric Mazur at Harvard cite{mazur1997Peer},
 Peer Instruction is
 an evidence-based method where students are actively discussing the

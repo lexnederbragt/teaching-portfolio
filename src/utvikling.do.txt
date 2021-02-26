@@ -237,19 +237,18 @@ gruppelærere var flinke og mye læring skjedde takket være dem
 
 === Undervisningsform ===
 
-
 Da jeg planla undervisningen i BIOS1100 vurderte jeg å ta i bruk
 samkoding (Participatory Live Coding).
 ##FIXME forklar det her hvis det ikke er forklart allerede
 Men jeg var redd for at det ville være vanskelig å skalere opp
 till det forventede antallet av 200 studenter.
 Jeg valgte derfor første gang kurset ble holdt i 2017
-å formidle til studetne at jeg forventet at de brukte pensumboken
+å formidle til studentene at jeg forventet at de brukte pensumboken
 og øvelsene i gruppetimene for å tilegne seg programmeringskunnskappen.
 Jeg la inn mye formativ vurdering (kombinert med Peer instruction)
-med hjelp av flervaglsoppgaver i forelesninger og gruppetimene.
-## såkalte Menti's
-## Fixme, beksrevet i teaching statement
+med hjelp av flervalgsoppgaver i forelesninger og gruppetimene.
+Bakgrunnen for dette er beskrevet i undervisningsfilosofien under avsnittet ref{formative_assessment}.
+
 Jeg gikk også gjennom noen utvalgte oppgaver i forelesningene.
 Det viste seg 2/3 del inni kurset at mange studenter
 ikke kom på forelesningene lenger, og at deltakelse på gruppetimene også var lavt.
@@ -283,8 +282,8 @@ Samkoding ble brukt som hovedundervisningsform i gruppetimene.
 Til det hadde jeg skrevet en 'oppskrift' for hva som skulle undervises
 i de ukentlige samkoding sesjoner som gruppelærere kunne bruke.
 Jeg gjennomførte en egen opplæring for samkoding med 7 av gruppelærere (alle PhD studenter)
-modellert etter opplæringen The Carpentries gjør i sin instruktør trening
-## Link til https://carpentries.github.io/instructor-training/14-live/index.html
+modellert etter opplæringen The Carpentries gjør i sin
+"instruktør trening": "https://carpentries.github.io/instructor-training/14-live/index.html".
 
 Erfaringer underveis og besvarelser av sluttevalueringen
 viste at veldig mange studenter mente samkodingen i gruppetimene hadde stor nytteverdi:
