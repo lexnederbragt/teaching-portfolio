@@ -21,7 +21,8 @@ src/papers.bib : src/papers.pub
 
 # markdown, needed for docx
 src/mappe.md: src/*.do.txt src/papers.bib
-	doconce format pandoc src/mappe -DDOCX
+	doconce format pandoc src/mappe \
+	-DDOCX --language=Norwegian
 
 # Microsoft word
 pub/mappe.docx: src/mappe.md
@@ -42,7 +43,8 @@ pub/book: src/*.do.txt
 	--dest=${DEST} --dest_toc=${DEST} \
 	--allow_refs_to_external_docs \
 	--titles=titles.txt \
-	--show_titles sep=section
+	--show_titles sep=section \
+	--language=Norwegian
 
 # build the Jupyterbook
 build: pub/book book/*.md
