@@ -2,35 +2,42 @@ TITLE: Pedagogisk mappe Lex Nederbragt
 DATE: today
 TOC: on
 
-======= Introduksjon =======
+======= 1. Introduksjon =======
 
 # #include "introduksjon.do.txt"
 
-======= Hvordan jeg som underviser har utviklet meg =======
+\newpage
+======= 2. Hvordan jeg som underviser har utviklet meg =======
 
 # #include "utvikling.do.txt"
 
-======= Min undervisningsfilosofi (Teaching Statement) =======
+\newpage
+======= 3. Min undervisningsfilosofi (Teaching Statement) =======
 
 # #include "teaching-statement.do.txt"
 
-======= Fokus på studentenes læring =======
+\newpage
+======= 4. Fokus på studentenes læring =======
 
 # #include "studentenes-laering.do.txt"
 
-======= Bruk av forskning i undervisningen =======
+\newpage
+======= 5. Bruk av forskning i undervisningen =======
 
 # #include "forskningsbasert.do.txt"
 
-======= Kollegialt samarbeid om utvikling av undervisning =======
+\newpage
+======= 6. Kollegialt samarbeid om utvikling av undervisning =======
 
 # #include "kollegialt-samarbeid.do.txt"
 
-======= Dokumentasjon =======
+\newpage
+======= 7. Dokumentasjon =======
 
 # #include "dokumentasjon.do.txt"
 
-======= Litteraturliste =======
+\newpage
+======= 8. Litteraturliste =======
 
 % if not DOCX:
 
