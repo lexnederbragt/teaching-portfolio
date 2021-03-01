@@ -17,7 +17,8 @@
 * UnderVerk
 * presentasjoner i CCSE sammenheng
 * ta grep når gruppelærere ikke fungerer så godt
-* utb´vikling av dokumentasjon via google shets/doc, github, MS Teams
+* utvikling av dokumentasjon via google sheets/doc, github, MS Teams
+* studentrepresentanter - felles med BIOS1110
 
 # #endif
 
@@ -58,31 +59,30 @@ Jeg opplever UnderVerk som et fint tilbud for å dele erfaringer.
 
 ===== Undervisning i et felleskap med gruppelærere og studenter =====
 
-* studentrepresentanter - felles med BIOS1110
-
 === Gruppelærere ===
 
-* pedagogisk opplæring
-  * a la TA programmet
-
 Jeg ser på gruppelærere som undervisere.
-Det er de som har mest kontakttimer med studentene gjennom semesteter.
+Det er de som har mest kontaktimer med studentene gjennom semesteret.
 Derfor synes jeg det er flere viktige aspekter med å jobbe med gruppelærere
 
 * jeg skal hjelpe de til å bli gode undervisere
 * de skal oppleve at de jobber i et kollegialt felleskap
 * jeg skal aktivt involvere dem i å forbedre undervisningsopplegget
 
-Det første året hadde jeg en sesjon før kursstart (fæør somemrferie)
-men da blie det mye informasjon for lang tid før det skulle brukes
+For å oppnå disse målene har jeg to store tiltak:
+pedagogisk opplæring, og bruk av et erfaringsdokument underveis i kurset.
+
+_Pedagogisk Gruppelæreropplæring_
+
+Det første året hadde jeg en sesjon med alle gruppelærere
+før sommerferien før kurset skulle starte,
+men da bli det mye informasjon til dem for lang tid før det skulle brukes.
 
 De siste årene har jeg brukt de ukentlige møter med gruppelærere
-der jeg tok opp et tema som er pedagogisk relevant,
-eller inviterte en annen person til å presentere temaet.
-
-Brukte aktiv læring (tenk-par-del osv)
-
-Noen av dette er inspirert av the Carpentries instruktør trening.
+der jeg tar opp et tema som er pedagogisk relevant,
+eller inviterer en annen person til å presentere temaet.
+I disse sesjonene bruker vi aktiv lærings teknikker som tenk-par-del
+for å fremme diskusjon blant gruppelærere samt vise nytte av slike undervisningsteknikker.
 
 Temaene vi vanligvis diskuterer:
 
@@ -93,23 +93,65 @@ Temaene vi vanligvis diskuterer:
 * noviser og eksperter
 * mentale modeller
 
+Noen av disse teamaene er inspirert av
+"The Carpentries instruktør trening": "https://carpentries.github.io/instructor-training/",
+som jeg underviser selv.
+
 Etter at jeg innførte denne måten å lære opp gruppelærere
 i noen pedagogiske begreper mm har jeg intrykk av at nivået på deres undervisning,
 og måten de samarbeider med studentene på, har blitt forbedret.
 Det er som om de tar jobben mer seriøst når de forstår at det er en vitenskap
 bak det å lære og undervise.
+Jeg tror det også gir dem intrykk av at deres rolle tas på største alvor.
 
+Dette tiltaket har noe overlapp med det såkalte 'LA programmet' prosjektet
+ved fysisk institutt på fakultetet.
+Under dette konseptet organiseres det aktiviteter
+for å hjelpe gruppelærerne til å bli bedre undervisere
+gjennom pedagogisk opplæring og ukentlige utviklingsmøter.
+Jeg håper at LA programmet kan komme til Institutt for Biovitenskap
+i framtiden og skal da tilby å slå dette sammen med mine aktiviteter
+på området, slik at det gagner flere gruppelærere på instituttet.
 
-følelse av tilghørighet og eierskap til kurset
+_Erfaringsdokument_
+
+Helt fra begynnelsen av kurset har jeg brukt et delt dokument (en Google Doc)
+hvor jeg ba gruppelærere om å notere sine erfaringer umiddelbart etter undervisningen.
+De andre gruppelærere kan da lese dette såkalte erfaringsdokumentet
+og bruke det for å hjelpe dem med å forberede seg på undervisningen.
+Jeg bruker dokumentet for å umiddelbart rette opp feil i undervisningsmaterialet,
+eller foreslå løsninger når ting ikke fungerer som jeg hadde tenkt dem.
+Dette har fungert veldig bra, og mye nyttig tilbakemelding,
+eller inspirerende forslag,
+har blitt skrevet ned av lærerassistentene gjennom årene.
+
+Å bruke et slikt skjema kan ansees for en form for formativ vurdering.
+Det viser gruppelærere at deres tilbakemeldinger blir tatt på alvor,
+og at deres innspill til kurset er veldig velkommen.
+Det gir dem eierskap i undervisningen,
+noe de også gir meg som tilbakemelding under kursevalueringene mot
+slutten av semesteret.
+
+Når jeg forbereder meg til neste års utgave, bruker jeg dette
+dokumentet, og et privat 'erfaringsdokument'
+som jeg skriver selv under semesteret,
+for å forbedre undervisningsmaterialet ytterligere og justere
+undervisningsøkter der det er nødvendig.
+Disse dokumentene viste seg å være viktig for å forbedre kurset.
 
 Både PhD, MSc og BSC studenter
 
-
-=== ??? ===
-
-* erfaringsdokument og bruken av det
-
-
 === Studenter som bidragsyttere i det faglige innholdet ===
 
-CSE sommerstudenter
+CCSE, Centre for Computing in Science Education,
+har i alle år, som et ledd i fakultetets studiekvalitetsmidler,
+tilbudt stillinger som sommerstudenter.
+Formålet med prosjektene til disse 'CSE' sommerstudenter har vært
+å utvikle undervisningsmaterial til kurs der beregninger inkorporeres.
+Jeg har søkt, og fått, totalt 12 slike stillinger tildelt.
+Disse studentene har bidratt med mer enn 150 oppgaver,
+og stortsett alle disse brukes i undervisningen.
+Det har vært en stot glede å kunne jobbe med disse studentene.
+Disse vet ofte selv veldig godt hvordan det er å lære programering som biolog,
+og er veldig kreativ når det kommer til å finne gode biologiske
+problemstillinger studentene kan jobbe med.

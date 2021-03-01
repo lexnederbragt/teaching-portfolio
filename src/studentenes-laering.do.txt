@@ -12,6 +12,7 @@
 * formativ vurdering
 * aktiv bruk av evalueringsmekanismene for å forbedre læring
 * her kommer også studentevalueringer in
+  * husk sitater fra disse evalueringer
 * pedagogisk opplæaring gruppelærere
 
 * Bruk av samkoding
@@ -30,28 +31,27 @@ FORSLAG
 
 # #endif
 
-===== Baklengsdesign og samstemt undervisning =====
+My av det som faller under 'Fokus på studentenes læring' er beskrevet i
+min undervisningsfilosofi (kapittel 'Teaching Statement'):
 
-## definer Samstemt undervisning
-## IN-BIOS5121 --> eksamensform?
+* bruk av samkoding som undervsiningsform for å redusere kognitiv last når
+  studenter lærer programmering
+* bruk av formativ vudering kombinert med Peer Instruction for å
+  sjekke forståelse og rette opp misforståelser
+* bruk av tilbakemeldinger på obligatoriske innleveringer for å
+  kunne hjelpe studenter med å forbedre seg faglig
+* fokus på samstemt undervisning i utforming av obligatoriske øvelser og
+  eksamensoppgaver, samt hvordan eksamen gjennomføres
 
-Samstemt undervisning oppnås på flere måter
-* obligatoriske innleveringer er eksemplarisk for eksamensoppgavene
-* alle oppgaver, ukeoppgaver, obligatoriske innleveringer og eksamensoppgaver,
-  leveres til studentene i Jupyter Notebook format,
-  det vil si i samme brukergrensesnett studentene jobber i gjennom hele kurset
+Jeg begrenser med i dette kapittelet dermed til
 
-Kursets lærinsgsutbyttebeskrivelser er nødvendigvis kortfattet.
-Detaljerte læringsmål for hver uke hjelper studentene finne
-de viktigste elementene av ukens stoff.
+XX
 
-Eksempel: https://uio.instructure.com/courses/26583/pages/laeringsmal-uke-01
-Flere på https://uio.instructure.com/courses/26583/modules
+andre aspekter.
 
-Studentene får tilbakemelding på de obligatoriske innleveringer og de blir
-på denne måten brukt som formativ vurdering.
+===== Valg av problemstillinger og motivasjon =====
 
-## Utfordringer var å motivere studentene å lære programmering og modellering i biologi.
+Utfordringen med BIOS1100 er å motivere studentene å lære programmering og modellering i biologi.
 
 Et vesentlig poeng med hvordan BIOS1100 er organisert er at, så mye som mulig,
 materialet som brukes er biologisk relevant.
@@ -67,10 +67,10 @@ Koblinger med BIOS1110.
 
 ===== Evaluering og systematisk utvikling av undervisningen =====
 
-# #ifdef NOTES
+#ifdef NOTES
 * felles studentrepresentanter med BIOS1110
 * studentevalueringer
 * evalueringer med gruppelærere
 * 'tilbakemeldinger' fra lektorstudenter som tar undervisningsrettet master
 * utskifte undervisere inf-bio5121 basert på tilbakemeldinger fra studenter
-# #endif
+#endif

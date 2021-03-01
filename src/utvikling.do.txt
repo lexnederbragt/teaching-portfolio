@@ -205,35 +205,36 @@ Nedenfor beskriver jeg denne utviklingen i kort trekk.
 
 === Om BIOS1100 ===
 
-## FIXME
+BIOS1100 - Innføring i beregningsmodeller for biovitenskap,
+underviser studenter i enkel (matematisk) modellering,
+implementering av disse modellene i programmeringsspråket Python
+mens det hele tiden fokuseres på problemer som er relevante for studenter i biovitenskap.
+Fokuset på biologi tar sikte på å sikre at studentene ser relevans
+av det som blir undervist,
+noe som er viktig for studentens motivasjon og læring.
+Biologiske problemer som for esksempel poplasjonsvekst og -dynamikk,
+arv, DNA-analyse og sykdomsepidemier brukes til å gradvis innføre
+mer kompleks programmering og modellering.
 
-BIOS1100 tar sikte på å undervise i enkel (matematisk) modellering, implementering
-disse modellene bruker programmeringsspråket Python, mens det hele tiden
-fokusere på problemer som er relevante for studenter i biovitenskap. Fokuset på
-biologi tar sikte på å sikre at studentene ser materialets relevans
-undervist, noe som er viktig for studentens motivasjon og læring. Problemer
-alt fra befolkningsvekst og dynamikk, arv, DNA-analyse
-og sykdomsepidemier brukes til å gradvis innføre mer komplekse
-programmering og modellering.
+Kurset er basert på en ny lærebok skrevet av fire tidligere doktorgradsstudenter
+i nevrovitenskap fra Biologisk Institutt som alle har bakgrunn innen fysikk,
+samt meg som emneansvarlig.
 
-
-Kurset er basert på en ny lærebok skrevet av fire doktorgradsstudenter i nevrovitenskap som alle har bakgrunn innen bedriftsfysikk. Læreboka er den første som gir en introduksjon til programmering i biologisk sammenheng og er akseptert for publisering av Springer.
-
-Kurset ble undervist av Lex Nederbragt ved hjelp av nye, studentaktive metoder i det nye læringslaboratoriet ved Institutt for biovitenskap. Kurset og læringslaboratoriet var et fokus for utdanningsministerens besøk til UiO i oktober 2017. To MSc-studenter og en doktorgradstudent vil studere implementeringen av beregningsmetoder i BIOS 1100.
+Kurset består av:
 
 * to timers forelesnigner
 * fire timers gruppeundervisning
 * fra og med 2019 to timers ikke obligatorisk samkodingstimer
-* obligatoriske innleveringer
+* flere obligatoriske innleveringer gjennom semesteret
 * fire timers avsluttende digital eksamen
 
-
-## bruk til noe
-Det var en stor glede å kunne undervise begynner Python til førsteårsstudenter.
-Mye av det planlagte opplegget fungerte veldig godt og mange av valgene
-gjort i forkant var riktige. Læreboken og undervisningsrommet 3127 fungerte utmerket,
-gruppelærere var flinke og mye læring skjedde takket være dem
-##
+Kurset og kursboken har blitt urviklet fra grunnen av med oppstart i 2017.
+Siden dette er et unikt kurs var det lite materialet utover kursboken
+som kunne brukes til å bygge kurset på.
+Kurset har gjennomgåt en stor utvikling fra den første gang det ble undervist
+i 2017.
+Herunder beskriver jeg noen av aspektene der det har vært størst endring,
+motivere endringene og beskriver effekten på studentenes læring.
 
 === Undervisningsform ===
 
@@ -320,31 +321,103 @@ på samkodingsgruppene.
 
 ## noe mer refleksjoner?
 
+=== Programmering ===
+
+## while løkker før for løkker og numpy arrays mye senere enn lister
+
+Boken som ble (og blir) skrevet for kurset har som mål å undervise Python
+*i kontektst av* en biologien
+Det vil si at den biologske problemstilling blir gitt først og deretter
+blir det forklart nytt Python stoff som trengs for å kunne løse prolemet.
+Dette fører til en jevn spredning av stoffet over semesteret.
+Men den opprinnelige versjonen av kursboken som vi brukte da BIOS1100
+ble undervist for første gang gjorde det tydelig at boken hadde et problem.
+To måter å gjøre omtrent samme ting i Python ble undervist i to påfølegende kaptiler,
+og dermed i to påfølgende uker i kurset.
+Dette hanldet om det å samle en rekke verdier i en liste-struktur,
+enten med hjelp av vanlige lister i Python,
+eller med såkalte 'Numpy arrays'.
+Her ble studentene veldig forvirret, de to strukturere og operasjoner
+de skulle utføre med dem var såpass like, og det var ikke tydelig
+når og hvorfor de skulle bruke den ene heller enn den andre.
+Med andre ord, å undervise disse to lignende ting så kort oppå hverandre
+overbelastst studentenes kognitiv last.
+En annen ting jeg oplevde studentene strev med var vanskeligheten
+av konseptet 'løkker', noe som er vesentlig i programmeringsspråk,
+som for eksempel Python.
+Løkker lar deg repetere noe flere ganger, eller gjøre noe med alle elementer
+i en liste av ting.
+Også her er det to forskjellige måter å gjøre dette på
+(som heldigvis ble undervist på vidt forskjellige tidspunkter i kurset).
+Jeg ble overbevist om at vi underviste disse formene i feil rekkefølge.
+Den såkalte 'while løkke', som opprinnelig ble undervist sist,
+er mer transparant og gjør det mer klart for studentene
+hva som skjer i hver steg,
+enn den såkalte 'for løkke' som kurset startet med.
+
+Jeg brukte dermed en del tid før kurset skulle starte i 2018 for å skrive om
+kursboken: bytte om rekkefølge av løkketype ('while' før 'for')
+og utsette bruk av den andre liste-strukturen (Numpy arrays) til
+siste del av boken.
+Effekten var at jeg opplevde framgangen i Python som mye smidigere.
+Det ble ikke rapporert om så mye forvirring som før.
+
+Et annet grep jeg tok i 2020 var å spre undervisngen av nytt Python
+stoff enda mer jevnt utover semesteret.
+Tidliger oppsto det en pause i Python undervisningen,
+delvis på grunn av hvordan matematikkundervisningen var lagt opp (se under),
+delvis fordi kursboken har noen kapitler i midten som ikke inneholder
+mye nytt Python stoff.
+Jeg valgte å noen ganger undervise Python elementer tidligere
+enn når de ble introdusert i kapittelet som er pensum for den samme uken.
+Dette har fungert bra og det blir en mer jevn progresjon gjennom
+pensum med denne fordelingen.
 
 === Matematikk undervisning ===
 
-2018
-● Matematikk undervisningen ble styrket
-○ vi tok i bruk en egen pensumbok,
-https://www.cengage.co.uk/books/9781305114036/​, kapittel 1, 2 og 8 av
-denne boken ble undervist i BIOS1100
-○ vi fikk mulighet til å ha Arne Sletsjøe fra Matematisk Institutt til som underviser
-matematikk delen av BISO1100. Han underviste fire forelesninger og sto for
-matteoppgave som ble brukt i gruppetimene og under eksamen
+Studieprogrammene som ble erstattet med biovitenskapsprogrammer i 2017
+hadde et oligatorisk 10 studiepoeng mattekurs i første semester.
+Jeg har fra starten av ønsket at BIOS1100 skulle undervise en del
+av den matematikken.
+I 2017 ble det lite tid til fokus på matematikkundervisning.
+Fra og med 2018 kom det derfor en egen foreleser for matematikkdelen
+i kurset, Professor Arne Sletsjøe fra Matematisk Institutt ved fakultetet.
+matematikkundervisningen utviklet seg slik:
 
-Evaluering:
-sammenhengen mellom programmering, modellering og matematikk opplevdes som
-‘middels eller ‘bra‘ (70%) mens 27% mente sammenhengen var dårlig
-● matematikken opplevdes av flere som et eget fag som ikke hang sammen med
-resten
-Matematikk har fått et utvidet fokus og det har vært delvis vellykket. Det største problemet var at studenter opplevde kurset som todelt. Pensumboken Biocalculus ble valgt fordi matematikken forankres i biologien, og vi hadde håpet at dette ville hjelpe studenter med å skjønne relevansen og motivasjonen for å lære stoffet. Det viser seg at boken er mer enn klassisk ​kalkulus​ bok enn vi var klar over.
+_2018_
+* Vi tok i bruk en egen pensumbok,
+"BioCalculus": "https://www.cengage.co.uk/books/9781305114036/"​
+* Tre kaptiler  av denne boken var penseum (kap. 1, 2 og 8)
+* Til det ble tre uker med forelesninger og matteoppgave i gruppetimene,
+  spredt gjennom semesteret
+* Eksamen fikk en egen matematikk oppgave
+* Evalueringen viste at denne satsningen har vært delvis vellykket,
+  men at studenter opplevde kurset som todelt.
+  Pensumboken Biocalculus viser seg æ være mer enn klassisk ​kalkulus​ bok
+  enn vi var klar over
 
-2019
-Matematikk undervisningen ble konsentrert i tre påfølgende kursuker (4., 5. og 6. uke
-i kurset) i stedet for fordelt over semesteret som i 2018. Pensumboken fra 2018 (BioCalculus) ble ikke lenger brukt. I stedet har Arne Sletsjøe skrevet et eget mattekompendiet til BIOS1100
-Eval:
-Det å konsentrere matematikkundervisningen i tre sammenhengende uker har bare delvis fungert. Det førte til at det ble en lang pause i undervisningen av nytt Python stoff, og en opphoping av det i andre del av kurset. En mer jevn fordeling, som vi hadde i 2018, er sannsynligvis likevel å foretrekke. Studenter opplevde kurset dessverre fortsatt som todelt.
+_2019_
+* BioCalculus ble erstatte med eget mattekompendiet til BIOS1100
+  skrevet av Arne Sletsjøe
+* Matematikk undervisningen ble konsentrert i tre påfølgende kursuker (uke 4-6)
+* Evalering viste at det ikke var optimalt å konsentrere matematikkundervisningen
+  i tre sammenhengende uker grunnet den lange pausen i Python undervisngen
+  som da oppstå.
+  Gruppelærere slet litt med å kunne hjelpe studentene med matteoppgavene
 
+_2020_
+* Matematikk undervisningen ble delt i to, og undervist i uke 4 og 5 og uke 12
+* Ny 1. amanuensis på institutt Øystein Langangen ble involvert i opplæring
+  av gruppelærere slik at de skulle ble bedre i stand til å hjelpe studenene
+* Evalueringen viste at todelingen fungerte, og gruppelærere rapporterte at de
+  kunne hjelpe studentene mye bedre med matteoppgavene enn før.
+
+En utfordring som jeg ikke har funnet en god nok løsning for er at
+matematikken oppleves av flere studenter som et eget fag
+som ikke henger sammen med resten av kurset.
+
+
+# #ifdef NOTES
 
 === Forelesningsform ===
 
@@ -352,22 +425,14 @@ Det å konsentrere matematikkundervisningen i tre sammenhengende uker har bare 
 
 Konklusjonen er at vi har funnet ‘formen’ for undervisningen i BIOS1100, med forelesninger (som har noe forbederingspotential), samkodingsgruppene og gruppeundervisningen. Det som gjenstår er å ferdigstille innholdet - det var fortsatt mye arbeid med å få alle oppgaver på plass for hver uke, selv om ‘oppgavebanken’ begynner å ta form.
 
+# #endif
+
 === Obligatoriske innleveringer og eksamensform ===
 
 
-2019Oppgaver for både obligatoriske innleveringer og slutteksamen hadde større fokus på å løse biologiske problemer med hjelp av modellering og programmering, og det var (mye) mindre oppgaver for å bare teste forståelse av programmeringskonsepter, noe som var en stor del av den summative vurderingen i 2017 og 2018
+2019
+Oppgaver for både obligatoriske innleveringer og slutteksamen hadde større fokus på å løse biologiske problemer med hjelp av modellering og programmering, og det var (mye) mindre oppgaver for å bare teste forståelse av programmeringskonsepter, noe som var en stor del av den summative vurderingen i 2017 og 2018
 
-=== Programmering ===
-
-## while løkker før for løkker og numpy arrays mye senere enn lister
-
-2018
-● Rekkefølge i programmeringsundervisningen ble tilpasset etter erfaringer fra 2017:
-○ while løkker kom før for løkker
-○ Numpy arrays ble først undervist på slutten for å forhindre at studentene
-blandet disse med vanlige lister
-2020
-Python mer spredt utover
 
 
 # #ifdef NOTES

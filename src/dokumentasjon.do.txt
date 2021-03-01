@@ -121,15 +121,19 @@ _Software og Data Carpentry_
   * Masterstudent June Edvarda Eliassen (2020)
     * tittel: Biologistudenters motivasjon for beregningsorientert biologi etter innføring av krav om full fordypning i realfaglig matematikk
     * lenke til oppgaven: URL: "http://urn.nb.no/URN:NBN:no-82918"
+    * fil: `Masteroppgave_Eliassen.pdf`
   * Masterstudent Sofie Rudberg (2020)
     * tittel: Relevansen av kompetansen fra matematikk R2 i beregningsorientert biologi
     * lenke til oppgaven: URL: "http://urn.nb.no/URN:NBN:no-82936"
+    * fil: `Masteroppgave_Rudberg.pdf`
   * Masterstudent Marthe Mjøen Berg (2019)
     * tittel: Studentar si interesse og meistringsforventning for programmering og modellering i biologi
     * lenke til oppgaven: URL: "http://urn.nb.no/URN:NBN:no-73633"
+    * fil: `Masteroppgave_Berg.pdf`
   * Masterstudent Lars Erik Håland (2019)
     * tittel: Studenters arbeid med programmering i biovitenskapelige problemstillinger. En kvalitativ studie av biologistudenters arbeid med Python
     * lenke til oppgaven: URL: "http://urn.nb.no/URN:NBN:no-73632"
+    * fil: `Masteroppgave_Håland.pdf`
 
 === En kollegial holdning og praksis ===
 

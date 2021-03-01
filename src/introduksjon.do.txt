@@ -1,11 +1,18 @@
-Denne pedagogiske mappen har følgende struktur:
+En pedagogisk mappe er ment til å dokumentere
+erfaringer og utvikling som underviser,
+og er relevant for ansettelse og merittering ved universiteter.
 
-* legge til et kapittel om samkoding
-* legge til et kapittel om det digitale
+Denne pedagogiske mappen har en struktur som stort sett følger SoTL
+("Scholarship of Teaching and Learning": "https://issotl.com/about-issotl/") prinsippene.
 
 
-Spesifisering av hvordan innholdet i denne mappen
-henger sammen med SoTL kriteriene:
+% if not DOCX:
+Bruk innholdefortegnelse til venstre for å bytte
+mellom de forksjellige kapitler,
+og den til høyre for å finne avsnittene innad i kapitlet du har åpnet.
+% endif
+
+===== Spesifisering av hvordan innholdet i denne mappen henger sammen med SoTL kriteriene =====
 
 ## FIXME: sjekk om dette faktisk stemmer på slutten
 ## FIXME: for eksempel, oppdater med evt. nye kapittler
