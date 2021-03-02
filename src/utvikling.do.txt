@@ -40,12 +40,12 @@ Forkergruppen min var en av de som sto for kurset,
 og mine veiledere ba meg å holde et par foredrag
 og bidra med labøvelser.
 Denne erfaringen fortalte meg at jeg faktisk lite å undervise,
-å stå foran en gruppe studenter og formidle min kunnskup til dem.
+å stå foran en gruppe studenter og formidle min kunnskap til dem.
 
 === 2005-2009 ===
 
 Jeg mener at denne erfaring har bidratt da jeg fikk stilling som postdokter
-ved Bioligisk Institutt (nå Institutt for Biovitenskap) ved Universitete i Oslo.
+ved Biologisk Institutt (nå Institutt for Biovitenskap) ved Universitete i Oslo.
 Den jog jobbet for ba meg allered etter kort tid å bidra med noen forelesninger
 i kurset BIO2120 Evolusjonsbiologi om evolusjon og utviklingsbiologi
 (mitt doktorgrads fagfelt), og evolusjon av gener og genomer.
@@ -68,7 +68,7 @@ Jeg merket fort at jeg ønsker å videreformidle min nye kunnskap til mine kolle
 som hadde samme behov.
 Jeg ga korte kurs for kolleger i bruk av de verktøyene jeg brukte mest, og i progammering.
 
-===== 2009-2016 =====
+===== INF-BIO5121/9121 (2012-2016) =====
 
 Fra 2009 ble jeg med i Norwegian Sequencing Centre (NSC),
 en nasjonal forskningsinfrastruktur for DNA sekvensering.
@@ -173,7 +173,7 @@ Sentrale begreper er motivasjon, kognitiv last, novise-ekspert, mentale modeller
 
 
 
-===== 2017-2020: BIOS1100 =====
+===== BIOS1100 (2017-) =====
 
 I 2017 ble det introdusert nye bachelorprogrammer i alle studieprogrammer
 ved det matematisk- naturvitenskapelige fakultet ved Universitetet i Oslo.

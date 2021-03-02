@@ -149,9 +149,9 @@ tilbudt stillinger som sommerstudenter.
 Formålet med prosjektene til disse 'CSE' sommerstudenter har vært
 å utvikle undervisningsmaterial til kurs der beregninger inkorporeres.
 Jeg har søkt, og fått, totalt 12 slike stillinger tildelt.
-Disse studentene har bidratt med mer enn 150 oppgaver,
-og stortsett alle disse brukes i undervisningen.
-Det har vært en stot glede å kunne jobbe med disse studentene.
+Disse studentene har bidratt med mer enn 100 oppgaver,
+og en stor del av disse brukes i undervisningen.
+Det har vært en stor glede å kunne jobbe med disse studentene.
 Disse vet ofte selv veldig godt hvordan det er å lære programering som biolog,
 og er veldig kreativ når det kommer til å finne gode biologiske
 problemstillinger studentene kan jobbe med.
