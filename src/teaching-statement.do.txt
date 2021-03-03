@@ -1,11 +1,4 @@
 
-# #ifdef NOTES
-Fra Line Wittek
-
-Jeg synes du får til å presentere både de "store" pedagogiske idealene dine og vise helt konkret hva dette har ført til i mer konkret forstand - det er mange som sliter med å få frem akkurat denne tosidigheten, men dette synes jeg at du har fått fint til. Beskrivelsen på s. 3 under overskriften "Participatory live ...." blir kanskje litt vel detaljert og noe implisitt, så her kan du jo vurdere om du kan korte ned noe for å få plass til det du mangler.
-
-# #endif
-
 ===== Om denne undervisningsfilosofien =====
 
 Denne teksten er skrevet til å leses som et selfstendig dokument,
@@ -13,7 +6,7 @@ uavhengig av det øvrige innholdet i denne pedagogiske mappen.
 Dermed er det nok noe overlapp mellom denne teksten
 og de øvrige kapitlene.
 I tillegg er teksten skrevet på engelsk
-siden jeg å dele den med internasjonale kollegaer.
+siden jeg ønsker å dele den med internasjonale kollegaer.
 
 ===== Introduction =====
 
@@ -37,7 +30,7 @@ incorporate what I have learned, and am learning, from educational
 science. This will be described in the following three sections.
 
 ===== Cognitive load theory and the need to manage cognitive load =====
-label{cognitive_load}
+label{kognitiv_last}
 
 === Theoretical background ===
 
@@ -92,6 +85,7 @@ My main technique for reducing cognitive load when learning programming
 is called Participatory Live Coding.
 
 _Managing cognitive load in teaching programming: Participatory live coding_
+label{samkoding}
 
 Participatory live coding is a guided instructional technique "in which
 a teacher or instructor writes and narrates code out loud as they teach
@@ -226,6 +220,7 @@ so-called distractors. Ideally, distractors should not be too obviously
 wrong, but rather be indicative of possible misconceptions.
 
 _Formative assessment combined with Peer Instruction_
+
 label{formative_assessment}
 Originally created by Eric Mazur at Harvard cite{mazur1997Peer},
 Peer Instruction is
@@ -308,6 +303,7 @@ students in these groups know each other from before, otherwise it is
 much more challenging to get them to discuss the question.
 
 _Obligatory assignments_
+label{obliger}
 
 In BIOS1100, students hand in 5 obligatory assignments spread evenly
 throughout the course. These are meant to ensure students work with the
@@ -379,6 +375,8 @@ BIOS1100 aims to teach.
 
 === Practical implementation ===
 
+_Jupyter Notebooks and JupyterHub_
+
 To align how we teach programming In BIOS1100, we use Jupyter Notebooks
 for everything. "Jupyter Notebooks": "https://jupyter.org" are a form of
 'computational' notebooks combining text, media, programming code and
@@ -400,6 +398,9 @@ environment is that it saves the students from installing software on
 their own laptop: as long as they have a working internet connection
 they can log in (using university credentials) to the server and start
 working.
+
+_Exam_
+label{eksamen}
 
 In the first two years of BIOS1100, however, there was one component
 that did not use these notebooks. During the exam the students had to
@@ -444,7 +445,7 @@ working with (obligatory) assignments.
 
 ===== Conclusion =====
 
-After four years of continued development, I am very satisfied with
+After several years of continued development, I am very satisfied with
 BIOS1100. i have found the right 'form' for this course, with lectures,
 Participatory Live Coding sessions and group sessions. The material
 written for the course, the set of problem exercises and Multiple Choice

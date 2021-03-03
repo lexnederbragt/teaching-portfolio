@@ -37,7 +37,7 @@ _Emneansvar_
   * 2020
     * "Canvas sidene": "https://uio.instructure.com/courses/26583"
     * Fil: `Sluttrapport BIOS1100 Høsten 2020.pdf`
-  * pensumbok "Introduction to Analysis and Modeling in Biology with Python",
+  * Pensumbok "Introduction to Analysis and Modeling in Biology with Python",
     "siste versjon (august 2020)": "https://uio.instructure.com/courses/26583/pages/introduction-to-analysis-and-modeling-in-biology-with-python?module_item_id=266340"
   * Jeg har skrevet noen blogposter om BIOS1100: URL: "http://lexnederbragt.com/bios1100"
 * INF-BIO5121/9121 (2012-2016)
@@ -48,35 +48,35 @@ _Emneansvar_
 _Annen universitetsundervisning_
 
 * "MBV-INF4410/9410": "https://www.uio.no/studier/emner/matnat/ibv/MBV-INF4410/index.html" Bioinformatics for Molecular Biology 2013-2016
-  * forelesning "The bioinformatics of sequencing and assembling genomes"
-  * forelesning "What does it mean to do bioinformatics?"
+  * Forelesning "The bioinformatics of sequencing and assembling genomes"
+  * Forelesning "What does it mean to do bioinformatics?"
 * "BIO9905MERG1": "https://www.uio.no/studier/emner/matnat/ibv/BIO9905MERG1/" - Bioinformatics for Metagenomic Analyses and Environmental Sequencing (2011)
-  * forelesning "Next Generation Sequencing techniques and data relevant for metagenomics analyses"
-  * forelesning "Assembly of metagenomes"
+  * Forelesning "Next Generation Sequencing techniques and data relevant for metagenomics analyses"
+  * Forelesning "Assembly of metagenomes"
 * "BIO2120": "https://www.uio.no/studier/emner/matnat/ibv/nedlagte-emner/BIO2120/" Evolusjonsbiologi 2006-2007
-  * forelesning "Evolution and Development"
-  * forelesning "Evolution of Genes and Genomes"
-  * oppgaver for gruppearbeid
+  * Forelesning "Evolution and Development"
+  * Forelesning "Evolution of Genes and Genomes"
+  * Oppgaver for gruppearbeid
 
 _Workshops_
 
-* Next-Gen Sequence Analysis Workshop 'week 3' (intermediate and advanced skills) (invited), Michigan State University 2015
+* Next-Gen Sequence Analysis Workshop 'week 3' (intermediate and advanced skills) (invitert), Michigan State University 2015
   * "Websidene": "http://angus.readthedocs.org/en/2015/week3.html"
-* University of California Davis Assembly Masterclass (invited) 2013
+* University of California Davis Assembly Masterclass (invitert) 2013
   * "Websidene": "http://davis-assembly-masterclass-2013.readthedocs.org/en/latest"
 * Norwegian Sequencing Centre course: High Through-put Sequencing: technology basics, applications and bioinformatic analysis 2011
   * "Websidene": "https://www.sequencing.uio.no/events/2011/nsc_course_2011.html"
   * Jeg gjennomførte en Workshop om "Genome Assembly": "https://github.com/lexnederbragt/denovo-assembly-tutorial"
-* *De novo* genome assembly (invited), Univ. of Gothenburg, 2011
+* *De novo* genome assembly (invitert), Univ. of Gothenburg, 2011
 * Erasmus ICP course Marine Cell Biology (Observatoire Oceanologique, Banyuls-sur-mer, France) 2000
-  * forelesning "Fundamental aspects of development"
-  * forelesning "Cell cycle changes during development"
+  * Forelesning "Fundamental aspects of development"
+  * Forelesning "Cell cycle changes during development"
 
 _Software og Data Carpentry_
 
 * "Software Carpentry": "http://software-carpentry.org/"
 * "Data Carpentry": "http://www.datacarpentry.org/"
-* fra og med 2018,ble disse sammen til "The Carpentries": "https://carpentries.org"
+* fra og med 2018 ble disse sammen til "The Carpentries": "https://carpentries.org"
 * jeg er en sertifisert "instruktør": "https://carpentries.org/instructors/" og "instruktør trener": "https://carpentries.org/trainers/"
   * _Vedlegg_ `SoftwareCarpentry_Instructor_Certificate.pdf`
   * _Vedlegg_ `DataCarpentry_Instructor_Certificate.pdf`
@@ -88,35 +88,40 @@ _Software og Data Carpentry_
   * Software Carpentry: Version Control with Git cite{ahmadia2017Softwarea}
   * Software Carpentry: Automation and Make cite{allen2017Software}
   * Data Carpentry Wrangling Genomics Lesson cite{wilson2017Data}
-* Jeg er også medlem av The Carpentries "Executive Council": "https://carpentries.org/governance/", som kan sees på som organisajsonens styret (2018-2020)
+* Jeg er også medlem av The Carpentries "Executive Council": "https://carpentries.org/governance/", som kan sees på som organisajsonens styret (2018-2021)
 * Sammen med Karin Lagesen og Realfagsbiblioteket etablerte vi i 2014
   "Carpentry@UiO" :"https://www.uio.no/english/for-employees/support/research/research-data/training/carpentry/"
 * UiO er siden 2017 "medlemsorganisasjon": "https://carpentries.org/members/" av The Carpentries
 * Software Carpentry workshops jeg har bidratt til
-  * Universitetet i Oslo: 2012, 2013, 2015 - 2021
+  * Universitetet i Oslo: 2012, 2013, 2015 - 2019
   * Netherlands eScience Centre: 2017
   * Universitet i Bergen: 2014
-  * Science for Life Laboratory, Stockholm, Sverige 2014
+  * Science for Life Laboratory, Stockholm, Sverige: 2014
+  * Online (ved UiO): 2020, 2021
 * Instruktør trening workshops jeg har undervist for
-  * Universitetet i Oslo, 2016, 2018
-  * online 2016-2019
+  * Universitetet i Oslo: 2016, 2018
+  * Online for the Carpentries: 2016-2019
 
 === En forskende tilnærming ===
 
 * Vitenskapelige publikasjoner
-* _A. Nederbragt, R. M. Harris, A. P. Hill and G. Wilson_ (2020).
-  "Ten quick tips for teaching with participatory live coding",
-   *PLOS Computational Biology*, 16(9),pp. e1008090,
-   "doi: 10.1371/journal.pcbi.1008090": "https://dx.doi.org/10.1371/journal.pcbi.1008090"
+  * _A. Nederbragt, R. M. Harris, A. P. Hill and G. Wilson_ (2020).
+    "Ten quick tips for teaching with participatory live coding",
+    *PLOS Computational Biology*, 16(9),pp. e1008090,
+    "doi: 10.1371/journal.pcbi.1008090": "https://dx.doi.org/10.1371/journal.pcbi.1008090"
 * Konferansebidrag
-* MNT konferansen mars 2019: _Gregers, T.F., and Nederbragt, Lex_ (2019). Lektorstudenter utvikler unik kompetanse og bidrar til økt kvalitet på begynneremner gjennom en undervisningsrettet master. *Nordic Journal of STEM education* 3, 23–27,
-  URL: "https://doi.org/10.5324/njsteme.v3i1.2992".
-  Tilgjengelig som fil: `Gregers and Nederbragt, Lex - 2019 - Lektorstudenter utvikler unik kompetanse og bidrar.pdf`
-* MNT konferansen mars 2021: _J.E.Eliassen, M.V.Bøe, L.Nederbragt, M.M.Berg, og T.F.Gregers_ (2021).
-  Motivasjon for beregningsorientert biologi og sammenhengen med matematikk R2 fra videregående opplæring.
-  *Nordic Journal of STEM education*, *in press*.
-  Tilgjengelig som fil: `Eliassen_etal_2021_Motivasjon for beregningsorientert biologi.pdf`
-## FIXME update to final publication
+  * MNT konferansen mars 2019: _Gregers, T.F., and Nederbragt, Lex_ (2019).
+    Lektorstudenter utvikler unik kompetanse og bidrar til økt kvalitet på
+    begynneremner gjennom en undervisningsrettet master.
+    *Nordic Journal of STEM education* 3, 23–27,
+    URL: "https://doi.org/10.5324/njsteme.v3i1.2992".
+    Tilgjengelig som fil: `Gregers and Nederbragt, Lex - 2019 - Lektorstudenter utvikler unik kompetanse og bidrar.pdf`
+  * MNT konferansen mars 2021: _J.E.Eliassen, M.V.Bøe, L.Nederbragt, M.M.Berg,
+    og T.F.Gregers_ (2021).
+    Motivasjon for beregningsorientert biologi og sammenhengen
+    med matematikk R2 fra videregående opplæring.
+    *Nordic Journal of STEM education*, *in press*.
+    Tilgjengelig som fil: `Eliassen_etal_2021_Motivasjon for beregningsorientert biologi.pdf`
 * Forskning på egen undervisning
   * Masterstudent June Edvarda Eliassen (2020)
     * tittel: Biologistudenters motivasjon for beregningsorientert biologi etter innføring av krav om full fordypning i realfaglig matematikk
@@ -143,6 +148,7 @@ _Software og Data Carpentry_
 * Gruppelærere
   * "Dokumentasjonssider for gruppelærere": "https://pages.github.uio.no/alexajo/bios1100-assistants/start.html" (krever login med UiO brukernavn og passord)
 * CCSE
+  * Jeg er en del av "ledergruppen": "https://www.mn.uio.no/ccse/english/about/organization/leader-group/"
   * Bidrag til "CCSE sine årsrapporter": "https://www.mn.uio.no/ccse/english/about/reports"
 
 

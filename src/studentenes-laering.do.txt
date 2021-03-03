@@ -1,3 +1,4 @@
+
 # #ifdef NOTES
 
 ## Undervisningsopplegget er tilpasset studentenes kjennetegn,
@@ -31,16 +32,19 @@ FORSLAG
 
 # #endif
 
+## FIXME ferdigskriv dette!
+
+
 My av det som faller under 'Fokus på studentenes læring' er beskrevet i
 min undervisningsfilosofi (kapittel 'Teaching Statement'):
 
-* bruk av samkoding som undervsiningsform for å redusere kognitiv last når
+* Bruk av samkoding som undervsiningsform for å redusere kognitiv last når
   studenter lærer programmering
-* bruk av formativ vudering kombinert med Peer Instruction for å
+* Bruk av formativ vudering kombinert med Peer Instruction for å
   sjekke forståelse og rette opp misforståelser
-* bruk av tilbakemeldinger på obligatoriske innleveringer for å
+* Bruk av tilbakemeldinger på obligatoriske innleveringer for å
   kunne hjelpe studenter med å forbedre seg faglig
-* fokus på samstemt undervisning i utforming av obligatoriske øvelser og
+* Fokus på samstemt undervisning i utforming av obligatoriske øvelser og
   eksamensoppgaver, samt hvordan eksamen gjennomføres
 
 Jeg begrenser med i dette kapittelet dermed til
