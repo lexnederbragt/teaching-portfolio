@@ -5,7 +5,9 @@ tmp_*.do.txt
 *~~
 ~$*
 *.dlog
-*.md
+book/*.md
+src/*.md
+ipynb-*-src.tar.gz
 .DS_Store
 
 vedlegg/
