@@ -56,10 +56,10 @@ build: pub/book book/*.md
 	jupyter-book build book --all
 
 # proposal merittert underiviser 2021
-pub/soeknad.docx: src/soeknad.do.txt
+pub/soeknad.docx: src/soeknad.do.txt src/word_template_soeknad.docx
 	doconce format pandoc src/soeknad && \
 	echo Converting to docx && \
-	pandoc -t docx --reference-doc src/word_template.docx \
+	pandoc -t docx --reference-doc src/word_template_soeknad.docx \
 	src/soeknad.md -o $@
 
 # remove files doconce can recreate
