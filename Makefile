@@ -21,11 +21,11 @@ src/papers.bib : src/papers.pub
 
 # markdown, needed for docx
 # --sections_up - move headers up to heading 1 level
-src/mappe.md: src/*.do.txt src/papers.bib
+src/mappe.md: src/*.do.txt src/papers.bib src/word_template.docx
 	doconce format pandoc src/mappe \
 	-DDOCX --language=Norwegian \
 	--sections_up
-	
+
 # Microsoft word
 # --lua-filter=src/pagebreak.lua - enable page breaks between chapters
 pub/mappe.docx: src/mappe.md
