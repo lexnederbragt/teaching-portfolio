@@ -340,6 +340,15 @@ En utfordring er å få de studentene som trenger det faktisk til å gå
 på samkodingsgruppene.
 
 ## noe mer refleksjoner?
+=== Studentaktive læringsmetoder ===
+
+FIXME skriv om:
+
+* MCQ/mentimeter i forelesninger
+* offline øvelser
+* gruppeøvelser i gruppetimene (ALC klasserom)
+* nyere øvelser der grupper viser hverandre sin kode
+* det store gruppeprosjektet som kom i 2019
 
 === Programmering ===
 
