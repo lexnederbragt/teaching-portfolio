@@ -7,8 +7,8 @@ Denne pedagogiske mappen har en struktur som stort sett følger SoTL
 
 
 % if not DOCX:
-Bruk innholdefortegnelse til venstre for å bytte
-mellom de forksjellige kapitler,
+Bruk innholdsfortegnelse til venstre for å bytte
+mellom de forskjellige kapitler,
 og den til høyre for å finne avsnittene innad i kapitlet du har åpnet.
 % endif
 
@@ -22,9 +22,9 @@ Denne figuren viser hvordan innholdet i denne mappen henger sammen med SoTL krit
 * Behandles i undervisningsfilosofien (Teaching Statement)
   * Fokus på samstemt undervisning i utforming av obligatoriske øvelser og
     eksamensoppgaver, samt hvordan eksamen gjennomføres
-  * Bruk av samkoding som undervsiningsform for å redusere kognitiv last når
+  * Bruk av samkoding som undervisningsform for å redusere kognitiv last når
     studenter lærer programmering
-  * Bruk av formativ vudering kombinert med Peer Instruction for å
+  * Bruk av formativ vurdering kombinert med Peer Instruction for å
     sjekke forståelse og rette opp misforståelser
 * Behandles i et eget kapittel
   * Motivasjon gjennom valg av relevante biologiske problemstillinger
@@ -38,7 +38,7 @@ Denne figuren viser hvordan innholdet i denne mappen henger sammen med SoTL krit
 * Behandles i et eget kapittel
   * undervisning som student og PhD student
   * design og utvikling av workshops og et master/PhD kurs i bioinformatikk
-  * design og utvikling av et begynneremne i beregningsotientert biologi
+  * design og utvikling av et begynneremne i beregningsorientert biologi
 
 === En forskende tilnærming ===
 
@@ -56,13 +56,13 @@ Denne figuren viser hvordan innholdet i denne mappen henger sammen med SoTL krit
   * Undervisnings Verksted ved Institutt for Biovitenskap
   * Undervisning i et felleskap med gruppelærere og studenter
 ##  * ???? (erfaringsdokument)
-  * Studenter som bidragsyttere i det faglige innholdet
+  * Studenter som bidragsytere i det faglige innholdet
 
 === Det digitale ===
 
-* Bruk av læringsfremmede digitale midler er å finne i nesten alle kapitler
+* Bruk av læringsfremmende digitale midler er å finne i nesten alle kapitler
   * Pionér i bruk av interaktive brukergrensesnitt for programmeringsopplæring
-  (Jupyter), som resulterte i en sky-basert løsning for flere kurs på UiO (JupyterHub)
+  (Jupyter), som resulterte i en skybasert løsning for flere kurs på UiO (JupyterHub)
 ##  * Strukturert bruk av sidene på Canvas
   * Pågående prosjekt "Integrasjon av Jupyter og Canvas for digital vurdering"
   * Bruk av GitHub og MS Teams for interaksjon og deling av materialet med gruppelærere

@@ -3,15 +3,15 @@
 
 ## Undervisningsopplegget er tilpasset studentenes kjennetegn,
 ## deres behov for tilbakemelding,
-## og en tydelig kopling mellom læringsmål og vurderingsformer.
+## og en tydelig kobling mellom læringsmål og vurderingsformer.
 ## Tilbakemeldinger fra studenter brukes systematisk til å utvikle undervisningen.
 
 * ha med sitater fra studentevalueringer
-  * f.eks. >90% sier de ville kommet på gruppeitmene uansett
+  * f.eks. >90% sier de ville kommet på gruppetimene uansett
 * forelesninger er ikke mye nevnt ennå
   * bruk av menti der
 * offline øvelser
-* student-aktive læringsformer i gruppetimene
+* studentaktive læringsformer i gruppetimene
   * gå rundt i rommet se på hverandres løsning
   * det store prosjektet mot slutten
   * menti's
@@ -24,10 +24,10 @@
 * aktiv bruk av evalueringsmekanismene for å forbedre læring
 * her kommer også studentevalueringer in
   * husk sitater fra disse evalueringer
-* pedagogisk opplæaring gruppelærere
+* pedagogisk opplæring gruppelærere
 
 * Bruk av samkoding
-* hvordan aktiviserer jeg studentene? studentaktive undervisningsformer
+* hvordan aktiverer jeg studentene? studentaktive undervisningsformer
 * exit quiz jeg introduserte i gruppetimene i 2020
 * nevn samkodingsvideoer?
 
@@ -50,9 +50,9 @@ min undervisningsfilosofi (kapittel 'Teaching Statement'):
 
 * Fokus på samstemt undervisning i utforming av obligatoriske øvelser og
   eksamensoppgaver, samt hvordan eksamen gjennomføres
-* Bruk av samkoding som undervsiningsform for å redusere kognitiv last når
+* Bruk av samkoding som undervisningsform for å redusere kognitiv last når
   studenter lærer programmering
-* Bruk av formativ vudering kombinert med Peer Instruction for å
+* Bruk av formativ vurdering kombinert med Peer Instruction for å
   sjekke forståelse og rette opp misforståelser
 * Bruk av tilbakemeldinger på obligatoriske innleveringer for å
   kunne hjelpe studenter med å forbedre seg faglig
@@ -66,7 +66,7 @@ Utfordringen med et fag som BIOS1100 er
 Et vesentlig poeng med hvordan BIOS1100 er organisert er derfor at,
 så mye som mulig, materialet som brukes er biologisk relevant.
 Dette har med studentene motivasjon å gjøre:
-de fleste valgte biovitensksprogrammet ikke fordi de er interessert
+de fleste valgte biovitenskapsprogrammet ikke fordi de er interessert
 i å studere programmering og modellering, men fordi de vil studere biologi.
 Relevans av undervisning økes når studentene møter autentiske oppgaver cite{hidi2006FourPhase}.
 Som et eksempel mener jeg, når eksponensiell modeller undervises,
@@ -78,29 +78,29 @@ I kursboken er fokuset på et biologisk problem,
 for å så undervise noe nytt Python stoff for å kunne løse problemet.
 Studentene i BIOS1100 jobber dermed med eksempler fra populasjonsdynamikk,
 genetikk, bioinformatikk, etc.
-I 2020 fikk vi en unik mulgihet til å aktualisere kursets innhold
+I 2020 fikk vi en unik mulighet til å aktualisere kursets innhold
 fordi vi kunne bruke modellene som undervises
 til å modellere den pågående korona pandemien.
-Til slutt lager vi også noen koblinger til et av de andre fagene programstudentene
-tar samme semmester, BIOS1110 – Celle- og molekylærbiologi.
+Til slutt lager vi også noen koblinger til et av de andre fagene program studentene
+tar samme semester, BIOS1110 – Celle- og molekylærbiologi.
 Studentene skal for eksempel plotte noe målinger de har gjort på labben i BIOS1110,
 eller implementere en Python-basert *in silico* modell av et
 DNA-kuttings eksperiment de gjør i det andre faget.
-Studentene melder ofte uanmodnet at det at faget vises til å være relevant for
+Studentene melder ofte uanmodet at det at faget vises til å være relevant for
 biologien gjør det mer interessant.
 
 ===== Evaluering og systematisk utvikling av undervisningen =====
 
 I min undervisning bruker jeg underveisevaluering og sluttevaluering
-på en systematisk mte for å forbedre undervisningen.
+på en systematisk måte for å forbedre undervisningen.
 
 Underveisevaluering med gruppelærere med hjelp av et delt Google Doc
 beskrevet i avsnittet ref{erfaringsdokument}.
 På de ukentlige gruppelærermøtene gjennom semesteret starter vi alltid
-men en kort oppsumering av uken som var for å se om det var noe problemer
+men en kort oppsummering av uken som var for å se om det var noe problemer
 som må rettes opp i umiddelbart eller for neste gang kurset organiseres.
 
-BIOS1100 har ogå studentrepresentanter, og de har vi felles med BIOS1110.
+BIOS1100 har også studentrepresentanter, og de har vi felles med BIOS1110.
 Dette har som fordel at vi sammen med studentene kan avstemme
 arbeidsbelastning mellom kursene, og bidra til at
 opplevelser av kursene er noenlunde likt.
@@ -109,15 +109,15 @@ der alle studenter bes å fylle ut et nettskjema.
 Resultatene av disse spørreundersøkelser diskuteres med studentrepresentantene
 på et møte midt i kurset, og etter siste undervisningsuke.
 Evalueringer har ført til en rekke endringer, som er beskrevet
-der utviklingeni BIOS1100 beskrives (avsnittet ref{bios1100_utvikling}).
+der utviklingen i BIOS1100 beskrives (avsnittet ref{bios1100_utvikling}).
 
 I 2020 eksperimenterte jeg med en kort, online 'exit quiz' som studentene
 fyller ut på slutten av gruppetimen med to spørsmål: "Hva var bra med dagens gruppetime?" og "Hva er fortsatt uklart for deg?".
-Dette var verdigful for å forstå eventuelle problemer studentene hadde,
-slik at de kunne addresseres umiddelbart.
-Jeg skal fortsette med denne formen for formativ vurderign i  kurset framover.
+Dette var verdifull for å forstå eventuelle problemer studentene hadde,
+slik at de kunne adresseres umiddelbart.
+Jeg skal fortsette med denne formen for formativ vurdering i  kurset framover.
 
 Til slutt brukes og resultater fra
 prosjekter til lektorstudenter som tar en undervisningsrettet master
-og som skroiver sin oppgave om studenter som tar BIOS1100.
+og som skriver sin oppgave om studenter som tar BIOS1100.
 Dette behandles i neste kapittel.

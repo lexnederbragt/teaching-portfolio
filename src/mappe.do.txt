@@ -53,6 +53,6 @@ TOC: on
 % endif
 ======= 8. Litteraturliste =======
 
-% if DOCX:
+% if not DOCX:
 BIBFILE: papers.pub
 % endif
