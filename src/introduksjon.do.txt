@@ -1,11 +1,3 @@
-# #ifdef NOTES:
-Key points
-
-* bruk av forskningen på hvordan man lærer
-* 
-
-# #endif
-
 En pedagogisk mappe er ment til å dokumentere
 erfaringer og utvikling som underviser,
 og er relevant for ansettelse og merittering ved universiteter.
@@ -20,13 +12,11 @@ mellom de forksjellige kapitler,
 og den til høyre for å finne avsnittene innad i kapitlet du har åpnet.
 % endif
 
-===== Spesifisering av hvordan innholdet i denne mappen henger sammen med SoTL kriteriene =====
+FIGURE:[img/pedagogisk_mappe_oversikt.png, width=350]
 
-## FIXME: sjekk om dette faktisk stemmer på slutten
-## FIXME: for eksempel, oppdater med evt. nye kapittler
+Denne figuren viser hvordan innholdet i denne mappen henger sammen med SoTL kriteriene.
 
-## FIXME: erstatt med en figur?
-
+# #ifdef NOTES:
 === Fokus på studentenes læring ===
 
 * Behandles i undervisningsfilosofien (Teaching Statement)
@@ -78,3 +68,5 @@ og den til høyre for å finne avsnittene innad i kapitlet du har åpnet.
   * Bruk av GitHub og MS Teams for interaksjon og deling av materialet med gruppelærere
   * Bruk av Student Respons Systemet Mentimeter for formativ vurdering og
   innhenting av besvarelser i etterkant
+
+# #endif

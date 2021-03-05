@@ -6,41 +6,53 @@ TOC: on
 
 # #include "introduksjon.do.txt"
 
+% if DOCX:
 \newpage
+% endif
 ======= 2. Hvordan jeg som underviser har utviklet meg =======
 
 # #include "utvikling.do.txt"
 
+% if DOCX:
 \newpage
+% endif
 ======= 3. Min undervisningsfilosofi (Teaching Statement) =======
 
 # #include "teaching-statement.do.txt"
 
+% if DOCX:
 \newpage
+% endif
 ======= 4. Fokus på studentenes læring =======
 
 # #include "studentenes-laering.do.txt"
 
+% if DOCX:
 \newpage
+% endif
 ======= 5. Bruk av forskning i undervisningen =======
 
 # #include "forskningsbasert.do.txt"
 
+% if DOCX:
 \newpage
+% endif
 ======= 6. Kollegialt samarbeid om utvikling av undervisning =======
 
 # #include "kollegialt-samarbeid.do.txt"
 
+% if DOCX:
 \newpage
+% endif
 ======= 7. Dokumentasjon =======
 
 # #include "dokumentasjon.do.txt"
 
+% if DOCX:
 \newpage
+% endif
 ======= 8. Litteraturliste =======
 
-% if not DOCX:
-
+% if DOCX:
 BIBFILE: papers.pub
-
 % endif
