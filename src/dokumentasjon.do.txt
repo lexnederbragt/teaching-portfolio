@@ -92,6 +92,12 @@ _Software og Data Carpentry_
 * Sammen med Karin Lagesen og Realfagsbiblioteket etablerte vi i 2014
   "Carpentry@UiO" :"https://www.uio.no/english/for-employees/support/research/research-data/training/carpentry/"
 * UiO er siden 2017 "medlemsorganisasjon": "https://carpentries.org/members/" av The Carpentries
+  * Webside til "Carpentry@UiO":"https://uio-carpentry.github.io", bl.a. med
+    oversikt over "tidligere worshops": "https://uio-carpentry.github.io/workshops/#past-workshops"
+  * Websidene fra Universitetsbiblioteket:
+    * "carpentry.uio.no": "https://carpentry.uio.no"
+    * "oversikt over workshops" : "https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/"
+  * Jeg leder "styret for Carpentry@UiO" : "https://uio-carpentry.github.io/about/members/"
 * Software Carpentry workshops jeg har bidratt til
   * Universitetet i Oslo: 2012, 2013, 2015 - 2019
   * Netherlands eScience Centre: 2017

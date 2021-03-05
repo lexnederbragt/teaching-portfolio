@@ -1,3 +1,11 @@
+# #ifdef NOTES:
+Key points
+
+* bruk av forskningen på hvordan man lærer
+* 
+
+# #endif
+
 En pedagogisk mappe er ment til å dokumentere
 erfaringer og utvikling som underviser,
 og er relevant for ansettelse og merittering ved universiteter.
@@ -22,9 +30,12 @@ og den til høyre for å finne avsnittene innad i kapitlet du har åpnet.
 === Fokus på studentenes læring ===
 
 * Behandles i undervisningsfilosofien (Teaching Statement)
-  * Kognitiv last teori og samkoding
-  * Formativ vurdering og Peer Instruction
-  * Samstemt undervisning
+  * Fokus på samstemt undervisning i utforming av obligatoriske øvelser og
+    eksamensoppgaver, samt hvordan eksamen gjennomføres
+  * Bruk av samkoding som undervsiningsform for å redusere kognitiv last når
+    studenter lærer programmering
+  * Bruk av formativ vudering kombinert med Peer Instruction for å
+    sjekke forståelse og rette opp misforståelser
 * Behandles i et eget kapittel
   * Motivasjon gjennom valg av relevante biologiske problemstillinger
   * Systematisk bruk av studentevalueringer
@@ -32,14 +43,21 @@ og den til høyre for å finne avsnittene innad i kapitlet du har åpnet.
 === En klar utvikling over tid ===
 
 * Behandles i undervisningsfilosofien (Teaching Statement)
-  * Implementering av samkoding i BIOS1100
+  * Implementering av samkoding som undervisningsform i BIOS1100
   * Samstemt undervisning i BIOS1100
 * Behandles i et eget kapittel
+  * undervisning som student og PhD student
+  * design og utvikling av workshops og et master/PhD kurs i bioinformatikk
+  * design og utvikling av et begynneremne i beregningsotientert biologi
 
 === En forskende tilnærming ===
 
+* Behandles i undervisningsfilosofien (Teaching Statement)
+  * Teorien om Kognitiv Last (Cognitive Load Theory)
+  * Formativ vurdering og Peer instruction
+  * Samstemt undervisning (Constructive Alignment)
 * Behandles i et eget kapittel
-  * Bruk av resultater fra forsning om læring i undervisningen
+  * Bruk av resultater fra forskning om læring i undervisningen
   * Forskning på egen undervisning
 
 === En kollegial holdning og praksis ===
