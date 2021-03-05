@@ -57,6 +57,20 @@
    annotation: MNT-konferansen 2019, 28.-29. mars, Troms\o
    entrytype:  article
    language:   Norwegian
+** The {{Four}}-{{Phase Model}} of {{Interest Development}}
+   key:       hidi2006FourPhase
+   author:    Suzanne Hidi, K. Ann Renninger
+   year:      2006
+   journal:   Educational Psychologist
+   volume:    41
+   number:    2
+   pages:     111--127
+   doi:       10.1207/s15326985ep4102_4
+   status:    published
+   entrytype: article
+   issn:      0046-1520, 1532-6985
+   language:  en
+   month:     jun
 ** The Magical Number Seven, Plus Or Minus Two: Some Limits on Our Capacity for Processing Information.
    key:       miller1956magical
    author:    George A. Miller

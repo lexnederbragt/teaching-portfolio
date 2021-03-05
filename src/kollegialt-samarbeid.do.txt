@@ -11,6 +11,8 @@
 
 (forskning og undervisning som fellesskapsaktivitet)
 
+
+* ha med Carpentry@UiO her?
 * Gruppelæreropplæring
 * emneansvarlig er en slags teamleder
     * noen er til og med ansatt for å jobbe med deg
@@ -118,6 +120,7 @@ i framtiden og skal da tilby å slå dette sammen med mine aktiviteter
 på området, slik at det gagner flere gruppelærere på instituttet.
 
 _Erfaringsdokument_
+label{erfaringsdokument}
 
 Det er flere gruppetimer per uke i BIOS1100, og det er nyttig at de som har undervist en gruppe tidlig i uken deler sine erfaringer med de som skal undervise senere.
 Helt fra begynnelsen av kurset har jeg derfor brukt et delt dokument (en Google Doc)

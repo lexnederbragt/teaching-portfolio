@@ -12,7 +12,9 @@
 
 # #endif
 
-===== Bruk av resultater fra forsning om læring i undervisningen =====
+===== Bruk av resultater fra forskning om læring i undervisningen =====
+
+# #ifdef LONG_VERSJON
 
 Som nevnt i kapittelet om min undervisningsfilosoi anses det
 å lære å programmere anses generelt som vanskelig
@@ -43,9 +45,18 @@ er for mye for en nybegynner å takle.
 Det å lære å programmere fører med andre ord raskt til det som i kognitiv psykologi
 kalles høy kognitiv last.
 
-Teorien om Kognitiv Last, og hvordan den brukes i utviklingen av undervisningen min, er beskrevet i undervisningsfilosoi under avsnitter {kognitiv_last}:
+# #endif
+Jeg er sterkt overbevist at undervisere bør bruke resultater fra vitenskapelig
+forskning på læring og utdanning når man planlegger og utvikler sin undervisning.
 
-## FIXME lag kulepunkter som sammenfatter dette
+Kort sammenfattet har jeg fokusert på tre områder:
+
+* Teorien om Kognitiv Last (Cognitive Load Theory)
+* Formativ vurdering og Peer instruction
+* Samstemt undervisning (Constructive Alignment)
+
+Hvordan jeg bruker forskningen på disse områdene i min undervisning er
+beskrevet utfyllende i kapittelet om min undervisningsfilosofi.
 
 ===== Forskning på egen undervisning =====
 
@@ -65,8 +76,7 @@ Som et første steg i å samle kunnskap på dett området har
 kollega Tone Gregers ved IBV tatt initiativ til
 å tilby lektorstudenter som tar en undervisningsrettet master
 til å skrive sin oppgave om studenter som tar BIOS1100.
-
-Jeg har vært medveileder for alle fire studenter.
+Jeg var medveileder for alle fire studenter.
 Veiledningsteamet har vært tverrflaglig,
 med utdanningsforskere fra fysisk institutt
 (Maria Vetleseter Bøe og Ellen Henriksen)
@@ -139,8 +149,8 @@ Kort sammendrag:
 * Studentene benytter seg av problemløsningsstrategier kjent fra matematikk
   og computational thinking
 * Studentene har derimot utfordringer med å løse mer sammensatte oppgaver,
-  og benytter seg ikke av problemløsningsstrategiene kjent fra matematikk og
-  computational thinking når de arbeider med mer tradisjonell biologi
+  og benytter seg ikke av disse problemløsningsstrategiene
+  når de arbeider med mer tradisjonell biologi
 
 Anbefalinger for BIOS1100:
 

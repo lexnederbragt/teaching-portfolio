@@ -117,6 +117,12 @@ Undervisningstermin
 
 * Stor fokus på samstemt undervisning, avstemme øvelser, innleveringer og eksamen,
   og det digitale læringsmiljø
+* Bruk av samkoding som undervsiningsform for å redusere kognitiv last når
+  studenter lærer programmering
+* Bruk av formativ vudering kombinert med Peer Instruction for å
+  sjekke forståelse og rette opp misforståelser
+* Bruk av tilbakemeldinger på obligatoriske innleveringer for å
+  kunne hjelpe studenter med å forbedre seg faglig
 * Fokus på biologiske eksempler for å vise relevans, ha autentiske oppgaver,
   og dermed øke motivasjon
 * Systematisk bruk av underveisevaluering (erfaringsdokument, exit-quiz),
