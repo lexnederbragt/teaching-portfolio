@@ -1,4 +1,4 @@
-# Pedagogisk Mappe (Teaching Portfolio) Lex Nederbragt
+## Pedagogisk Mappe (Teaching Portfolio) Lex Nederbragt
 
 Mesteparten av denne **Pedagogiske Mappen** er skrevet på norsk, og kan leses
 på/Most of this **Teaching Portfolio** is written in Norwegian,
