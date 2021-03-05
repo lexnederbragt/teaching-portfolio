@@ -126,14 +126,12 @@ Undervisningstermin
 * Fokus på biologiske eksempler for å vise relevans, ha autentiske oppgaver,
   og dermed øke motivasjon
 * Systematisk bruk av underveisevaluering (erfaringsdokument, exit-quiz),
-  midtveis- og sluttevaluering
+  midtveis- og sluttevaluering i undervisningsutvikling
 
 === En klar utvikling over tid ===
 
 * Fra utvikling av workshops til koordinator for et team av undervisere
   til emneansvarlig for et kurs jeg fikk utvikle selv fra grunnen av
-* Implementering av samkoding ('Participatory Live Coding') i begynnerundervisning
-  av programmering i Python
 * Evaluerings-basert utvikling av BIOS1100 med forbedringer av undervisningsmetoder,
   timeplan, formativ og summativ vurdering, økt samstemt undervisning
 * Økende bruk av studentaktive læringsmetoder
@@ -163,8 +161,7 @@ Undervisningstermin
   (Jupyter), som resulterte i en skybasert løsning for flere kurs på UiO (JupyterHub)
 * Utstrakt bruk av Student Respons Systemet Mentimeter for formativ vurdering
   og innhenting av besvarelser i etterkant
-* Strukturert bruk av sidene på Canvas
-* Bruk av GitHub og MS Teams for interaksjon og deling av materialet med gruppelærere
+##* Bruk av GitHub og MS Teams for interaksjon og deling av materialet med gruppelærere
 * Pågående prosjekt "Integrasjon av Jupyter og Canvas for digital vurdering"
 
 
