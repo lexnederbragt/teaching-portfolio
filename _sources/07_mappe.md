@@ -86,7 +86,7 @@
   * Forelesning "Cell cycle changes during development"
 
 
-**Software og Data Carpentry**
+**Software Carpentry, Data Carpentry, The Carpentries, Carpentry@UiO**
 
 * [Software Carpentry](http://software-carpentry.org/)
 * [Data Carpentry](http://www.datacarpentry.org/)
@@ -105,9 +105,19 @@
   * Data Carpentry Wrangling Genomics Lesson <a href="08_mappe.html#wilson2017Data">[22]</a>
 
 * Jeg er også medlem av The Carpentries [Executive Council](https://carpentries.org/governance/), som kan sees på som organisajsonens styret (2018-2021)
-* Sammen med Karin Lagesen og Realfagsbiblioteket etablerte vi i 2014
-  [Carpentry@UiO](https://www.uio.no/english/for-employees/support/research/research-data/training/carpentry/)
-* UiO er siden 2017 [medlemsorganisasjon](https://carpentries.org/members/) av The Carpentries
+* Carpentry@UiO
+  * Sammen med Karin Lagesen og Realfagsbiblioteket etablerte vi i 2014
+
+  Carpentry@UiO
+  * UiO er siden 2017 [medlemsorganisasjon](https://carpentries.org/members/) av The Carpentries
+  * Webside til [Carpentry@UiO](https://uio-carpentry.github.io), bl.a. med
+    oversikt over [tidligere worshops](https://uio-carpentry.github.io/workshops/#past-workshops)
+  * Websidene fra Universitetsbiblioteket:
+    * [carpentry.uio.no](https://carpentry.uio.no)
+    * [oversikt over workshops](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/)
+
+  * Jeg leder [styret for Carpentry@UiO](https://uio-carpentry.github.io/about/members/)
+
 * Software Carpentry workshops jeg har bidratt til
   * Universitetet i Oslo: 2012, 2013, 2015 - 2019
   * Netherlands eScience Centre: 2017
@@ -178,6 +188,22 @@
   * Jeg er en del av [ledergruppen](https://www.mn.uio.no/ccse/english/about/organization/leader-group/)
   * Bidrag til [CCSE sine årsrapporter](https://www.mn.uio.no/ccse/english/about/reports)
 
+* Foredrag
+  * **BIOS1100: Innføring i beregningsmodeller biovitenskap – erfaringer og evaluering**,
+    Real utdanning – fagdag for utdanning ved MN fakultetet, 2018
+  * **Programmering og modellering i biovitenskapsutdanning**,
+    Undervisningsseminar om beregningsorientert realfagsundervisning for NT-fakultet,
+    Universitet i Tromsø/Norges Akrtiske Universitet, 2018 (invitert)
+
+* Mediaoppmerksomhet mm
+  * jeg jar skrevet noen innlegg på min personlige blog om BIOS1100:
+    <http://lexnederbragt.com/bios1100>
+  * besøk av daværende kunnskapsministeren til UiO, inklduert undervisningen i BIOS1100
+    * artikkel i [Uniforum](https://www.uniforum.uio.no/nyheter/2017/10/henrik-asheim-blei-begreistra-for-forsking-og-unde.html)
+    * artikkel på "IBV sine websider": <https://www.mn.uio.no/ibv/om/aktuelt/aktuelle-saker/2017/kunnskapsministeren-imponert-over-bios1100-og-igem.html>
+
+  * ['Programmerings- revolusjonen'](https://issuu.com/nokut/docs/sfu_magasinet_02.18_72dpi_enkeltsid); artikkel i SFU-magasinet 2018/2, side 25
+
 
 #### Fokus på studentenes læring
 
@@ -196,4 +222,3 @@
   * [Canvas side om JupyterHub](https://uio.instructure.com/courses/26583/pages/jupyter-notebook-og-jupyterhub) for studenter i BIOS1100
 
 
-\newpage

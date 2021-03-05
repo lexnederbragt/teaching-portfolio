@@ -78,11 +78,13 @@
     *Teaching for Quality Learning at University: What the Student Does*,
     McGraw-Hill/Society for Research into Higher Education ; Open University Press,
     2011.
-15. <a name="luxton-reilly2016Learning"></a> **A. Luxton-Reilly**. 
-    Learning to Program Is Easy,
-    *Proceedings of the 2016 ACM Conference on Innovation and Technology in Computer Science Education*,
-    ACM,
-    2016.
+15. <a name="hidi2006FourPhase"></a> **S. Hidi and K. A. Renninger**. 
+    The Four-Phase Model of Interest Development,
+    *Educational Psychologist*,
+    41(2),
+    pp. 111-127,
+    [doi: 10.1207/s15326985ep4102_4](https://dx.doi.org/10.1207/s15326985ep4102_4),
+    2006.
 16. <a name="gregers2019Lektorstudenter"></a> **T. F. Gregers and L. Nederbragt**. 
     Lektorstudenter Utvikler Unik Kompetanse Og Bidrar Til \o Kt Kvalitet Pa Begynneremner Gjennom En Undervisningsrettet Master,
     *Nordic Journal of STEM education*,

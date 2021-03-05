@@ -2,9 +2,6 @@
 <!-- jupyter-book 02_mappe.md -->
 # 2. Hvordan jeg som underviser har utviklet meg
 
-* ha med felelsdelen 2019 og kollegaveiledningen
-* ha med CSE@IBV koordinator
-
 ### Begynnelsen
 
 #### Student og PhD student
@@ -112,8 +109,6 @@ Institutt for Informatikk for blannet annet å være kursansvarlig for dette kur
 Kurset har blitt en suksess og tiltrakk seg mange studenter, flest biologer,
 men alltid noen informatikere.
 Jeg tok selv min allerede utbiklede assembly modul inn i kurset.
-Fra og med 2014 endret vi kurset til en 10 studiepeongskurs, siden vi opplevde
-at mange studenter droppet eksamen fordi de bare fikk 5 studiepoeng ut av det.
 
 Dette var min første erfaring som kursansvarlig (emneansvarlig),
 som var noe nytt for meg.
@@ -130,16 +125,12 @@ Erfaringen som emneansvarlig var positiv, og førte til en bedre forståelse
 for hele kursets løp, fra forberedelse, gjennføring, eksamen og evaluering.
 Jeg fikk også bedre innsikkt i studentene perspektiv på å ta unversitetskurs.
 
-Våren 2014 tok jeg fellesdelen av Universitetspedagogisk Basiskompetanse.
-Jeg skrev et utviklingsarbeid om hvordan å øke studentdeltakelse
-i undervisningen i INF-BIOS5121/9121 kurset.
-Dette fikk jeg gode tilbakemeldinger på.
-Siden jeg var ansatt i en 20% 1. amanuensis II stilling trengte jeg ikke
-å gjenomføre hele fellesdelen og jeg valgte da bort kollegaveiledningen.
+#### Pedagogisk kompetanse
 
-Jeg fortsatte å involvere meg i The Carpentries.
-Vi fikk til et samarbeid med realfagsbiblioteket ved UiO.
-dette førte til at vi kunne tilby flere workshops.
+På denne tiden fikk jeg styrket min pedagogisk kompetanse på to måter.
+Våren 2014 tok jeg fellesdelen av Universitetspedagogisk Basiskompetanse.
+  Siden jeg var ansatt i en 20% 1. amanuensis II stilling trengte jeg ikke
+  å gjenomføre hele fellesdelen og jeg valgte da bort kollegaveiledningen.
 I 2016 ble jeg instruktør trener for the Carpentries.
 Dette innbærer at jeg kan lære opp nye instruktører.
 Til det har The Carpentries utviklet et instruktør trenings
@@ -147,8 +138,15 @@ Til det har The Carpentries utviklet et instruktør trenings
 som er forankret i noen elementære pedagogiske forskning (pedagogisk psykologi)
 rundt hvordan vi lærer.
 Sentrale begreper er motivasjon, kognitiv last, novise-ekspert, mentale modeller, tilbakemelding og summativ versus formativ vurdering.
+Som instruktør trener var jeg nå selv en av dem som underviste elementære
+begreper i pedagogikk til andre.
+
+Nå var mye på plass for å ta neste steg, som viste seg å bli et
+stort og spennende prosjekt der jeg fikk mulighet til å
+bygge opp et grunnemne i biovitenskapsprogrammet fra bunnen av.
 
 ### BIOS1100 (2017-)
+<div id="bios1100_utvikling"></div>
 
 I 2017 ble det introdusert nye bachelorprogrammer i alle studieprogrammer
 ved det matematisk- naturvitenskapelige fakultet ved Universitetet i Oslo.
@@ -169,8 +167,7 @@ og utvikle kurset fra første semester det ble undervist,
 takket jeg gledelig ja.
 Dette var en fantastisk mulighet til å utvikle et unikt kurs som
 skulle forberede studentene til å være framtidens biologer.
-
-Det viste seg at dette ansvaret var mye større enn jeg trodde,
+Det viste seg imildertid at dette ansvaret var mye større enn jeg trodde,
 men også har vært veldig givende.
 BIOS1100, og jeg som underviser,
 har gått gjennom en utrolig utvikling de første fire gangene det ble undervist.
@@ -189,10 +186,13 @@ Biologiske problemer som for esksempel poplasjonsvekst og -dynamikk,
 arv, DNA-analyse og sykdomsepidemier brukes til å gradvis innføre
 mer kompleks programmering og modellering.
 
-Kurset er basert på en ny lærebok skrevet av fire tidligere doktorgradsstudenter
+Kurset er basert på en ny lærebok
+"Introduction to Analysis and Modeling in Biology with Python"
+skrevet av fire tidligere doktorgradsstudenter
 i nevrovitenskap fra Biologisk Institutt som alle har bakgrunn innen fysikk,
 samt meg som emneansvarlig.
-
+Boken er fortsatt under utvikling og forbedres etter erfaringer
+med undervinsingen i BIOS1100 før det skal publiseres i nær framtid.
 Kurset består av:
 
 * To timers forelesnigner
@@ -218,8 +218,8 @@ For å støtte opp under deres læring la jeg inn mye formativ vurdering
 (kombinert med Peer instruction)
 med hjelp av flervalgsoppgaver i forelesninger og gruppetimene.
 Bakgrunnen for dette er beskrevet i undervisningsfilosofien under avsnittet [formative_assessment](03_mappe.html#formative_assessment).
-
 Jeg gikk også gjennom noen utvalgte oppgaver i forelesningene.
+
 Det viste seg 2/3 del inni kurset at mange studenter
 ikke kom på forelesningene lenger, og at deltakelse på gruppetimene,
 som på det tidspunktet ikke var obligatorisk, også var lavt.
@@ -294,12 +294,21 @@ I tillegg ble det i planlegging av gruppetimene lagt opp til
 å ikke ha mer enn to timer organisert arbeid,
 slik at det ble to timer til overs for selvstendig jobbing med stoffet
 og oppgaver, med gruppelærer til stedet.
-
 Disse grepene var vellykket.
 Det har blitt betydelig mer tid i gruppetimene tils selvstendig
 oppgavejobbing mens det samtidig kunne tilbys samkoding om elementær Python stoff.
 En utfordring er å få de studentene som trenger det faktisk til å gå
 på samkodingsgruppene.
+
+#### Studentaktive læringsmetoder
+
+FIXME skriv om:
+
+* MCQ/mentimeter i forelesninger
+* offline øvelser
+* gruppeøvelser i gruppetimene (ALC klasserom)
+* nyere øvelser der grupper viser hverandre sin kode
+* det store gruppeprosjektet som kom i 2019
 
 #### Programmering
 
@@ -341,40 +350,9 @@ siste del av boken.
 Effekten var at jeg opplevde framgangen i Python som mye smidigere.
 Det ble ikke rapporert om så mye forvirring som før.
 
-#### Matematikk undervisning
-
-Studieprogrammet som ble erstattet med biovitenskapsprogrammer i 2017
-hadde et oligatorisk 10 studiepoeng mattekurs i første semester.
-Jeg har fra starten av ønsket at BIOS1100 skulle undervise en del
-av denne matematikken.
-I 2017 ble det lite tid til fokus på matematikkundervisning,
-i tillegg til at jeg selv ikke har tistrekkelig kompetanse på dette området.
-Som en løsning foreslo jeg at en professor fra Matematisk Institutt ved fakultetet
-skulle undervise matematikk i BIOS1100.
-Forslaget fikk gjenomslag og Professor Arne Sletsjøe
-har siden 2018 undervist matematikk i tre uker i kurset.
-Eksamen fikk også en egen matematikk oppgave.
-
-Matematikkundervisningen utviklet seg fra å bruke en pensumbok,
-[BioCalculus](https://www.cengage.co.uk/books/9781305114036/)​,
-til et eget mattekompendiet til BIOS1100 skrevet av Arne Sletsjøe.
-Vi testet flere varianter av når i kurset matematikken undervises,
-og har landet på at en todeling, med undervisning i uke 4 og 5, og uke 12,
-fungerer best.
-Vi oppdaget at en del gruppelærere slet med å kunne hjelpe studentene
-med matteoppgavene, noe som også studentene meldte tilbake om.
-Derfore ble ny 1. amanuensis på institutt, Øystein Langangen,
-fra 2020 involvert i opplæring av gruppelærere for å hjelpe studenene bedre.
-Evalueringen viste dette fungerte veldig bra.
-
-En utfordring som jeg ikke har funnet en god nok løsning for er at
-matematikken oppleves av flere studenter som et eget fag
-som ikke henger sammen med resten av kurset.
-
 #### Obligatoriske innleveringer og eksamensform
 
 Utviklingen av de Obligatoriske innleveringer er beskrevet i undervisningsfilosofien
 under avsnittet [obliger](03_mappe.html#obliger).
 Hvordan eksamensform har endret seg er også beskrevet der, under avsnittet [eksamen](03_mappe.html#eksamen).
 
-\newpage

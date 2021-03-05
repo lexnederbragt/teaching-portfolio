@@ -4,12 +4,12 @@
 
 ### Om denne undervisningsfilosofien
 
-Denne teksten er skrevet til å leses som et selfstendig dokument,
+Denne teksten er skrevet til å leses som et selvstendig dokument,
 uavhengig av det øvrige innholdet i denne pedagogiske mappen.
 Dermed er det nok noe overlapp mellom denne teksten
 og de øvrige kapitlene.
 I tillegg er teksten skrevet på engelsk
-siden jeg ønsker å dele den med internasjonale kollegaer.
+siden jeg ønsker å dele den med internasjonale kolleger
 
 ### Introduction
 
@@ -360,17 +360,13 @@ learned it" <a href="08_mappe.html#biggs2011Teaching">[14]</a>.
 #### What does this mean for BIOS1100?
 
 Following Biggs\' approach, we should start by determining our
-objectives.
-
-The learning outcomes of BIOS1100 are described on [the course homepage](https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/)
+objectives. The learning outcomes of BIOS1100 are described on [the course homepage](https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/)
 ([English](https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/index-eng.html)).
 But since these are deliberately kept short, there is a need to expand
 on them.
-
 The next step would be to determine the summative assessments, in other
 words, make exam questions and any obligatory assignments before the
 course starts. In practice, this is not often done.
-
 Finally, we need to design appropriate activities that help new students
 learn the mix of biology, mathematical modelling and programming that
 BIOS1100 aims to teach.
@@ -388,12 +384,10 @@ delivered as Jupyter Notebooks. During Live Coding sessions and group
 work,students as well as teachers and Teaching Assistants , do all their
 programming in them. Obligatory assignments are also handed out, and
 handed in and graded, as notebooks.
-
 When students, assistants and teacher all are seeing and commenting code
 in the same environment, discussing problems and helping each other,
 this reduces the extra cognitive load of switching programming
 environments.
-
 We use a cloud-based server, called JupyterHub, to provide students with
 this programming environment. An additional benefit of this programming
 environment is that it saves the students from installing software on
@@ -473,4 +467,3 @@ I plan to continue to explore new areas in educational science to make
 adjustments in my teaching. I am convinced that using it as a basis for
 trying out things is the most fruitful way forward.
 
-\newpage
