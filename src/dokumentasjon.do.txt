@@ -1,9 +1,3 @@
-# #ifdef FIXMES
-
-* legge ved PDF fra nettskjema sluttevaluering BIOS1100?
-# #endif
-
-
 === Universitetspedagogisk kompetanse ===
 
 * Jeg tok *Felles innføringsdel* for Universitetspedagogisk Basiskompetanse i 2019
@@ -163,7 +157,7 @@ _Software Carpentry, Data Carpentry, The Carpentries, Carpentry@UiO_
   * _Programmering og modellering i biovitenskapsutdanning_,
     Undervisningsseminar om beregningsorientert realfagsundervisning for NT-fakultet,
     Universitet i Tromsø/Norges Akrtiske Universitet, 2018 (invitert)
-    
+
 
 * Mediaoppmerksomhet mm
   * jeg jar skrevet noen innlegg på min personlige blog om BIOS1100:
@@ -173,9 +167,8 @@ _Software Carpentry, Data Carpentry, The Carpentries, Carpentry@UiO_
     * artikkel på "IBV sine websider": https://www.mn.uio.no/ibv/om/aktuelt/aktuelle-saker/2017/kunnskapsministeren-imponert-over-bios1100-og-igem.html
   * "'Programmerings- revolusjonen'":"https://issuu.com/nokut/docs/sfu_magasinet_02.18_72dpi_enkeltsid"; artikkel i SFU-magasinet 2018/2, side 25
 
-=== Fokus på studentenes læring ===
 
-## FIXME
+## === Fokus på studentenes læring ===
 
 
 === Det digitale ===
@@ -191,8 +184,6 @@ _Software Carpentry, Data Carpentry, The Carpentries, Carpentry@UiO_
   * "Canvas side om JupyterHub": "https://uio.instructure.com/courses/26583/pages/jupyter-notebook-og-jupyterhub" for studenter i BIOS1100
 
 # #ifdef NOTES
-
-FIXME oversett til norsk
 
 * digitale læringsressurser?
 * nominert for årets underviser av MN

@@ -1,17 +1,3 @@
-# #ifdef NOTES
-
-## Forskning om undervisning, læring og vurdering har
-## informert utforming og gjennomføring av tiltak for å styrke undervisningskvalitet.
-## Vitenskapelige fremgangsmåter er brukt for å samle inn,
-## dokumentere og analysere undervisning og/eller studentenes læring.
-
-* hva vil jeg at studentene skal gjøre med forskning jeg presenterer
-* bruk av forskning: Parson's problem, peer instruction, constructive alignment, labelled subgoals
-* masterprosjekter
- * transdisiplinær veiledningsteam!
-
-# #endif
-
 ===== Bruk av resultater fra forskning om læring i undervisningen =====
 
 # #ifdef LONG_VERSJON
@@ -48,6 +34,8 @@ kalles høy kognitiv last.
 # #endif
 Jeg er sterkt overbevist at undervisere bør bruke resultater fra vitenskapelig
 forskning på læring og utdanning når man planlegger og utvikler sin undervisning.
+Hvordan jeg bruker forskningen på disse områdene i min undervisning er
+beskrevet utfyllende i kapittelet om min undervisningsfilosofi.
 
 Kort sammenfattet har jeg fokusert på tre områder:
 
@@ -55,8 +43,8 @@ Kort sammenfattet har jeg fokusert på tre områder:
 * Formativ vurdering og Peer instruction
 * Samstemt undervisning (Constructive Alignment)
 
-Hvordan jeg bruker forskningen på disse områdene i min undervisning er
-beskrevet utfyllende i kapittelet om min undervisningsfilosofi.
+Den andre siden av "En forskende tilnærming" er forske på sin egen undervisning.
+Dette aspektet er beskrevet nærmere i dette kapitlet.
 
 ===== Forskning på egen undervisning =====
 
@@ -77,7 +65,7 @@ kollega Tone Gregers ved IBV tatt initiativ til
 å tilby lektorstudenter som tar en undervisningsrettet master
 til å skrive sin oppgave om studenter som tar BIOS1100.
 Jeg var medveileder for alle fire studenter.
-Veiledningsteamet har vært tverrflaglig,
+Veiledningsteamet har vært tverrfaglig,
 med utdanningsforskere fra fysisk institutt
 (Maria Vetleseter Bøe og Ellen Henriksen)
 en underviser fra skolelaboratoriet ved Institutt for Biologi (Tone Gregers)
@@ -113,7 +101,7 @@ disse har blitt integrert i videreutvikling av BIOS1100.
   Banduras mestringsforventningsteori
 * Lenke til oppgaven: URL: "http://urn.nb.no/URN:NBN:no-82918"
 
-Kort sammendrag:
+_Kort sammendrag_
 
 * Resultatene indikerer at matematikk R2 ser ut til a henge sammen med
   storre mestringsforventning og større interesse for BIOS1100
@@ -125,9 +113,11 @@ Kort sammendrag:
   og at studenter eller har lite interesse for
   programmering og modellering i biologi
 
-Anbefaling for BIOS1100:
+_Anbefalinger for BIOS1100_
 
 * Å spille på relevansen for å skape større interesse for programmering og modellering i biologi
+
+_Oppfølging_
 
 I 2020 ble blant annet dette implementert da vi tok i bruk data
 fra den pågående korona pandemien for å modellere sykdomsutbrudd.
@@ -142,7 +132,7 @@ fra den pågående korona pandemien for å modellere sykdomsutbrudd.
 * Teoretisk rammeverk brukt i studiet: Computational thinking, mathematical thinking
 * Lenke til oppgaven: URL: "http://urn.nb.no/URN:NBN:no-82936"
 
-Kort sammendrag:
+_Kort sammendrag_
 
 * Studentene er stort sett positive til at det har blitt R2-krav på utdanningen,
   og anser de strategiske kunnskapene fra matematikken som relevante
@@ -152,10 +142,12 @@ Kort sammendrag:
   og benytter seg ikke av disse problemløsningsstrategiene
   når de arbeider med mer tradisjonell biologi
 
-Anbefalinger for BIOS1100:
+_Anbefalinger for BIOS1100_
 
 * Kompetansen fra matematikk R2 er relevant for studentene på biovitenskap,
   men undervisningen bør legge opp til mer trening innen ulike problemløsningsstrategier
+
+_Oppfølging_
 
 I 2020 ble det brukt en del tid på å gi studentene en forståelse av
 at det er nyttig å ha en strategi for å løse problemer i faget.
@@ -171,15 +163,17 @@ Dette er fortsatt et forbedringspunkt i kurset.
   Banduras mestringsforventningsteori
 * Lenke til oppgaven: URL: "http://urn.nb.no/URN:NBN:no-73633"
 
-Kort sammendrag:
+_Kort sammendrag_
 
 * Studentene har høyere mestringsforventning og interesseverdiene for studieprogrammet sitt, enn for BIOS1100
 * Studentene får gjennom semesteret noe høyere mestringsforventning til BIOS1100, mens interessen for emnet går litt ned
 
-Anbefalinger for BIOS1100:
+_Anbefalinger for BIOS1100_
 
 * bevisstgjøre studenten av relevansen for programmering utenfor emnet BIOS1100
 * tilby ekstra faglig støtte til studentene som har lav mestringsforventning
+
+_Oppfølging_
 
 Flere grep som ble gjort fra 2019 prøver å koble faget sammen
 med de andre fag studentene tar.
@@ -194,7 +188,7 @@ Endringer i undervisningsform bidrar til mer faglig støtte.
 * Teoretisk rammeverk brukt i studiet: Computational Thinking
 * Lenke til oppgaven: URL: "http://urn.nb.no/URN:NBN:no-73632"
 
-Kort sammendrag:
+_Kort sammendrag_
 
 * Studentene opplever de samme typer utfordringer som man ser
   i andre introduksjonskurs i programmering: det er utfordrende
@@ -206,5 +200,7 @@ Kort sammendrag:
   programmeringen blir mer interessant for de fleste studentene.
 
 ## Studenter fikk heller ikke utviklet effektive problemløsningsstrategier, de lette heller etter liknende oppgaver for å kopiere tidligere løsninger.
+
+_Oppfølging_
 
 Fra og med 2019 ble det å undervise problemløsningsstrategier mer og mer et fokus i BIOS1100.

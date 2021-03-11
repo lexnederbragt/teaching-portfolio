@@ -175,7 +175,7 @@ sometimes all of the 4 hour group sessions were used doing Live Coding
 with the students. Too little time was left for students working on
 their own with exercises. A master student who studied the BIOS1100
 students for his project that year concluded that students lacked good
-problem solving skills because of this cite{haland2019Programmering}.
+problem-solving skills because of this cite{haland2019Programmering}.
 
 In other words, while in 2017, we did not help students enough with
 learning programming, in 2018 we helped them too much and did not
@@ -442,7 +442,7 @@ After several years of continued development, I am very satisfied with
 BIOS1100. i have found the right 'form' for this course, with lectures,
 Participatory Live Coding sessions and group sessions. The material
 written for the course, the set of problem exercises and Multiple Choice
-Questions is of sufficient quality and amount.
+Questions are of sufficient quality and amount.
 
 Along the way, educational theory has informed me for the many choices a
 teacher has to make. It has made me choose methods to lower cognitive

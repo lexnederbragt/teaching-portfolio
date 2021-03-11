@@ -1,29 +1,3 @@
-# #ifdef NOTES
-
-## Søkeren har samarbeidet med kolleger, studenter,
-## ledelse og andre om undervisningsutvikling/studiekvalitetsarbeid,
-## og har tatt initiativ til erfaringsdeling og kunnskapsutvikling
-## innen og på tvers av fagmiljø.
-
-* min rolle i programrevisjon biovitenskap 2017-
-* min rolle i CCSE
-* ha med Onboarding/offboarding lært fra carpentries (for gruppelærere)
-
-(forskning og undervisning som fellesskapsaktivitet)
-
-
-* ha med Carpentry@UiO her?
-* Gruppelæreropplæring
-* emneansvarlig er en slags teamleder
-    * noen er til og med ansatt for å jobbe med deg
-* UnderVerk
-* presentasjoner i CCSE sammenheng
-* ta grep når gruppelærere ikke fungerer så godt
-* utvikling av dokumentasjon via google sheets/doc, github, MS Teams
-* studentrepresentanter - felles med BIOS1110
-
-# #endif
-
 ===== Underverk =====
 
 I 2019 tok kollega Tone Gregers ved IBV initiativ til UndervisningVerksted ved IBV,

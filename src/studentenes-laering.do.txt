@@ -1,51 +1,11 @@
 
 # #ifdef NOTES
 
-## Undervisningsopplegget er tilpasset studentenes kjennetegn,
-## deres behov for tilbakemelding,
-## og en tydelig kobling mellom læringsmål og vurderingsformer.
-## Tilbakemeldinger fra studenter brukes systematisk til å utvikle undervisningen.
-
 * ha med sitater fra studentevalueringer
   * f.eks. >90% sier de ville kommet på gruppetimene uansett
-* forelesninger er ikke mye nevnt ennå
-  * bruk av menti der
-* offline øvelser
-* studentaktive læringsformer i gruppetimene
-  * gå rundt i rommet se på hverandres løsning
-  * det store prosjektet mot slutten
-  * menti's
-
-* hvilke pedagogiske tilnærminger bruker jeg
-* hvordan det bidrar stimulerer studentenes læring
-* koble til teaching statement, men mer konkret, eksempler
-
-* formativ vurdering
-* aktiv bruk av evalueringsmekanismene for å forbedre læring
-* her kommer også studentevalueringer in
-  * husk sitater fra disse evalueringer
-* pedagogisk opplæring gruppelærere
-
-* Bruk av samkoding
-* hvordan aktiverer jeg studentene? studentaktive undervisningsformer
-* exit quiz jeg introduserte i gruppetimene i 2020
-* nevn samkodingsvideoer?
-
-* sjekk teaching statement for ting som må/kan inn her
-
-FORSLAG
-* sammenfatte relevant deler fra teaching statement
-* ta det med motivasjon her
-* ta det med studentevalueringer her
-  * inf-bio
-  * bios1100
-
 # #endif
 
-## FIXME ferdigskriv dette!
-
-
-My av det som faller under 'Fokus på studentenes læring' er beskrevet i
+Mye av det som faller under 'Fokus på studentenes læring' er beskrevet i
 min undervisningsfilosofi (kapittel 'Teaching Statement'):
 
 * Fokus på samstemt undervisning i utforming av obligatoriske øvelser og
@@ -69,21 +29,21 @@ Dette har med studentene motivasjon å gjøre:
 de fleste valgte biovitenskapsprogrammet ikke fordi de er interessert
 i å studere programmering og modellering, men fordi de vil studere biologi.
 Relevans av undervisning økes når studentene møter autentiske oppgaver cite{hidi2006FourPhase}.
-Som et eksempel mener jeg, når eksponensiell modeller undervises,
-at vi bør unngå å regne på renter, men heller studere eksponensiell bakteriell vekst.
+Som et eksempel mener jeg, når eksponentielle modeller undervises,
+at vi bør unngå å regne på renter, men heller studere eksponentiell bakteriell vekst.
 Både kursboken, samt materialet som har blitt utviklet for kurset,
 her bygges alltid på et biologisk eksempel, relevant problemstilling,
 eller aktuell situasjon.
 I kursboken er fokuset på et biologisk problem,
 for å så undervise noe nytt Python stoff for å kunne løse problemet.
-Studentene i BIOS1100 jobber dermed med eksempler fra populasjonsdynamikk,
+Studentene i BIOS1100 jobber dermed  eksempler fra populasjonsdynamikk,
 genetikk, bioinformatikk, etc.
 I 2020 fikk vi en unik mulighet til å aktualisere kursets innhold
 fordi vi kunne bruke modellene som undervises
 til å modellere den pågående korona pandemien.
 Til slutt lager vi også noen koblinger til et av de andre fagene program studentene
 tar samme semester, BIOS1110 – Celle- og molekylærbiologi.
-Studentene skal for eksempel plotte noe målinger de har gjort på labben i BIOS1110,
+Studentene skal for eksempel plotte noen målinger de har gjort på labben i BIOS1110,
 eller implementere en Python-basert *in silico* modell av et
 DNA-kuttings eksperiment de gjør i det andre faget.
 Studentene melder ofte uanmodet at det at faget vises til å være relevant for
