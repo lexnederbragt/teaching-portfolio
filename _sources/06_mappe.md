@@ -30,7 +30,7 @@ for erfaringsutveksling.
 Mitt bidrag har vært å hjelpe med planlegging og gjennomføring,
 samt bidra konkret til noen av workshopen:
 
-* Kognitiv last teori (oktober 2019)
+* Teorien om Kognitiv Last (oktober 2019)
 * Bruk av Zoom for digital undervisning (mars 2020)
 * Digital hjemmeeksamen i BIOS1100 (november 2020)
 
@@ -58,15 +58,15 @@ pedagogisk opplæring, og bruk av et erfaringsdokument underveis i kurset.
 Det første året BIOS1100 skulle undervises hadde jeg en sesjon med alle gruppelærere
 for å forberede dem på deres rolle, før sommerferien,
 det vil si en del uker før kurset skulle starte.
-eg opplevde at det det mye informasjon til dem lang tid før det skulle brukes,
-og at utbytte av dette møte derfor var lavt.
+Jeg opplevde at det ble mye informasjon til dem alt for lang tid
+før de skulle bruke det, og at utbytte av dette møte derfor var lavt.
 
-De siste årene har jeg brukt de ukentlige møter med gruppelærere
+De siste årene har jeg derfor brukt de ukentlige møter med gruppelærere
 for å styrke gruppelæreres pedagogiske kompetanse.
 Hver uke tar jeg opp et tema som er pedagogisk relevant,
 eller inviterer en annen person til å presentere et slikt tema.
 I disse sesjonene bruker vi aktive lærings teknikker som tenk-par-del
-for å fremme diskusjon blant gruppelærere samt vise nytte av slike undervisningsteknikker.
+for å fremme diskusjon blant gruppelærere, samt vise nytte av slike undervisningsteknikker.
 
 Temaene vi vanligvis diskuterer:
 
@@ -79,7 +79,7 @@ Temaene vi vanligvis diskuterer:
 
 Noen av disse temaene er inspirert av
 [The Carpentries instruktør trening](https://carpentries.github.io/instructor-training/),
-som jeg underviser selv.
+som jeg underviser selv i.
 
 Etter at jeg innførte denne måten å lære opp gruppelærere
 i noen pedagogiske begreper mm har jeg inntrykk av at nivået på deres undervisning,
@@ -95,12 +95,13 @@ for å hjelpe gruppelærerne til å bli bedre undervisere
 gjennom pedagogisk opplæring og ukentlige utviklingsmøter.
 Jeg håper at LA programmet kan komme til Institutt for Biovitenskap
 i fremtiden og skal da tilby å slå dette sammen med mine aktiviteter
-på området, slik at det gagner flere gruppelærere på instituttet.
+på området, slik at det kan nå flere gruppelærere på instituttet.
 
 **Erfaringsdokument**
 <div id="erfaringsdokument"></div>
 
-Det er flere gruppetimer per uke i BIOS1100, og det er nyttig at de som har undervist en gruppe tidlig i uken deler sine erfaringer med de som skal undervise senere.
+Det er flere grupper i BIOS1100, og det er nyttig at de som har undervist
+en gruppe tidlig i uken deler sine erfaringer med de som skal undervise senere.
 Helt fra begynnelsen av kurset har jeg derfor brukt et delt dokument (en Google Doc)
 hvor jeg ba gruppelærere om å notere sine erfaringer umiddelbart etter undervisningen.
 De andre gruppelærere kan da lese dette såkalte erfaringsdokumentet
@@ -111,7 +112,7 @@ Dette har fungert veldig bra, og mye nyttig tilbakemelding,
 eller inspirerende forslag,
 har blitt skrevet ned av gruppelærere gjennom årene.
 
-Å bruke et slikt dokument kan ansees for en form for formativ vurdering.
+Å bruke et slikt dokument kan sees på som en form for formativ vurdering.
 Det viser også gruppelærere at deres tilbakemeldinger blir tatt på alvor,
 og at deres innspill til kurset er veldig velkommen.
 Det gir dem eierskap i undervisningen,
@@ -131,12 +132,12 @@ CCSE, Centre for Computing in Science Education,
 har i alle år, som et ledd i fakultetets studiekvalitetsmidler,
 tilbudt stillinger som sommerstudenter.
 Formålet med prosjektene til disse 'CSE' sommerstudenter har vært
-å utvikle undervisningsmateriell til kurs der beregninger inkorporeres.
+å utvikle undervisningsmaterialet til kurs der beregninger inkorporeres.
 Jeg har søkt, og fått tildelt, totalt 12 slike stillinger.
 Disse studentene har bidratt med mer enn 100 oppgaver,
 og en stor del av disse brukes i undervisningen.
 Det har vært en stor glede å kunne jobbe med disse studentene.
 Disse vet ofte selv veldig godt hvordan det er å lære programmering som biolog,
-og er veldig kreativ når det kommer til å finne gode biologiske
+og er veldig kreative når de skal finne gode biologiske
 problemstillinger studentene kan jobbe med.
 

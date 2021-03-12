@@ -2,19 +2,19 @@
 <!-- jupyter-book 04_mappe.md -->
 # 4. Fokus på studentenes læring
 
-My av det som faller under 'Fokus på studentenes læring' er beskrevet i
-min undervisningsfilosofi (kapittel 'Teaching Statement'):
+Mye av det som faller under 'Fokus på studentenes læring' er beskrevet i
+det forrige kaptilet om min undervisningsfilosofi:
 
-* Fokus på samstemt undervisning i utforming av obligatoriske øvelser og
-  eksamensoppgaver, samt hvordan eksamen gjennomføres
 * Bruk av samkoding som undervisningsform for å redusere kognitiv last når
   studenter lærer programmering
 * Bruk av formativ vurdering kombinert med Peer Instruction for å
   sjekke forståelse og rette opp misforståelser
+* Fokus på samstemt undervisning i utforming av obligatoriske øvelser og
+  eksamensoppgaver, samt hvordan eksamen gjennomføres
 * Bruk av tilbakemeldinger på obligatoriske innleveringer for å
   kunne hjelpe studenter med å forbedre seg faglig
 
-Jeg begrenser med i dette kapittelet dermed til 2 andre aspekter.
+Jeg begrenser meg i dette kapittelet dermed til 2 andre aspekter.
 
 ### Valg av problemstillinger og motivasjon
 
@@ -22,16 +22,17 @@ Utfordringen med et fag som BIOS1100 er
 å motivere studentene å lære programmering og modellering i biologi.
 Et vesentlig poeng med hvordan BIOS1100 er organisert er derfor at,
 så mye som mulig, materialet som brukes er biologisk relevant.
-Dette har med studentene motivasjon å gjøre:
+Dette har med studentenes motivasjon å gjøre:
 de fleste valgte biovitenskapsprogrammet ikke fordi de er interessert
 i å studere programmering og modellering, men fordi de vil studere biologi.
-Relevans av undervisning økes når studentene møter autentiske oppgaver <a href="08_mappe.html#hidi2006FourPhase">[15]</a>.
-Som et eksempel mener jeg, når eksponensiell modeller undervises,
-at vi bør unngå å regne på renter, men heller studere eksponensiell bakteriell vekst.
+Relevansen av undervisningen økes for studentene når de møter autentiske oppgaver <a href="08_mappe.html#hidi2006FourPhase">[18]</a>.
+Som et eksempel mener jeg, når eksponentielle modeller undervises,
+at vi bør unngå å regne på renter, men heller studere for eksempel
+eksponentiell bakteriell vekst.
 Både kursboken, samt materialet som har blitt utviklet for kurset,
-her bygges alltid på et biologisk eksempel, relevant problemstilling,
-eller aktuell situasjon.
-I kursboken er fokuset på et biologisk problem,
+bygges derfor alltid på et biologisk eksempel, en relevant problemstilling,
+eller en aktuell situasjon.
+I kursboken legges fram et biologisk problem først,
 for å så undervise noe nytt Python stoff for å kunne løse problemet.
 Studentene i BIOS1100 jobber dermed med eksempler fra populasjonsdynamikk,
 genetikk, bioinformatikk, etc.
@@ -40,7 +41,7 @@ fordi vi kunne bruke modellene som undervises
 til å modellere den pågående korona pandemien.
 Til slutt lager vi også noen koblinger til et av de andre fagene program studentene
 tar samme semester, BIOS1110 – Celle- og molekylærbiologi.
-Studentene skal for eksempel plotte noe målinger de har gjort på labben i BIOS1110,
+Studentene skal for eksempel plotte noen målinger de har gjort på labben i BIOS1110,
 eller implementere en Python-basert *in silico* modell av et
 DNA-kuttings eksperiment de gjør i det andre faget.
 Studentene melder ofte uanmodet at det at faget vises til å være relevant for
@@ -52,7 +53,7 @@ I min undervisning bruker jeg underveisevaluering og sluttevaluering
 på en systematisk måte for å forbedre undervisningen.
 
 Underveisevaluering med gruppelærere med hjelp av et delt Google Doc
-beskrevet i avsnittet [erfaringsdokument](06_mappe.html#erfaringsdokument).
+er beskrevet i avsnittet [erfaringsdokument](06_mappe.html#erfaringsdokument).
 På de ukentlige gruppelærermøtene gjennom semesteret starter vi alltid
 men en kort oppsummering av uken som var for å se om det var noe problemer
 som må rettes opp i umiddelbart eller for neste gang kurset organiseres.
@@ -64,7 +65,7 @@ opplevelser av kursene er noenlunde likt.
 Det gjennomføres en midtveisevaluering og en sluttevaluering
 der alle studenter bes å fylle ut et nettskjema.
 Resultatene av disse spørreundersøkelser diskuteres med studentrepresentantene
-på et møte midt i kurset, og etter siste undervisningsuke.
+på felles møter midt i kurset, og etter siste undervisningsuke.
 Evalueringer har ført til en rekke endringer, som er beskrevet
 der utviklingen i BIOS1100 beskrives (avsnittet [BIOS1100 (2017-)](#bios1100_utvikling)).
 
@@ -74,7 +75,7 @@ Dette var verdifull for å forstå eventuelle problemer studentene hadde,
 slik at de kunne adresseres umiddelbart.
 Jeg skal fortsette med denne formen for formativ vurdering i  kurset framover.
 
-Til slutt brukes og resultater fra
+Til slutt brukes resultatene fra
 prosjekter til lektorstudenter som tar en undervisningsrettet master
 og som skriver sin oppgave om studenter som tar BIOS1100.
 Dette behandles i neste kapittel.

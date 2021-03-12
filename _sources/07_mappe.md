@@ -97,12 +97,12 @@
   * **Vedlegg** `Carpentries_Instructor_Trainer_Certificate.pdf`
 
 * Jeg har bidratt til undervisningsmaterial til The Carpentries
-  * The Carpentries Instructor Training <a href="08_mappe.html#erinalisonbecker2019carpentries">[9]</a>
-  * Software Carpentry: The Unix Shell <a href="08_mappe.html#aldazabalmensa2017Software">[18]</a>
-  * Software Carpentry: Programming with Python <a href="08_mappe.html#achterberg2017Software">[19]</a>
-  * Software Carpentry: Version Control with Git <a href="08_mappe.html#ahmadia2017Softwarea">[20]</a>
-  * Software Carpentry: Automation and Make <a href="08_mappe.html#allen2017Software">[21]</a>
-  * Data Carpentry Wrangling Genomics Lesson <a href="08_mappe.html#wilson2017Data">[22]</a>
+  * The Carpentries Instructor Training <a href="08_mappe.html#erinalisonbecker2019Carpentries">[13]</a>
+  * Software Carpentry: The Unix Shell <a href="08_mappe.html#aldazabalmensa2017Software">[21]</a>
+  * Software Carpentry: Programming with Python <a href="08_mappe.html#achterberg2017Software">[22]</a>
+  * Software Carpentry: Version Control with Git <a href="08_mappe.html#ahmadia2017Softwarea">[23]</a>
+  * Software Carpentry: Automation and Make <a href="08_mappe.html#allen2017Software">[24]</a>
+  * Data Carpentry Wrangling Genomics Lesson <a href="08_mappe.html#wilson2017Data">[25]</a>
 
 * Jeg er også medlem av The Carpentries [Executive Council](https://carpentries.org/governance/), som kan sees på som organisajsonens styret (2018-2021)
 * Carpentry@UiO
@@ -204,8 +204,6 @@
 
   * ['Programmerings- revolusjonen'](https://issuu.com/nokut/docs/sfu_magasinet_02.18_72dpi_enkeltsid); artikkel i SFU-magasinet 2018/2, side 25
 
-
-#### Fokus på studentenes læring
 
 #### Det digitale
 
