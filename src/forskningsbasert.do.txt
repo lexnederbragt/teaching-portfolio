@@ -32,7 +32,7 @@ Det å lære å programmere fører med andre ord raskt til det som i kognitiv ps
 kalles høy kognitiv last.
 
 # #endif
-Jeg er sterkt overbevist at undervisere bør bruke resultater fra vitenskapelig
+Jeg er sterkt overbevist om at undervisere bør bruke resultater fra vitenskapelig
 forskning på læring og utdanning når man planlegger og utvikler sin undervisning.
 Hvordan jeg bruker forskningen på disse områdene i min undervisning er
 beskrevet utfyllende i kapittelet om min undervisningsfilosofi.
@@ -43,7 +43,7 @@ Kort sammenfattet har jeg fokusert på tre områder:
 * Formativ vurdering og Peer instruction
 * Samstemt undervisning (Constructive Alignment)
 
-Den andre siden av "En forskende tilnærming" er forske på sin egen undervisning.
+Den andre siden av "En forskende tilnærming" er å forske på sin egen undervisning.
 Dette aspektet er beskrevet nærmere i dette kapitlet.
 
 ===== Forskning på egen undervisning =====
@@ -57,14 +57,16 @@ Det er per dags dato lite forskningsbasert kunnskap om
 hvordan biologistudenter stiller seg til programmering i biologi
 og enda mindre hvilke læringsstrategier de bruker
 for å løse biologiske problemstillinger med programmering.
-Vi er derfor i en unik posisjon til å fremskaffe slik kunnskap
+Vi er derfor i en unik posisjon ved Institutt for Biovitenskap
+til å fremskaffe slik kunnskap
 ved å 'forske på' studenter i BIOS1100.
 
 Som et første steg i å samle kunnskap på dette området har
 kollega Tone Gregers ved IBV tatt initiativ til
 å tilby lektorstudenter som tar en undervisningsrettet master
-til å skrive sin oppgave om studenter som tar BIOS1100.
-Jeg var medveileder for alle fire studenter.
+å skrive sin oppgave om studenter som tar BIOS1100.
+Så langt har fire masterstudenter hatt et slikt prosjekt,
+og jeg var medveileder for alle disse.
 Veiledningsteamet har vært tverrfaglig,
 med utdanningsforskere fra fysisk institutt
 (Maria Vetleseter Bøe og Ellen Henriksen)
@@ -72,21 +74,21 @@ en underviser fra skolelaboratoriet ved Institutt for Biologi (Tone Gregers)
 og meg som emneansvarlig i BIOS1100.
 
 Formålet med disse prosjektene har vært
-å undersøke studenters holdninger og motivasjon for programmering og modellering i biologi,
-samt finne ut hvordan studentene velger å løse ulike biologiske problemstillinger ved hjelp av programmering.
-Gjennom prosjektet har vi ønsket å bidra til bedre læring og motivasjon i beregningsorientert biologi.
+å undersøke studenters holdninger til,
+og motivasjon for programmering og modellering i biologi,
+samt å finne ut hvordan studentene velger å løse ulike biologiske problemstillinger
+ved hjelp av programmering.
 
 Funnene i masterprosjekter har jeg brukt aktivt for å forbedre kurset,
 både faglig og hvordan emnet undervises.
-I tillegg har dette arbeidet blitt presentert på MNT konferansen,
-en nasjonal konferanse om erfaringsdeling av en
-forskningsbasert og vitenskapelige tilnærming til undervisning og læring
-etter SoTL (Scholarship of Teaching and Learning) prinsippene,
-i 2019 og 2021.
-Det har også det blitt skrevet en vitenskapelig artikkel om
+I tillegg har dette arbeidet blitt presentert på MNT konferansen i 2019 og 2021.
+MNT konferansen er en nasjonal konferanse om erfaringsdeling av den
+forskningsbaserte og vitenskapelige tilnærmingen til undervisning og læring
+etter SoTL (Scholarship of Teaching and Learning) prinsippene.
+Det har i tillegg blitt publisert en vitenskapelig artikkel om
 hvordan lektorstudenter som tar en undervisningsrettet master ved instituttet
 bidrar til undervisningskvaliteten cite{gregers2019Lektorstudenter},
-og om resultatene av to av deres prosjekter cite{eliassen2021Motivasjon}.
+og en om resultatene av to av deres prosjekter cite{eliassen2021Motivasjon}.
 
 Nedenfor gjøres kort rede for prosjektene, funnene, og hvordan
 disse har blitt integrert i videreutvikling av BIOS1100.
@@ -104,13 +106,13 @@ disse har blitt integrert i videreutvikling av BIOS1100.
 _Kort sammendrag_
 
 * Resultatene indikerer at matematikk R2 ser ut til a henge sammen med
-  storre mestringsforventning og større interesse for BIOS1100
+  større mestringsforventning og større interesse for BIOS1100
 * Det ser ut som om mange av studentene
   valgte bort full fordypning i biologi til fordel for R2
 * Funnene støtter antagelsen om at nytteverdi er den sterkeste motiverende
   faktoren for emne
-* Nytteverdien må ses i lys av at emne er obligatorisk for studieprogramet,
-  og at studenter eller har lite interesse for
+* Nytteverdien må ses i lys av at emne er obligatorisk for studieprogrammet,
+  og at studenter ellers har lite interesse for
   programmering og modellering i biologi
 
 _Anbefalinger for BIOS1100_
@@ -170,12 +172,12 @@ _Kort sammendrag_
 
 _Anbefalinger for BIOS1100_
 
-* bevisstgjøre studenten av relevansen for programmering utenfor emnet BIOS1100
-* tilby ekstra faglig støtte til studentene som har lav mestringsforventning
+* Bevisstgjøre studenten av relevansen for programmering utenfor emnet BIOS1100
+* Tilby ekstra faglig støtte til studentene som har lav mestringsforventning
 
 _Oppfølging_
 
-Flere grep som ble gjort fra 2019 prøver å koble faget sammen
+Flere grep som ble gjort fra og med 2019 prøver å koble faget sammen
 med de andre fag studentene tar.
 Endringer i undervisningsform bidrar til mer faglig støtte.
 

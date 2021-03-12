@@ -6,18 +6,18 @@
 # #endif
 
 Mye av det som faller under 'Fokus på studentenes læring' er beskrevet i
-min undervisningsfilosofi (kapittel 'Teaching Statement'):
+det forrige kaptilet om min undervisningsfilosofi:
 
-* Fokus på samstemt undervisning i utforming av obligatoriske øvelser og
-  eksamensoppgaver, samt hvordan eksamen gjennomføres
 * Bruk av samkoding som undervisningsform for å redusere kognitiv last når
   studenter lærer programmering
 * Bruk av formativ vurdering kombinert med Peer Instruction for å
   sjekke forståelse og rette opp misforståelser
+* Fokus på samstemt undervisning i utforming av obligatoriske øvelser og
+  eksamensoppgaver, samt hvordan eksamen gjennomføres
 * Bruk av tilbakemeldinger på obligatoriske innleveringer for å
   kunne hjelpe studenter med å forbedre seg faglig
 
-Jeg begrenser med i dette kapittelet dermed til 2 andre aspekter.
+Jeg begrenser meg i dette kapittelet dermed til 2 andre aspekter.
 
 ===== Valg av problemstillinger og motivasjon =====
 
@@ -25,18 +25,19 @@ Utfordringen med et fag som BIOS1100 er
 å motivere studentene å lære programmering og modellering i biologi.
 Et vesentlig poeng med hvordan BIOS1100 er organisert er derfor at,
 så mye som mulig, materialet som brukes er biologisk relevant.
-Dette har med studentene motivasjon å gjøre:
+Dette har med studentenes motivasjon å gjøre:
 de fleste valgte biovitenskapsprogrammet ikke fordi de er interessert
 i å studere programmering og modellering, men fordi de vil studere biologi.
-Relevans av undervisning økes når studentene møter autentiske oppgaver cite{hidi2006FourPhase}.
+Relevansen av undervisningen økes for studentene når de møter autentiske oppgaver cite{hidi2006FourPhase}.
 Som et eksempel mener jeg, når eksponentielle modeller undervises,
-at vi bør unngå å regne på renter, men heller studere eksponentiell bakteriell vekst.
+at vi bør unngå å regne på renter, men heller studere for eksempel
+eksponentiell bakteriell vekst.
 Både kursboken, samt materialet som har blitt utviklet for kurset,
-her bygges alltid på et biologisk eksempel, relevant problemstilling,
-eller aktuell situasjon.
-I kursboken er fokuset på et biologisk problem,
+bygges derfor alltid på et biologisk eksempel, en relevant problemstilling,
+eller en aktuell situasjon.
+I kursboken legges fram et biologisk problem først,
 for å så undervise noe nytt Python stoff for å kunne løse problemet.
-Studentene i BIOS1100 jobber dermed  eksempler fra populasjonsdynamikk,
+Studentene i BIOS1100 jobber dermed med eksempler fra populasjonsdynamikk,
 genetikk, bioinformatikk, etc.
 I 2020 fikk vi en unik mulighet til å aktualisere kursets innhold
 fordi vi kunne bruke modellene som undervises
@@ -55,7 +56,7 @@ I min undervisning bruker jeg underveisevaluering og sluttevaluering
 på en systematisk måte for å forbedre undervisningen.
 
 Underveisevaluering med gruppelærere med hjelp av et delt Google Doc
-beskrevet i avsnittet ref{erfaringsdokument}.
+er beskrevet i avsnittet ref{erfaringsdokument}.
 På de ukentlige gruppelærermøtene gjennom semesteret starter vi alltid
 men en kort oppsummering av uken som var for å se om det var noe problemer
 som må rettes opp i umiddelbart eller for neste gang kurset organiseres.
@@ -67,7 +68,7 @@ opplevelser av kursene er noenlunde likt.
 Det gjennomføres en midtveisevaluering og en sluttevaluering
 der alle studenter bes å fylle ut et nettskjema.
 Resultatene av disse spørreundersøkelser diskuteres med studentrepresentantene
-på et møte midt i kurset, og etter siste undervisningsuke.
+på felles møter midt i kurset, og etter siste undervisningsuke.
 Evalueringer har ført til en rekke endringer, som er beskrevet
 der utviklingen i BIOS1100 beskrives (avsnittet ref{bios1100_utvikling}).
 
@@ -77,7 +78,7 @@ Dette var verdifull for å forstå eventuelle problemer studentene hadde,
 slik at de kunne adresseres umiddelbart.
 Jeg skal fortsette med denne formen for formativ vurdering i  kurset framover.
 
-Til slutt brukes og resultater fra
+Til slutt brukes resultatene fra
 prosjekter til lektorstudenter som tar en undervisningsrettet master
 og som skriver sin oppgave om studenter som tar BIOS1100.
 Dette behandles i neste kapittel.

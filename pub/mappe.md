@@ -1,6 +1,6 @@
 ---
 author:
-- torsdag, 11. mar, 2021
+- Mar 12, 2021
 title: Pedagogisk mappe Lex Nederbragt
 ---
 
@@ -17,11 +17,13 @@ title: Pedagogisk mappe Lex Nederbragt
         -   [Om BIOS1100](#om-bios1100)
         -   [1: Hvordan å undervise programmering til
             biologistudenter](#hvordan-å-undervise-programmering-til-biologistudenter)
-        -   [Studentaktive
-            læringsmetoder](#studentaktive-læringsmetoder)
-        -   [Programmering](#programmering)
-        -   [Obligatoriske innleveringer og
-            eksamensform](#obligatoriske-innleveringer-og-eksamensform)
+        -   [2: Hvordan lære studentene effektive
+            problemløsningsstrategier](#hvordan-lære-studentene-effektive-problemløsningsstrategier)
+        -   [3: Hvordan å aktivisere
+            studentene](#hvordan-å-aktivisere-studentene)
+        -   [4: Rekkefølge av å undervise
+            Python](#rekkefølge-av-å-undervise-python)
+        -   [Andre aspekter ved BIOS1100](#andre-aspekter-ved-bios1100)
 -   [3. Min undervisningsfilosofi (Teaching
     Statement)](#min-undervisningsfilosofi-teaching-statement)
     -   [Om denne
@@ -108,55 +110,55 @@ SoTL kriteriene.
 
 ### Student og PhD student
 
-Min første erfaring som underviser var da jeg var gruppelærer for et
-kurs i zoologi. Det ble en veldig fin opplevelse: mens studentene så et
+Min første erfaring som underviser var som gruppelærer for et kurs i
+zoologi. Det ble en veldig fin opplevelse: mens studentene så et
 tverrsnitt av en kattenyre hver, så jeg mange flere når studenter ba meg
-om hjelp med deres. Jeg følte at jeg lærte en god del mer av å undervise
-faget, da da jeg tok faget selv.
+om hjelp. Jeg følte at jeg lærte en god del mer av å undervise faget, da
+når jeg tok faget selv.
 
 Som PhD student fikk jeg mulighet til å bli med som underviser på det
 europeiske Erasmus kurset "Marine Cell Biology", som fant sted på et
 marin biologisk laboratorium i Frankrike (Observatoire Oceanologique,
 Banyuls-sur-mer, France). Forskergruppen min var en av de som sto for
-organisering av kurset, og mine veiledere ba meg å holde et par foredrag
-og bidra med labøvelser. Denne erfaringen fortalte meg at jeg faktisk
-likte å undervise, å stå foran en gruppe studenter og formidle min
-kunnskap til dem.
+organisering av kurset, og mine veiledere ba meg å holde foredrag og
+bidra med labøvelser. Denne erfaringen fortalte meg at jeg faktisk likte
+å undervise, å stå foran en gruppe studenter og formidle min kunnskap
+til dem.
 
 ### 2005-2009
 
-Jeg mener at disse erfaringene har bidratt da jeg fikk stilling som
+Jeg mener at disse erfaringene har bidratt til at jeg fikk stilling som
 postdoktor ved Biologisk Institutt (nå Institutt for Biovitenskap) ved
-Universitetet i Oslo. Den jeg jobbet for ba meg allerede etter kort tid
-å bidra med noen forelesninger i kurset BIO2120 Evolusjonsbiologi om
-evolusjon og utviklingsbiologi (fagfeldet mitt som doktorgradstudent),
+Universitetet i Oslo. Professoren jeg jobbet for, Kjetill Jakobsen, ba
+meg å bidra med noen forelesninger i kurset BIO2120 Evolusjonsbiologi om
+evolusjon og utviklingsbiologi (fagfeltet mitt som doktorgradsstudent),
 og evolusjon av gener og genomer. Jeg ble også bedt å steppe inn en gang
-for å organisere en av labbene i BIO1000, det stor introduksjonskurset
-for nye studenter i biologi. Det var en ny erfaring å undervise unge
-studenter, noe jeg synes var spennende. Men, jeg var fortsatt opptatt av
-den klassiske undervisningsmetoden med 45 minutter lange forelesninger
-og ingen studentaktiviserende øvelser.
+for å organisere en av labbene i BIO1000, det daværende store
+introduksjonskurset for nye studenter i biologi. Det var en ny erfaring
+å undervise unge studenter, noe jeg synes var spennende. Men, jeg var
+fortsatt opptatt av den klassiske undervisningsmetoden med 45 minutter
+lange forelesninger og ingen studentaktiviserende øvelser.
 
 Som forsker byttet jeg imidlertid fagfelt i retning bioinformatikk og
 genomikk. Datasettene jeg jobbet med begynte å bli så store at de ikke
-lenger kunne bearbeides med Excel. Jeg måtte lære meg bruk a
+lenger kunne bearbeides med Microsoft Excel. Jeg måtte lære meg å bruke
 kommandolinje-baserte verktøy og supercomputere. I tillegg lærte jeg meg
-et programmeringsspråk (Perl). Alt dette trengte jeg for å delta i
+et programmeringsspråk (Perl). Alt dette trengte jeg for å kunne delta i
 genomrevolusjonen som startet i 2006/2007, der nye instrumenter gjorde
 det mulig for mindre forskningsgrupper å sette sammen, og undersøke,
 genomer til diverse organismer.
 
 Jeg merket fort at jeg trivdes med å videreformidle min nye kunnskap til
-mine kollegaer, som hadde samme behov. Jeg ga korte kurs for kolleger i
-bruk av de verktøyene jeg brukte mest, og i programmering.
+mine kollegaer. Jeg ga korte kurs for kolleger i bruk av de verktøyene
+jeg brukte mest, og i programmering.
 
 ## INF-BIO5121/9121 (2012-2016)
 
 Fra 2009 ble jeg med i Norwegian Sequencing Centre (NSC), en nasjonal
 forskningsinfrastruktur for DNA sekvensering. NSC bestemt seg i 2011 for
 å starte med kursing av sine 'kunder', og satt opp et kurs med en
-generell introduksjon til sekvensering, og to parallelle praktiske kurs
-i bruk av bioinformatiske verktøy. Sammen med en kollegaforsker fra
+generell introduksjon til sekvensering, og to parallelle kurs i praktisk
+bruk av bioinformatiske verktøy. Sammen med en kollegaforsker fra
 England organiserte vi en av disse praktiske kursene: en to-dagers
 workshop om teknikker for å sette sammen genomer, såkalt 'genom
 assembly'. Vi tok bevisst en veldig praktisk tilnærming, der deltakere,
@@ -169,26 +171,26 @@ veldig bra, og er en god mulighet til å koble undervisningen veldig tett
 på pågående forskning.
 
 Rundt denne tiden oppdaget jeg Software Carpentry, en internasjonal
-organisasjon av frivillige som holdt workshops om bruk av verktøy for
-forskere som bruker mye beregninger og programmering i sin forskning
+organisasjon av frivillige som organiserte workshops om bruk av verktøy
+for forskere som bruker beregninger og programmering i sin forskning
 ('research computing'). Målgruppen var forskere som meg, som senere i
-karrieren sin oppdaget et behov for å kunne bruke disse verktøy, uten å
-ha fått lært dette i sin opplæring. Jeg så at tilnærming til Software
-Carpentry var grundig forankret i pedagogisk forskning, og at målet
-deres var å undervise kunnskap opparbeidet gjennom årene om 'best
-practices', og forhindre å finne på hjulet på nytt. Jeg ønsket å delta
-på en slik workshop og tok kontakt. Resultatet var at deres direktør
-Greg Wilson kom til Oslo og holdt den første Software Carpentry
+karrieren sin oppdaget et behov for å kunne bruke disse verktøyene, uten
+å ha fått lært dette i sin opplæring. Jeg så at tilnærmingen til
+Software Carpentry var grundig forankret i pedagogisk forskning, og at
+målet deres var å undervise kunnskap opparbeidet gjennom årene om 'best
+practices', og forhindre å finne opp hjulet på nytt. Jeg ønsket å delta
+på en slik workshop og tok kontakt. Resultatet var at deres daværende
+direktør Greg Wilson kom til Oslo og holdt den første Software Carpentry
 workshoppen i Norden. Ikke bare lærte jeg mye om hvordan jeg kunne bli
 mer effektiv i min forskning, jeg ble - gledelig - rekruttert til å bli
 instruktør for Software Carpentry. Etter et (online) instruktør
 treningsprogram med stor fokus på pedagogikk, ble jeg og en kollega
 sertifisert for å kunne holde Software Carpentry workshops selv.
-Erfaringer med Software Carpentry endret mitt syn på undervisning
+Erfaringer med Software Carpentry endret mitt syn på undervisningen
 totalt. Plutselig ble jeg bevisst på viktigheten av motivasjon for
-læring, det å begrense kognitiv last, formativ vurdering osv. Jeg så at
-jeg måtte tenke annerledes om undervisning, og forankre min tilnærming i
-forskning og kunnskap på feltet.
+læring, det å begrense kognitiv last, formativ vurdering osv. Jeg
+bestemte meg for å tenke annerledes om undervisning, og for å forankre
+min tilnærming i forskning og kunnskap på feltet.
 
 ### INF-BIO5121/9121
 
@@ -202,23 +204,24 @@ poengs intensivkurs der studentene fikk en generell introduksjon til DNA
 sekvensering og data analyse, etterfuglt av moduler om anvendte analyser
 tilsvarende våre opprinnelige workshops. I 2013 ble jeg tilbudt en 20%
 1. amanuensis II stilling ved Institutt for Informatikk for blant annet
-å være kursansvarlig for dette kurset. Kurset har blitt en suksess og
-tiltrakk seg mange studenter, flest biologer, men alltid noen
-informatikere. Jeg tok selv min allerede utviklede assembly modul inn i
-kurset.
+å være kursansvarlig for dette kurset. Dette ble INF-BIO5121/9121 - High
+Throughput Sequencing technologies and bioinformatics analysis. Kurset
+har blitt en suksess og tiltrakk seg mange studenter, flest biologer,
+men også noen informatikere. Jeg tok selv min allerede utviklede
+assembly modul inn i kurset.
 
 Dette var min første erfaring som kursansvarlig (emneansvarlig), som var
-noe nytt for meg. Kurset var er samarbeid mellom undervisere, med meg
+noe nytt for meg. Kurset var et samarbeid mellom undervisere, med meg
 som leder, og jeg lærte mye om å drive fram et slikt prosjekt. Vi brukte
 studentevalueringer aktivt med et egetutviklet nettskjema som studentene
 fylte ut etter siste kursøkt. Dette førte til at jeg besluttet
 etterhvert å bytte ut noen av undervisere, som fikk veldig dårlig
 tilbakemelding fra studentene. Jeg synes det var en vanskelig, men helt
-nødvendig beslutning å ta, og det fikk det ønskede effekten med bedre
-læringsutbytte for studentene for den aktuelle modulen. Erfaringen som
+nødvendig beslutning å ta, og det fikk den ønskede effekten med bedre
+læringsutbytte for studentene for den aktuelle modulen. Erfaringene som
 emneansvarlig var positiv, og førte til en bedre forståelse for hele
 kursets løp, fra forberedelse, gjennomføring, eksamen og evaluering. Jeg
-fikk også bedre innsikkt i studentene perspektiv på å ta
+fikk også bedre innsikt i studentenes perspektiv på å ta
 universitetskurs.
 
 ### Pedagogisk kompetanse
@@ -227,19 +230,19 @@ På denne tiden fikk jeg styrket min pedagogisk kompetanse på to måter.
 Våren 2014 tok jeg fellesdelen av Universitetspedagogisk
 Basiskompetanse. Siden jeg var ansatt i en 20% 1. amanuensis II stilling
 trengte jeg ikke å gjennomføre hele fellesdelen og jeg valgte da bort
-kollegaveiledningen. I 2016 ble jeg instruktør trener for the
-Carpentries. Dette innbærer at jeg kan lære opp nye instruktører. Til
-det har The Carpentries utviklet et instruktør trenings [opplærings
-materialet](https://carpentries.github.io/instructor-training) som er
-forankret i noen elementære pedagogiske forskning (pedagogisk psykologi)
+kollegaveiledningen. I 2016 ble jeg instruktørtrener for the
+Carpentries. Dette innbærte at jeg kunne lære opp nye instruktører. Til
+det har The Carpentries utviklet et instruktørtrenings [opplærings
+materialet](https://carpentries.github.io/instructor-training), som er
+forankret i elementære pedagogiske forskning (pedagogisk psykologi)
 rundt hvordan vi lærer. Sentrale begreper er motivasjon, kognitiv last,
-novise-ekspert, mentale modeller, tilbakemelding og summativ versus
-formativ vurdering. Som instruktør trener var jeg nå selv en av dem som
-underviste elementære begreper i pedagogikk til andre.
+novise versus ekspert, mentale modeller, tilbakemelding og summativ
+versus formativ vurdering. Som instruktør trener var jeg nå selv en av
+dem som underviste elementære begreper i pedagogikk til andre.
 
 Nå var mye på plass for å ta neste steg, som viste seg å bli et stort og
-spennende prosjekt der jeg fikk mulighet til å bygge opp et grunnemne i
-biovitenskapsprogrammet fra bunnen av.
+spennende prosjekt der jeg fikk mulighet til å bygge opp et helt nytt
+grunnemne for det nye biovitenskapsprogrammet.
 
 ## BIOS1100 (2017-)
 
@@ -248,29 +251,30 @@ biovitenskapsprogrammet fra bunnen av.
 
 I 2017 ble det introdusert nye bachelorprogrammer i alle
 studieprogrammer ved det matematisk- naturvitenskapelige fakultet ved
-Universitetet i Oslo. Alle programmene inkludert fra da av et
-beregningsaspekt fra første semester. På Institutt for Biovitenskap ble
-dette implementert ved et nytt introduksjonskurs BIOS1100 - Innføring i
-beregningsmodeller for biovitenskap, som er obligatorisk for alle
-biovitenskapelige studenter. Videre skulle andre kurs, både
-obligatoriske og fordypningskursene, implementere beregningsperspektivet
-som en del av undervisningen.
+Universitetet i Oslo. Alle programmene inkluderte fra da av et
+beregningsaspekt fra første semester. Målet var å integrere beregninger
+som et naturlig verktøy i utdanningen, for å forberede studentene på en
+karriere der dette er en mye etterpurt kompetanse. På Institutt for
+Biovitenskap ble dette implementert ved et nytt introduksjonskurs
+BIOS1100 - Innføring i beregningsmodeller for biovitenskap, som er
+obligatorisk for alle biovitenskapelige studenter. Videre skulle andre
+kurs, både obligatoriske og fordypningskursene, implementere
+beregningsperspektivet som en del av undervisningen.
 
 Jeg var ikke involvert i prosessen som førte til disse endringene. Men
 jeg var, og er, sterkt overbevist om alle biologer bør skaffe seg
 beregningskompetanse. Arbeidet med The Carpentries viser at mange
-ferdigutdannede biologer mangler denne kompetansen. Jeg er selv et godt
-eksempel på det.
+ferdigutdannede biologer mangler denne kompetansen.
 
 Da jeg i 2016 fikk tilbudet å ta emneansvar for BIOS1100 og utvikle
 kurset fra første semester det ble undervist, takket jeg gledelig ja.
 Dette var en fantastisk mulighet til å utvikle et unikt kurs som skulle
 forberede studentene til å være framtidens biologer. Det viste seg
-imidlertid at dette ansvaret var mye større enn jeg trodde, men også har
-vært veldig givende. BIOS1100, og jeg som underviser, har gått gjennom
-en utrolig utvikling de første fire gangene det ble undervist. Nedenfor
-beskriver jeg først selve kurset, og så de utfordringene jeg støtte på,
-og hvordan jeg løste disse.
+imidlertid at dette ansvaret var mye større enn jeg hadde forutsett, men
+også har vært veldig givende. BIOS1100, og jeg som underviser, har gått
+gjennom en utrolig utvikling de første fire gangene det ble undervist.
+Nedenfor beskriver jeg først selve kurset, og så de utfordringene jeg
+støtte på, og hvordan jeg har forsøkt å løse disse.
 
 ### Om BIOS1100
 
@@ -302,14 +306,14 @@ Kurset og kursboken har blitt utviklet fra grunnen av med oppstart i
 kursboken som kunne brukes til å bygge kurset på. Kurset har gjennomgått
 en stor utvikling fra den første gang det ble undervist i 2017. Herunder
 diskuterer jeg noen av de store utfordringene jeg opplevde med å
-undervise BIOS1100, motiverer løsningene og beskriver effekten på
-studentenes læring.
+undervise BIOS1100, motiverer løsningene jeg valgte, og beskriver
+effekten på studentenes læring.
 
 ### 1: Hvordan å undervise programmering til biologistudenter
 
 Da jeg planla undervisningen for første gang kurset skulle bli undervist
 i 2017 valgte jeg å formidle til studentene at jeg forventet at de
-brukte pensumboken og øvelsene i gruppetimene for å tilegne seg
+skulle bruke pensumboken og øvelsene i gruppetimene for å tilegne seg
 programmeringskunnskapen. For å støtte opp under deres læring la jeg inn
 mye formativ vurdering (kombinert med Peer instruction) med hjelp av
 flervalgsoppgaver i forelesninger og gruppetimene. Bakgrunnen for dette
@@ -321,23 +325,28 @@ Det viste seg 2/3 del inni kurset at mange studenter ikke kom på
 forelesningene lenger, og at deltakelse på gruppetimene, som på det
 tidspunktet ikke var obligatorisk, også var lavt. I tillegg fikk
 studieseksjonen gjennom samtaler med studenter inntrykk av at mange
-hadde falt av tidlig og ikke klarte å komme tilbake igjen.
+hadde falt av tidlig og ikke klarte å komme tilbake igjen. Med andre
+ord, jeg stolte for mye på selvstendig læring av progammeringen,
+('minimal guidance'), mens foskningen viser at Direkte Instruksjon
+('direct instruction') er å foretrekke i begynnerundervisningen
+[@clark2012Putting].
 
 Jeg bestemte meg da å ta grep og bytte ut den planlagte undervisningen
 for de tre siste ukene med et tilbudt til studentene som trengte det med
-økter med en teknikk som heter samkoding, Samkoding, eller
+økter med en teknikk som heter samkoding. Samkoding, eller
 'Participatory Live Coding' er beskrevet utfyllende i
-undervisningsfilosofien under avsnittet [samkoding](#samkoding). I korte
-trekk er dette en teknikk der en undeviser skriver kode og programmer
-sammen med studentene. Teknikken, som er mye brukt av The Carpentries,
-er ment å senke terskelen for å komme i gang med programmeringen. Jeg
-tenkte derfor at den kunne egne seg for BIOS1100. Men, jeg var redd for
-at det ville være vanskelig å skalere opp til det forventede antallet av
-200 studenter. Utover samkoding fikk studenter en del 'mengdetrening'
-øvelser der jeg repeterte all Python stoff som hadde blitt undervist.
-med fokus på forståelse av programmeringen
+undervisningsfilosofien under avsnittet [samkoding](#samkoding), der
+dette også relateres til kognitiv last teori. I korte trekk er dette en
+teknikk der en underviser skriver kode og programmer sammen med
+studentene. Teknikken, som er mye brukt av The Carpentries, er ment å
+senke terskelen for å komme i gang med programmeringen. Jeg tenkte
+derfor opprinnelig at teknikken kunne egne seg for BIOS1100. Men, jeg
+var redd for at det ville være vanskelig å skalere opp til det
+forventede antallet av 200 studenter. Utover samkoding fikk studenter en
+del 'mengdetrening' øvelser der jeg repeterte all Python stoff som hadde
+blitt undervist.
 
-60 til 70 studenter følget denne ekstraundervisningen. Tilbakemeldinger
+60 til 70 studenter fulgte denne ekstraundervisningen. Tilbakemeldinger
 fra studenter på dette var overveldende positivt, og en god del fortalte
 meg og studieseksjonen etterpå at de nå følte at de hadde forstått det
 vesentlige med programmeringen. Interessant nok meldte noen studenter
@@ -348,42 +357,47 @@ Suksessen med samkoding som undervisningsform førte til at jeg bestemte
 meg å bruke samkoding for å undervise elementære kunnskap i Python
 gjennom hele kurset. Jeg mente, og mener fortsatt, at dette ikke lar seg
 gjøre med veldig store grupper studenter. Et av målene med samkodingen
-er at alle studenter følger, og at de skal kunne få hjelp når de sitter
-fast slik at de ikke faller av underveis. I en stor gruppe kan det føre
-til at en student holder opp undervisningen for hele gruppen. Derfor
-bestemte jeg meg at samkodingen i BIOS1100 måtte dette skje i
-gruppetimene. For å muliggjøre dette satset jeg på at dette skulle
-undervises av gruppelærere.
+er at alle studenter følger med, og at de skal kunne få hjelp når de
+sitter fast slik at de ikke faller av underveis. I en stor gruppe kan
+det føre til at en student som har et problem holder opp undervisningen
+for hele gruppen. Derfor bestemte jeg meg at samkodingen i BIOS1100
+måtte skje i gruppetimene. For å muliggjøre dette satset jeg på at dette
+skulle undervises av gruppelærere.
 
 Andre gang kurset gikk i 2018 ble dette implementert. Samkoding ble
 brukt som hovedundervisningsform i gruppetimene. Til det hadde jeg
 skrevet en 'oppskrift' for hva som skulle undervises i de ukentlige
-samkoding sesjoner som gruppelærere kunne bruke. Jeg gjennomførte en
-egen opplæring for samkoding med 7 av gruppelærere (alle PhD studenter)
-modellert etter opplæringen The Carpentries gjør i sin [instruktør
-trening](https://carpentries.github.io/instructor-training/14-live/index.html).
+samkodingsøktene som gruppelærere kunne bruke. Jeg gjennomførte en egen
+opplæring i samkodingsundervisning med 7 av gruppelærere (alle PhD
+studenter) modellert etter opplæringen The Carpentries gjør i sin
+instruktør trening.
 
 Erfaringer underveis og besvarelser av sluttevalueringen viste at veldig
 mange studenter mente samkodingen i gruppetimene hadde stor nytteverdi:
 94% mente dette var 'bra' eller 'meget bra'. Gruppelærere uttrykte også
 at samkoding som undervisningsform fungerte bra. Som en gruppelærer som
 selv hadde tatt kurset i 2017 uttrykte det 'grunnmuren i programmering
-satt mye bedre' og at studenter følte de fikk mye ut av gruppetimene.
+satt mye bedre'. Studenter følte de nå også fikk mer ut av gruppetimene.
 Dessverre tok opplegget for mye av tiden i gruppetimene og det ble for
-lite tid til overs for selvstendig jobbing med (mer komplekse) oppgaver.
-Studenter fikk heller ikke utviklet effektive problemløsningsstrategier,
-de lette heller etter liknende oppgaver for å kopiere tidligere
-løsninger.
+lite tid til selvstendig jobbing med (mer komplekse) oppgaver.
+
+### 2: Hvordan lære studentene effektive problemløsningsstrategier
 
 Erfaringer fra de to første semestrene med BIOS1100 viste altså at det i
 2017 var for lite fokus på grunnopplæringen i programmering, mens det i
-2018 har vært for mye fokus på det, på bekostning av jobbing med
-selvstendig problemløsning av større oppgaver.
+2018 har vært for mye fokus på det, på bekostning av tid til selvstendig
+arbeid med oppgaver. Dette førte til at studentene ikke fikk utviklet
+effektive problemløsningsstrategier, noe som ble bekreftet av
+masterprosjektet til Lars Erik Håland, som er beskrevet i mer detalj i
+kapitlet om Bruk av forskning i undervisningen. Forskning viser også at
+begynneropplæring i programmeringen bør fokusere på mer enn bare
+syntaks, i tillegg bør studentene gis kunnskap om effektive
+problemløsningsstrategier [@hazzan2014Guide].
 
 Fra og med 2019 ble derfor det som ble undervist ved hjelp av samkoding
 delt i to:
 
--   Samkodingstimene: et frivillig tilbudt der nytt Python stoff ble
+-   Samkodingstimene: nå som frivillig tilbudt der nytt Python stoff ble
     undervist
 -   Gruppetimene: for å vise hvordan man løser oppgaver ('worked
     examples') og om nødvendig for å forklare ukens stoff på nytt eller
@@ -394,13 +408,22 @@ mer enn to timer organisert arbeid, slik at det ble to timer til overs
 for selvstendig jobbing med stoffet og oppgaver, med gruppelærer til
 stedet. Disse grepene var vellykket. Det har blitt betydelig mer tid i
 gruppetimene til selvstendig oppgavejobbing mens det samtidig kunne
-tilbys samkoding om elementær Python stoff. En utfordring er å få de
+tilbys samkoding om elementær Python stoff. En utfordring var å få de
 studentene som trenger det faktisk til å gå på samkodingsgruppene.
 
-### Studentaktive læringsmetoder
+Fra og med 2019 ble det også gjort forsøk å spesfikk undervise
+problemløsningsstrategier. Dette viste seg å være vanskelig, og forløpig
+har jeg ikke funnet et tilstrekkelig undervisningsopplegg for dette.
 
-I BIOS1100 bruker jeg følgende Studentaktive (studentaktiviserende)
-læringsmetoder:
+### 3: Hvordan å aktivisere studentene
+
+Som beskrevet over viste tidligere erfaringer meg verdien av aktive
+læringsformer, og jeg ønsket å bringe disse inn i BIOS1100. Også
+forskning viser at studentaktive læringsformer fremmer læring i naturfag
+[@freeman2014Active].
+
+I BIOS1100 har jeg over tid prøvd ut og implementert følgende
+studentaktive (studentaktiviserende) læringsmetoder:
 
 -   formativ vurdering kombinert med Peer Instruction, dette er
     beskrevet i kapitlet om min undervisningsfilosofi
@@ -414,24 +437,28 @@ læringsmetoder:
     Utfordringen var å gjøre øvelser enkelt nok og få studentene til å
     se relevansen for det de ellers jobbet med i kurset. Siden jeg ofte
     ikke fant en god løsning på disse utfordringene har jeg mer og mer
-    droppet disse type øvelser.
+    tatt ut disse type øvelser.
 -   Kurset bruker såkalte 'Active learning Classrooms' med sekskantede
     bord, der hvert bord har en stor skjerm som en av studentene kan
     koble sin laptop på slik at studentene kan se på vedkommendes skjerm
-    sammen og diskutere kode (eller andre ting). Fem til seks studenter
-    per bord er en god gruppestørrelse for samarbeid og gruppelærere
-    stimulerer studentene til å jobbe sammen, som mange også gjør. I
-    tillegg introduserte jeg etterhvert flere øvelser som studentene
-    skal løse sammen, for så å vise sin løsning på storskjermen.
-    Deretter går de rundt i rommet og ser på andres løsninger. Målet er
-    å vise at man ofte kan løse samme problem på forskjellig måter når
-    man programmerer i Python.
+    sammen og diskutere kode (eller andre faglig relevante ting). Fem
+    til seks studenter per bord er en god gruppestørrelse for samarbeid
+    og gruppelærere stimulerer studentene til å jobbe sammen, som mange
+    også gjør. I tillegg introduserte jeg etterhvert flere øvelser som
+    studentene skal løse sammen, for så å vise sin løsning på
+    storskjermen. Deretter går de rundt i rommet og ser på hverandres
+    løsninger. Målet er å vise at man ofte kan løse samme problem på
+    forskjellig måter når man programmerer i Python.
 
-### Programmering
+Tilbakemeldinger fra studentene viser at de setter pris på disse aktive
+læringsformer, og at de opplever at de lærer mye i gruppetimene. Jeg
+ønsker å prøve ut flere slike undervisningsformer i framtiden.
+
+### 4: Rekkefølge av å undervise Python
 
 Boken som ble (og blir) skrevet for kurset har som mål å undervise
 Python *i kontekst av* biologien. Det vil si at den biologiske
-problemstilling blir gitt først og deretter blir det forklart nytt
+problemstillingen blir gitt først og deretter blir det forklart nytt
 Python stoff som trengs for å kunne løse problemet. Dette fører til en
 jevn spredning av stoffet over semesteret. Da BIOS1100 ble undervist for
 første gang i 2017 viste det seg at den opprinnelige versjonen av
@@ -443,17 +470,17 @@ med såkalte 'Numpy arrays'. Her ble studentene veldig forvirret, de to
 strukturere og operasjoner de skulle utføre med dem lignet veldig på
 hverandre, og det var ikke tydelig når og hvorfor de skulle bruke den
 ene heller enn den andre. Med andre ord, å undervise disse to lignende
-ting så kort oppå hverandre overbelastet studentenes kognitivt. En annen
-ting jeg opplevde studentene strev med var vanskeligheten av konseptet
-'løkker', noe som er vesentlig i programmeringsspråk, som for eksempel
-Python. Løkker lar deg repetere noe flere ganger, eller gjøre noe med
-alle elementer i en liste av ting. Også her er det to forskjellige måter
-å gjøre dette på (som heldigvis ble undervist på vidt forskjellige
-tidspunkt i kurset). Jeg ble overbevist om at vi underviste disse
-formene i feil rekkefølge. Den såkalte 'while løkke', som opprinnelig
-ble undervist sist, er mer transparent og gjør det mer klart for
-studentene hva som skjer i hvert steg, enn den såkalte 'for løkke' som
-kurset startet med.
+ting så kort oppå hverandre overbelastet studentene kognitivt
+[@sweller2019Cognitive]. En annen ting jeg opplevde studentene strev med
+var vanskeligheten av konseptet 'løkker', noe som er vesentlig i
+programmeringsspråk, som for eksempel Python. Løkker lar en repetere noe
+flere ganger, eller gjøre noe med alle elementer i en liste av ting.
+Også her er det to forskjellige måter å gjøre dette på (som heldigvis
+ble undervist på vidt forskjellige tidspunkt i kurset). Jeg ble
+overbevist om at vi underviste disse formene i feil rekkefølge. Den
+såkalte 'while løkke', som opprinnelig ble undervist sist, er mer
+transparent og gjør det mer klart for studentene hva som skjer i hvert
+steg, enn den såkalte 'for løkke' som kurset startet med.
 
 Jeg brukte dermed en del tid før kurset skulle starte i 2018 for å
 skrive om kursboken: bytte om rekkefølge av løkketype ('while' før
@@ -461,12 +488,16 @@ skrive om kursboken: bytte om rekkefølge av løkketype ('while' før
 siste del av boken. Effekten var at jeg opplevde framgangen i Python som
 mye smidigere. Det ble ikke rapportert om så mye forvirring som før.
 
-### Obligatoriske innleveringer og eksamensform
+### Andre aspekter ved BIOS1100
 
-Utviklingen av de Obligatoriske innleveringer er beskrevet i
-undervisningsfilosofien under avsnittet [obliger](#obliger). Hvordan
-eksamensform har endret seg er også beskrevet der, under avsnittet
-[eksamen](#eksamen).
+Jeg har under utiklingen av kurset hatt stor fokus på samstemt
+undervisning ('Constructive Alignment') [@biggs2011Teaching]. Disse
+aspektene er beskrevet andre steder i denne mappen:
+
+-   Utviklingen av de Obligatoriske innleveringer er beskrevet i
+    undervisningsfilosofien under avsnittet [obliger](#obliger).
+-   Hvordan eksamensform har endret seg er også beskrevet der, under
+    avsnittet [eksamen](#eksamen).
 
 ```{=tex}
 \newpage
@@ -479,7 +510,7 @@ Denne teksten er skrevet til å leses som et selvstendig dokument,
 uavhengig av det øvrige innholdet i denne pedagogiske mappen. Dermed er
 det nok noe overlapp mellom denne teksten og de øvrige kapitlene. I
 tillegg er teksten skrevet på engelsk siden jeg ønsker å dele den med
-internasjonale kolleger
+internasjonale kolleger.
 
 ## Introduction
 
@@ -545,7 +576,7 @@ BIOS1100. Learning to program is generally considered difficult
 [@guzdial2015LearnerCentered]. Reducing cognitive load for students then
 becomes an important goal. I have always felt students can not learn
 programming from looking at a slide presentation of programming
-concepts, and then asking them to start programming themselves.I have
+concepts, and then asking them to start programming themselves. I have
 experienced this approach myself at some time and it did not work for
 me, nor did it seem a useful approach. One reason for this is that this
 approach would result in a large cognitive load: students would be
@@ -584,12 +615,12 @@ helps student couple programming code with its result. Students'
 questions arising during the session can immediately be addressed.
 During this form of guided instruction, students are shown not only what
 to program and how each element works, but also how to program, i.e. how
-to go from a problem formulation to a working solution (the thinking
-process). It also slows the teacher down relative to using slides to
-show the concepts and code, giving students more time to actively engage
-with the material before moving on to the next concept. Interrupting the
-live coding with exercises enables immediate practice using the
-material.
+to go from a problem formulation to a working solution (i.e., the
+thinking process). It also slows the teacher down relative to using
+slides to show the concepts and code, giving students more time to
+actively engage with the material before moving on to the next concept.
+Interrupting the live coding with exercises enables immediate practice
+using the material.
 
 The main drawback of using this technique is that it takes time to
 develop appropriate material and to teach it. Additionally, it does not
@@ -604,23 +635,23 @@ program they should practice, for example by doing exercises.
 The first edition of BIOS1100 (2017) relied on the students using the
 textbook for learning the programming concepts needed each week.
 Programming was not taught during lectures for reasons described above.
-Oppgaves were handed out during group work where students could practice
-applying programming to simple biological problems. Two-thirds into the
-semester it became clear that a significant group of students did not
-master the Python programming, and were in danger of failing the course.
-I then decided to not introduce any new Python material, but instead
-offer some extra teaching using Participatory Live Coding. I had learned
-this technique from being an instructor for Software Carpentry. Software
-Carpentry, now part of the global non-profit called The Carpentries.
-[The Carpentries](https://carpentries.org), "teaches researchers the
-computing skills they need to get more done in less time and with less
-pain" and is mostly aimed at researchers at the PhD and postdoc level.
-Participatory live coding is the main method of teaching in the two-day
-workshops, and it is part of the training and assessment for becoming a
-certified instructor [@erinalisonbecker2019carpentries]. In BIOS1100, I
-thus offered sessions re-teaching the Python material with Participatory
-Live Coding, with the effect that many students reported that they now
-finally understood it.
+Exercises were handed out during group work where students could
+practice applying programming to simple biological problems. Two-thirds
+into the semester it became clear that a significant group of students
+did not master the Python programming, and were in danger of failing the
+course. I then decided, rather than introducing more new Python
+material, instead to offer some extra teaching using Participatory Live
+Coding. I had learned this technique from being an instructor for
+Software Carpentry. Software Carpentry, now part of the global
+non-profit called [The Carpentries](https://carpentries.org), "teaches
+researchers the computing skills they need to get more done in less time
+and with less pain" and is mostly aimed at researchers at the PhD and
+postdoc level. Participatory live coding is the main method of teaching
+in the two-day workshops, and learning it is part of the training for
+becoming a certified instructor [@erinalisonbecker2019Carpentries]. In
+2017, in the last weeks of the course, I thus offered sessions
+re-teaching the Python material with Participatory Live Coding, with the
+effect that many students reported that they now finally understood it.
 
 I had previously considered using Live Coding for BIOS1100, but felt it
 would not scale to such a large group. The experience in 2017, and the
@@ -631,20 +662,19 @@ taught in small groups, not with the entire group of students, and that
 I could not teach it all by myself. My solution was to develop a
 completely new set of teaching materials to teach Python programming in
 BIOS1100 using Participatory Live Coding, and train Teaching Assistants
-to be able to teach using this technique. One of the things taught
-during Instructor Training workshops for The Carpentries is
-Participatory Live Coding. I am a certified Instructor Trainer for The
-Carpentries, meaning I already had taught Participatory Live Coding to
-incoming instructors. I reused the material developed by The Carpentries
-[@erinalisonbecker2019carpentries] to train enough Teaching Assistants
-so that they could teach Python using PLC during the group sessions.
+to be able to teach using this technique. As a certified Instructor
+Trainer for The Carpentries, I already had taught Participatory Live
+Coding to incoming instructors. I thus reused the material developed by
+The Carpentries [@erinalisonbecker2019Carpentries] to train enough
+Teaching Assistants so that they could teach Python using PLC during the
+group sessions.
 
-The results were that students in 2018 had a much greater confidence in
-Python programming. To start learning programming using Live Coding
-helped them overcome the initial barrier (sometimes fear) of
+The results were that string from 2018, students had a much greater
+confidence in Python programming. To start learning programming using
+Live Coding helped them overcome the initial barrier (sometimes fear) of
 programming, and led to a feeling of mastery early on. Students really
-loved the Live Coding ('samkoding' in Norwegian), some reported they
-learned the most there. A drawback of this approach was that much,
+loved the Live Coding ('samkoding' in Norwegian), reporting they learned
+a lot from it. A drawback of this approach was that in 2018, much,
 sometimes all of the 4 hour group sessions were used doing Live Coding
 with the students. Too little time was left for students working on
 their own with exercises. A master student who studied the BIOS1100
@@ -677,21 +707,21 @@ learn programming are introduced to it.
 
 It would be a mistake to assume that students have learned the thing you
 just presented to them. Formative assessment is concerned with informing
-both the teacher and the learner about how much they understand about a
-topic, and discover any misunderstandings. This allows for addressing
-misunderstandings promptly, which helps learners to progress through the
-material. Formative assessment is not graded, although sometimes
-teachers make participation count towards being able to pass a course.
-Note that graded assignments are what is called part of a course's
-summative assessment. Ideally, formative assessment can be done quickly
-and in an easy way for students and teachers to participate and see the
-results.
+both the teacher and the student about how much students understand
+about a topic, and discover any misunderstandings. This allows for
+addressing misunderstandings promptly, which helps learners to progress
+through the material. Formative assessment is not graded, although
+sometimes teachers make participation count towards being able to pass a
+course. Note that graded assignments are what is called part of a
+course's summative assessment. Ideally, formative assessment can be done
+quickly and in an easy way for students and teachers to participate and
+see the results.
 
 There are many forms for formative assessment, but a very common one is
-multiple Choice Questions. A well-designed Choice Question poses a
-problem with one or more correct, and multiple incorrect answers,
-so-called distractors. Ideally, distractors should not be too obviously
-wrong, but rather be indicative of possible misconceptions.
+Multiple Choice Questions. A well-designed Multiple Choice Question
+poses a problem with one or more correct, and multiple incorrect
+answers, so-called distractors. Ideally, distractors should not be too
+obviously wrong, but rather be indicative of possible misconceptions.
 
 **Formative assessment combined with Peer Instruction**
 
@@ -715,10 +745,10 @@ answer they think is the correct one. The tally of votes is shown,
 without revealing the correct answer. If there is a spread of answers
 among the correct one and one or more of the distractors, students are
 asked to discuss the question in pairs or small groups. They then vote
-again (individually, not as a group). More than often, the results show
-many more students converging on the correct answer. If needed or
-desired, the teacher can go over the different answers and explain how
-they are right or wrong.
+again (individually, not as a group). Often, the results of the second
+voting show many more students converging on the correct answer. If
+needed or desired, the teacher can go over the different answers and
+explain how they are right or wrong.
 
 Peer instruction has also been studied in the context of programming,
 with positive results on student learning [@crouch2001Peer].
@@ -747,7 +777,7 @@ I use the following Formative Assessment techniques in BIOS1100:
 
 **Multiple Choice Questions and peer Instruction**
 
-I have written a set of around hundred Multiple Choice Questions for
+I have developed a set of around hundred Multiple Choice Questions for
 BIOS1100. Some of these are based on common misconceptions I found in
 the scientific literature. Often, when I observe students displaying a
 misconception, or are told about one by the Teaching Assistants, I use
@@ -763,9 +793,9 @@ proportion of students, that then gets largely resolved in the group
 discussion. Students and Teaching Assistants really like the "Menti's",
 as they are fondly called. It is an easy form of Active Learning that
 helps create a dynamic group session or lecture. A drawback is that
-executing Multiple Choice Questions take time. I usually use no more
-than 4 questions, and those easily take up half an hour or more.
-Ideally, I would be able to always see the tally of votes for all
+executing Multiple Choice Questions takes time. I usually use no more
+than 4 questions concurrently, and those easily take up half an hour or
+more. Ideally, I would be able to always see the tally of votes for all
 questions to be able to filter out the ones that are too easy for next
 time, but is it challenging to collect that data from all Teaching
 Assistants.
@@ -785,7 +815,7 @@ much more challenging to get them to discuss the question.
 In BIOS1100, students hand in 5 obligatory assignments spread evenly
 throughout the course. These are meant to ensure students work with the
 material throughout the course. The assignments are deliberately modeled
-after exam problems, so as to help prepare students for the exam. These
+after exam problems, so as to help students prepare for the exam. These
 "Oblig's" are graded pass/fail by the Teaching Assistants, and students
 have to pass 80% of them to be able to take the exam. When students fail
 on their first attempt for an assignment, they get two additional
@@ -798,15 +828,15 @@ formative with summative assessment as assignments can not effectively
 serve these two purposes. So I instructed the Teaching Assistants to
 grade them without leaving any comments. It quickly became clear that it
 made much more sense to give students feedback on their assignment,
-regardless of whether they had passed or not. Having the option to hand
-in some of the work students doing, and receiving constructive comments
-on it, is very useful for student learning. Using the obligatory
-assignments for this is really a very good way for *all* students to
-receive such feedback, and one of the few ways to offer this to all
-students throughout the course. I thus concluded that I deliberately
-want to use the obligatory assignments for both formative and summative
-assessment. From then on, I asked Teaching Assistants to give feedback
-to all delivered assignments.
+regardless of whether they had passed or not. For students, having the
+option to hand in some of the work they are doing, and receiving
+constructive comments on it, is very useful for their learning. Using
+the obligatory assignments for this is really a very good way for *all*
+students to receive such feedback, and one of the few ways to offer this
+to all students throughout the course. I thus concluded that I
+deliberately wanted to use the obligatory assignments for both formative
+and summative assessment. From then on, I asked Teaching Assistants to
+give feedback to all delivered assignments.
 
 Ideally, I as a teacher would also study the deliveries to distill
 common misunderstandings, in other words, use them as a proper formative
@@ -821,11 +851,11 @@ Constructive Alignment is concerned with aligning the learning
 activities with the intended learning outcomes. Following Biggs
 [@biggs2012What], we start with determining:
 
-1)  What are the desired learning outcomes, these are the objectives
-2)  How to measure whether desired learning has been achieved,
+1)  The desired learning outcomes, these are the objectives
+2)  How to measure whether desired learning has been achieved, i.e.,
     assessment
-3)  What (teaching and learning) activities can we use that engage
-    students in a way that leads to learning
+3)  Appropriate teaching and learning activities that engage students in
+    a way that leads to learning
 
 Biggs calls this Constructive Alignment, which is an aligned system of
 instruction where "the objectives define what we should be teaching; how
@@ -851,65 +881,65 @@ aims to teach.
 **Jupyter Notebooks and JupyterHub**
 
 To align how we teach programming In BIOS1100, we use Jupyter Notebooks
-for everything. [Jupyter Notebooks](https://jupyter.org) are a form of
-'computational' notebooks combining text, media, programming code and
-the ability to execute that code and include the results of running it
-in the same notebook. Teaching materials, including exercises, are
-delivered as Jupyter Notebooks. During Live Coding sessions and group
-work,students as well as teachers and Teaching Assistants , do all their
-programming in them. Obligatory assignments are also handed out, and
-handed in and graded, as notebooks. When students, assistants and
-teacher all are seeing and commenting code in the same environment,
-discussing problems and helping each other, this reduces the extra
-cognitive load of switching programming environments. We use a
-cloud-based server, called JupyterHub, to provide students with this
-programming environment. An additional benefit of this programming
-environment is that it saves the students from installing software on
-their own laptop: as long as they have a working internet connection
-they can log in (using university credentials) to the server and start
-working.
+for all course activities. [Jupyter Notebooks](https://jupyter.org) are
+a form of 'computational' notebooks, combining text, media, programming
+code and the ability to execute that code and include the results of
+running it in the same notebook. Teaching materials, including
+exercises, are delivered as Jupyter Notebooks. During Live Coding
+sessions and group work, students as well as teachers and Teaching
+Assistants, do all their programming in them. Obligatory assignments are
+also handed out, and handed in and graded, as notebooks. When students,
+assistants and teacher all are seeing and commenting code in the same
+environment, discussing problems and helping each other, this reduces
+the extra cognitive load of switching programming environments. We use a
+cloud-based server provided by the university, called JupyterHub, to
+provide students with this programming environment. An additional
+benefit of this programming environment is that it saves the students
+from installing software on their own laptop: as long as they have a
+working internet connection they can log in (using university
+credentials) to the server and start working.
 
 **Exam**
 
 ::: {#eksamen}
 :::
 
-In the first two years of BIOS1100, however, there was one component
-that did not use these notebooks. During the exam the students had to
-use a different environment which did not allow them to test and run
-their code and programs. The four hour exam was done in a UiO\'s digital
-exam environment Inspera, which did not have a technical solution for
-running programming code. This was initially a deliberate choice. In
+Although we used Jupyter Notebooks from the start of BIOS1100, in the
+first two years of the course, there was one component that did not use
+these notebooks. During the exam the students had to use a different
+environment which did not allow them to test and run their code and
+programs. The four hour exam was done in a UiO\'s digital exam
+environment Inspera, which did not have a technical solution for running
+programming code. This restriction was initially a deliberate choice. In
 dialogues with my colleagues who teach beginner programming courses at
 the Department of Informatics, I became convinced that not being able to
 run code during the exam is of benefit for the students. Informatics
 students until recently even handed in their programs during the exam on
-paper. It prevents them from getting stuck with a relatively minor error
-(in the syntax, for example), and having to spend a lot of time fixing
-it - which can be hard. I thus decided to follow the same strategy, the
-motivation for which I also explicitly explained to the students.
+paper. The idea from not being able to execute code during the exam is
+that it prevents students from getting stuck with a relatively minor
+error (in the syntax, for example), and having to spend a lot of time
+fixing it - which can be hard. I thus decided to follow the same
+strategy, the motivation for which I also explicitly explained to the
+students.
 
-In dialogues with students it became increasingly clear to me that not
-being able to test and run programs they write during the exam caused a
-lot of stress for the students. They had not experienced this way of
-working during the entire semester. I also learned more and more about
-the benefits of Constructive Alignment, and concluded that the exam
-introduced a major mis-alingment in the course. I thus decided that the
-situation needed to change.
+However, in dialogues with students it became increasingly clear to me
+that not being able to test and run programs they write during the exam
+caused a lot of stress for the students. They had not experienced this
+way of working during the entire semester. I also learned more and more
+about the benefits of Constructive Alignment, and concluded that the
+exam format led to a major mis-alignment in the course. I decided that
+the situation needed to change.
 
 Thus, in the fall of 2019, with help from the university\'s IT
 department and the faculty\'s Inspera team, it became possible, for the
-first time for any digital exam at the university, for students to
-submit exam assignments in the form of Jupyter Notebooks. This means
+first time for any digital exam at the university of Oslo, for students
+to submit exam assignments in the form of Jupyter Notebooks. This means
 that the students could now also run and test their code before handing
-it in. This led to a much increased Constructive Alignment between
-teaching and examination methods.
+it in. The result was a much increased Constructive Alignment between
+teaching and examination methods. Students were better able to show the
+level of comprehension of the programming part of the course.
 
-A large drawback to this approach is that students have to work in two
-different systems during the exam, the Inspera system and the JupyterHub
-browser. There is a risk of uploading the wrong notebook or the wrong
-version of it. Experience so far has shown students that are able to
-manage this satisfactorily. In 2020, the exam was changed to a 4-hour
+In 2020, due to the Corona pandemic, the exam was changed to a 4-hour
 digital home exam, but otherwise organised as before. Incidentally, this
 aligned the exam situation even more than the 2019 exam, as it allowed
 students to use all available resources, as they are used to when
@@ -918,30 +948,31 @@ working with (obligatory) assignments.
 ## Conclusion
 
 After several years of continued development, I am very satisfied with
-BIOS1100. i have found the right 'form' for this course, with lectures,
-Participatory Live Coding sessions and group sessions. The material
-written for the course, the set of problem exercises and Multiple Choice
-Questions are of sufficient quality and amount.
+BIOS1100. I feel I have found the right format for this course, with
+lectures, Participatory Live Coding sessions and group sessions. The
+material written for the course, the set of problem exercises and
+Multiple Choice Questions are of sufficient quality and amount.
 
-Along the way, educational theory has informed me for the many choices a
-teacher has to make. It has made me choose methods to lower cognitive
-load, for example by successfully scaling up Participatory Live Coding.
-It has shown me the importance of formative assessment, how there are
-different ways to be informed about student progress and how collecting
-this information can guide course adjustment immediately, or in between
-course editions. Finally, it has led to a much better alignment of the
-way students are exposed to programming, and work with it, with the
-summative assessment, by making the exam situation as similar as
-possible to the rest of the activities in the course.
+Along the way, educational theory has informed me for the many choices I
+as a teacher had to make. It has made me choose methods to lower
+cognitive load, for example by successfully scaling up Participatory
+Live Coding. It has shown me the importance of formative assessment, how
+there are different ways to be informed about student progress and how
+collecting this information can guide course adjustment immediately, or
+in between course editions. Finally, it has led to a much better
+alignment of the way students are exposed to programming, and work with
+it during the course, with the summative assessment, by making the exam
+situation as similar as possible to the rest of the activities in the
+course.
 
 Students also report more satisfaction with the course now than in the
-beginning. In the student evaluation of 2019, for the first time the
-words feeling of mastery ('mestringsfølelse') appeared in the open
-questions.
+beginning. In the student evaluation of 2019, for the first time some
+expressed achieving a feeling of mastery ('mestringsfølelse') in the
+open questions of the evaluation questionnaire.
 
-I plan to continue to explore new areas in educational science to make
-adjustments in my teaching. I am convinced that using it as a basis for
-trying out things is the most fruitful way forward.
+I plan to continue to explore educational science to make adjustments in
+my teaching. I am convinced that using it as a basis for course design
+is the most fruitful way forward.
 
 ```{=tex}
 \newpage
@@ -949,53 +980,53 @@ trying out things is the most fruitful way forward.
 # 4. Fokus på studentenes læring
 
 Mye av det som faller under 'Fokus på studentenes læring' er beskrevet i
-min undervisningsfilosofi (kapittel 'Teaching Statement'):
+det forrige kaptilet om min undervisningsfilosofi:
 
--   Fokus på samstemt undervisning i utforming av obligatoriske øvelser
-    og eksamensoppgaver, samt hvordan eksamen gjennomføres
 -   Bruk av samkoding som undervisningsform for å redusere kognitiv last
     når studenter lærer programmering
 -   Bruk av formativ vurdering kombinert med Peer Instruction for å
     sjekke forståelse og rette opp misforståelser
+-   Fokus på samstemt undervisning i utforming av obligatoriske øvelser
+    og eksamensoppgaver, samt hvordan eksamen gjennomføres
 -   Bruk av tilbakemeldinger på obligatoriske innleveringer for å kunne
     hjelpe studenter med å forbedre seg faglig
 
-Jeg begrenser med i dette kapittelet dermed til 2 andre aspekter.
+Jeg begrenser meg i dette kapittelet dermed til 2 andre aspekter.
 
 ## Valg av problemstillinger og motivasjon
 
 Utfordringen med et fag som BIOS1100 er å motivere studentene å lære
 programmering og modellering i biologi. Et vesentlig poeng med hvordan
 BIOS1100 er organisert er derfor at, så mye som mulig, materialet som
-brukes er biologisk relevant. Dette har med studentene motivasjon å
+brukes er biologisk relevant. Dette har med studentenes motivasjon å
 gjøre: de fleste valgte biovitenskapsprogrammet ikke fordi de er
 interessert i å studere programmering og modellering, men fordi de vil
-studere biologi. Relevans av undervisning økes når studentene møter
-autentiske oppgaver [@hidi2006FourPhase]. Som et eksempel mener jeg, når
-eksponentielle modeller undervises, at vi bør unngå å regne på renter,
-men heller studere eksponentiell bakteriell vekst. Både kursboken, samt
-materialet som har blitt utviklet for kurset, her bygges alltid på et
-biologisk eksempel, relevant problemstilling, eller aktuell situasjon. I
-kursboken er fokuset på et biologisk problem, for å så undervise noe
-nytt Python stoff for å kunne løse problemet. Studentene i BIOS1100
-jobber dermed eksempler fra populasjonsdynamikk, genetikk,
-bioinformatikk, etc. I 2020 fikk vi en unik mulighet til å aktualisere
-kursets innhold fordi vi kunne bruke modellene som undervises til å
-modellere den pågående korona pandemien. Til slutt lager vi også noen
-koblinger til et av de andre fagene program studentene tar samme
-semester, BIOS1110 -- Celle- og molekylærbiologi. Studentene skal for
-eksempel plotte noen målinger de har gjort på labben i BIOS1110, eller
-implementere en Python-basert *in silico* modell av et DNA-kuttings
-eksperiment de gjør i det andre faget. Studentene melder ofte uanmodet
-at det at faget vises til å være relevant for biologien gjør det mer
-interessant.
+studere biologi. Relevansen av undervisningen økes for studentene når de
+møter autentiske oppgaver [@hidi2006FourPhase]. Som et eksempel mener
+jeg, når eksponentielle modeller undervises, at vi bør unngå å regne på
+renter, men heller studere for eksempel eksponentiell bakteriell vekst.
+Både kursboken, samt materialet som har blitt utviklet for kurset,
+bygges derfor alltid på et biologisk eksempel, en relevant
+problemstilling, eller en aktuell situasjon. I kursboken legges fram et
+biologisk problem først, for å så undervise noe nytt Python stoff for å
+kunne løse problemet. Studentene i BIOS1100 jobber dermed med eksempler
+fra populasjonsdynamikk, genetikk, bioinformatikk, etc. I 2020 fikk vi
+en unik mulighet til å aktualisere kursets innhold fordi vi kunne bruke
+modellene som undervises til å modellere den pågående korona pandemien.
+Til slutt lager vi også noen koblinger til et av de andre fagene program
+studentene tar samme semester, BIOS1110 -- Celle- og molekylærbiologi.
+Studentene skal for eksempel plotte noen målinger de har gjort på labben
+i BIOS1110, eller implementere en Python-basert *in silico* modell av et
+DNA-kuttings eksperiment de gjør i det andre faget. Studentene melder
+ofte uanmodet at det at faget vises til å være relevant for biologien
+gjør det mer interessant.
 
 ## Evaluering og systematisk utvikling av undervisningen
 
 I min undervisning bruker jeg underveisevaluering og sluttevaluering på
 en systematisk måte for å forbedre undervisningen.
 
-Underveisevaluering med gruppelærere med hjelp av et delt Google Doc
+Underveisevaluering med gruppelærere med hjelp av et delt Google Doc er
 beskrevet i avsnittet [erfaringsdokument](#erfaringsdokument). På de
 ukentlige gruppelærermøtene gjennom semesteret starter vi alltid men en
 kort oppsummering av uken som var for å se om det var noe problemer som
@@ -1007,7 +1038,7 @@ arbeidsbelastning mellom kursene, og bidra til at opplevelser av kursene
 er noenlunde likt. Det gjennomføres en midtveisevaluering og en
 sluttevaluering der alle studenter bes å fylle ut et nettskjema.
 Resultatene av disse spørreundersøkelser diskuteres med
-studentrepresentantene på et møte midt i kurset, og etter siste
+studentrepresentantene på felles møter midt i kurset, og etter siste
 undervisningsuke. Evalueringer har ført til en rekke endringer, som er
 beskrevet der utviklingen i BIOS1100 beskrives (avsnittet [BIOS1100
 (2017-)](#bios1100_utvikling)).
@@ -1019,9 +1050,9 @@ var verdifull for å forstå eventuelle problemer studentene hadde, slik
 at de kunne adresseres umiddelbart. Jeg skal fortsette med denne formen
 for formativ vurdering i kurset framover.
 
-Til slutt brukes og resultater fra prosjekter til lektorstudenter som
-tar en undervisningsrettet master og som skriver sin oppgave om
-studenter som tar BIOS1100. Dette behandles i neste kapittel.
+Til slutt brukes resultatene fra prosjekter til lektorstudenter som tar
+en undervisningsrettet master og som skriver sin oppgave om studenter
+som tar BIOS1100. Dette behandles i neste kapittel.
 
 ```{=tex}
 \newpage
@@ -1030,7 +1061,7 @@ studenter som tar BIOS1100. Dette behandles i neste kapittel.
 
 ## Bruk av resultater fra forskning om læring i undervisningen
 
-Jeg er sterkt overbevist at undervisere bør bruke resultater fra
+Jeg er sterkt overbevist om at undervisere bør bruke resultater fra
 vitenskapelig forskning på læring og utdanning når man planlegger og
 utvikler sin undervisning. Hvordan jeg bruker forskningen på disse
 områdene i min undervisning er beskrevet utfyllende i kapittelet om min
@@ -1042,7 +1073,7 @@ Kort sammenfattet har jeg fokusert på tre områder:
 -   Formativ vurdering og Peer instruction
 -   Samstemt undervisning (Constructive Alignment)
 
-Den andre siden av "En forskende tilnærming" er forske på sin egen
+Den andre siden av "En forskende tilnærming" er å forske på sin egen
 undervisning. Dette aspektet er beskrevet nærmere i dette kapitlet.
 
 ## Forskning på egen undervisning
@@ -1055,35 +1086,35 @@ eksperimentere med enkle modeller av biologiske systemer.
 Det er per dags dato lite forskningsbasert kunnskap om hvordan
 biologistudenter stiller seg til programmering i biologi og enda mindre
 hvilke læringsstrategier de bruker for å løse biologiske
-problemstillinger med programmering. Vi er derfor i en unik posisjon til
-å fremskaffe slik kunnskap ved å 'forske på' studenter i BIOS1100.
+problemstillinger med programmering. Vi er derfor i en unik posisjon ved
+Institutt for Biovitenskap til å fremskaffe slik kunnskap ved å 'forske
+på' studenter i BIOS1100.
 
 Som et første steg i å samle kunnskap på dette området har kollega Tone
 Gregers ved IBV tatt initiativ til å tilby lektorstudenter som tar en
-undervisningsrettet master til å skrive sin oppgave om studenter som tar
-BIOS1100. Jeg var medveileder for alle fire studenter. Veiledningsteamet
-har vært tverrfaglig, med utdanningsforskere fra fysisk institutt (Maria
+undervisningsrettet master å skrive sin oppgave om studenter som tar
+BIOS1100. Så langt har fire masterstudenter hatt et slikt prosjekt, og
+jeg var medveileder for alle disse. Veiledningsteamet har vært
+tverrfaglig, med utdanningsforskere fra fysisk institutt (Maria
 Vetleseter Bøe og Ellen Henriksen) en underviser fra skolelaboratoriet
 ved Institutt for Biologi (Tone Gregers) og meg som emneansvarlig i
 BIOS1100.
 
 Formålet med disse prosjektene har vært å undersøke studenters
-holdninger og motivasjon for programmering og modellering i biologi,
-samt finne ut hvordan studentene velger å løse ulike biologiske
-problemstillinger ved hjelp av programmering. Gjennom prosjektet har vi
-ønsket å bidra til bedre læring og motivasjon i beregningsorientert
-biologi.
+holdninger til, og motivasjon for programmering og modellering i
+biologi, samt å finne ut hvordan studentene velger å løse ulike
+biologiske problemstillinger ved hjelp av programmering.
 
 Funnene i masterprosjekter har jeg brukt aktivt for å forbedre kurset,
 både faglig og hvordan emnet undervises. I tillegg har dette arbeidet
-blitt presentert på MNT konferansen, en nasjonal konferanse om
-erfaringsdeling av en forskningsbasert og vitenskapelige tilnærming til
-undervisning og læring etter SoTL (Scholarship of Teaching and Learning)
-prinsippene, i 2019 og 2021. Det har også det blitt skrevet en
-vitenskapelig artikkel om hvordan lektorstudenter som tar en
-undervisningsrettet master ved instituttet bidrar til
-undervisningskvaliteten [@gregers2019Lektorstudenter], og om resultatene
-av to av deres prosjekter [@eliassen2021Motivasjon].
+blitt presentert på MNT konferansen i 2019 og 2021. MNT konferansen er
+en nasjonal konferanse om erfaringsdeling av den forskningsbaserte og
+vitenskapelige tilnærmingen til undervisning og læring etter SoTL
+(Scholarship of Teaching and Learning) prinsippene. Det har i tillegg
+blitt publisert en vitenskapelig artikkel om hvordan lektorstudenter som
+tar en undervisningsrettet master ved instituttet bidrar til
+undervisningskvaliteten [@gregers2019Lektorstudenter], og en om
+resultatene av to av deres prosjekter [@eliassen2021Motivasjon].
 
 Nedenfor gjøres kort rede for prosjektene, funnene, og hvordan disse har
 blitt integrert i videreutvikling av BIOS1100.
@@ -1105,13 +1136,13 @@ blitt integrert i videreutvikling av BIOS1100.
 **Kort sammendrag**
 
 -   Resultatene indikerer at matematikk R2 ser ut til a henge sammen med
-    storre mestringsforventning og større interesse for BIOS1100
+    større mestringsforventning og større interesse for BIOS1100
 -   Det ser ut som om mange av studentene valgte bort full fordypning i
     biologi til fordel for R2
 -   Funnene støtter antagelsen om at nytteverdi er den sterkeste
     motiverende faktoren for emne
 -   Nytteverdien må ses i lys av at emne er obligatorisk for
-    studieprogramet, og at studenter eller har lite interesse for
+    studieprogrammet, og at studenter ellers har lite interesse for
     programmering og modellering i biologi
 
 **Anbefalinger for BIOS1100**
@@ -1183,16 +1214,16 @@ fortsatt et forbedringspunkt i kurset.
 
 **Anbefalinger for BIOS1100**
 
--   bevisstgjøre studenten av relevansen for programmering utenfor emnet
+-   Bevisstgjøre studenten av relevansen for programmering utenfor emnet
     BIOS1100
--   tilby ekstra faglig støtte til studentene som har lav
+-   Tilby ekstra faglig støtte til studentene som har lav
     mestringsforventning
 
 **Oppfølging**
 
-Flere grep som ble gjort fra 2019 prøver å koble faget sammen med de
-andre fag studentene tar. Endringer i undervisningsform bidrar til mer
-faglig støtte.
+Flere grep som ble gjort fra og med 2019 prøver å koble faget sammen med
+de andre fag studentene tar. Endringer i undervisningsform bidrar til
+mer faglig støtte.
 
 ### Lars Erik Håland 2019
 
@@ -1258,7 +1289,7 @@ i Zoom for erfaringsutveksling.
 Mitt bidrag har vært å hjelpe med planlegging og gjennomføring, samt
 bidra konkret til noen av workshopen:
 
--   Kognitiv last teori (oktober 2019)
+-   Teorien om Kognitiv Last (oktober 2019)
 -   Bruk av Zoom for digital undervisning (mars 2020)
 -   Digital hjemmeeksamen i BIOS1100 (november 2020)
 
@@ -1285,15 +1316,15 @@ bruk av et erfaringsdokument underveis i kurset.
 
 Det første året BIOS1100 skulle undervises hadde jeg en sesjon med alle
 gruppelærere for å forberede dem på deres rolle, før sommerferien, det
-vil si en del uker før kurset skulle starte. eg opplevde at det det mye
-informasjon til dem lang tid før det skulle brukes, og at utbytte av
-dette møte derfor var lavt.
+vil si en del uker før kurset skulle starte. Jeg opplevde at det ble mye
+informasjon til dem alt for lang tid før de skulle bruke det, og at
+utbytte av dette møte derfor var lavt.
 
-De siste årene har jeg brukt de ukentlige møter med gruppelærere for å
-styrke gruppelæreres pedagogiske kompetanse. Hver uke tar jeg opp et
-tema som er pedagogisk relevant, eller inviterer en annen person til å
-presentere et slikt tema. I disse sesjonene bruker vi aktive lærings
-teknikker som tenk-par-del for å fremme diskusjon blant gruppelærere
+De siste årene har jeg derfor brukt de ukentlige møter med gruppelærere
+for å styrke gruppelæreres pedagogiske kompetanse. Hver uke tar jeg opp
+et tema som er pedagogisk relevant, eller inviterer en annen person til
+å presentere et slikt tema. I disse sesjonene bruker vi aktive lærings
+teknikker som tenk-par-del for å fremme diskusjon blant gruppelærere,
 samt vise nytte av slike undervisningsteknikker.
 
 Temaene vi vanligvis diskuterer:
@@ -1307,7 +1338,7 @@ Temaene vi vanligvis diskuterer:
 
 Noen av disse temaene er inspirert av [The Carpentries instruktør
 trening](https://carpentries.github.io/instructor-training/), som jeg
-underviser selv.
+underviser selv i.
 
 Etter at jeg innførte denne måten å lære opp gruppelærere i noen
 pedagogiske begreper mm har jeg inntrykk av at nivået på deres
@@ -1322,31 +1353,30 @@ organiseres det aktiviteter for å hjelpe gruppelærerne til å bli bedre
 undervisere gjennom pedagogisk opplæring og ukentlige utviklingsmøter.
 Jeg håper at LA programmet kan komme til Institutt for Biovitenskap i
 fremtiden og skal da tilby å slå dette sammen med mine aktiviteter på
-området, slik at det gagner flere gruppelærere på instituttet.
+området, slik at det kan nå flere gruppelærere på instituttet.
 
 **Erfaringsdokument**
 
 ::: {#erfaringsdokument}
 :::
 
-Det er flere gruppetimer per uke i BIOS1100, og det er nyttig at de som
-har undervist en gruppe tidlig i uken deler sine erfaringer med de som
-skal undervise senere. Helt fra begynnelsen av kurset har jeg derfor
-brukt et delt dokument (en Google Doc) hvor jeg ba gruppelærere om å
-notere sine erfaringer umiddelbart etter undervisningen. De andre
-gruppelærere kan da lese dette såkalte erfaringsdokumentet og bruke det
-for å hjelpe dem med å forberede seg på undervisningen. Jeg bruker
-dokumentet for å umiddelbart rette opp feil i undervisningsmaterialet,
-eller foreslå løsninger når ting ikke fungerer som jeg hadde tenkt dem.
-Dette har fungert veldig bra, og mye nyttig tilbakemelding, eller
-inspirerende forslag, har blitt skrevet ned av gruppelærere gjennom
-årene.
+Det er flere grupper i BIOS1100, og det er nyttig at de som har
+undervist en gruppe tidlig i uken deler sine erfaringer med de som skal
+undervise senere. Helt fra begynnelsen av kurset har jeg derfor brukt et
+delt dokument (en Google Doc) hvor jeg ba gruppelærere om å notere sine
+erfaringer umiddelbart etter undervisningen. De andre gruppelærere kan
+da lese dette såkalte erfaringsdokumentet og bruke det for å hjelpe dem
+med å forberede seg på undervisningen. Jeg bruker dokumentet for å
+umiddelbart rette opp feil i undervisningsmaterialet, eller foreslå
+løsninger når ting ikke fungerer som jeg hadde tenkt dem. Dette har
+fungert veldig bra, og mye nyttig tilbakemelding, eller inspirerende
+forslag, har blitt skrevet ned av gruppelærere gjennom årene.
 
-Å bruke et slikt dokument kan ansees for en form for formativ vurdering.
-Det viser også gruppelærere at deres tilbakemeldinger blir tatt på
-alvor, og at deres innspill til kurset er veldig velkommen. Det gir dem
-eierskap i undervisningen, noe de også gir meg som tilbakemelding under
-kursevalueringene mot slutten av semesteret.
+Å bruke et slikt dokument kan sees på som en form for formativ
+vurdering. Det viser også gruppelærere at deres tilbakemeldinger blir
+tatt på alvor, og at deres innspill til kurset er veldig velkommen. Det
+gir dem eierskap i undervisningen, noe de også gir meg som
+tilbakemelding under kursevalueringene mot slutten av semesteret.
 
 Når jeg forbereder meg til neste års undervisning i kurset, bruker jeg
 dette dokumentet, og et privat 'erfaringsdokument' som jeg skriver selv
@@ -1360,14 +1390,14 @@ forbedre kurset.
 CCSE, Centre for Computing in Science Education, har i alle år, som et
 ledd i fakultetets studiekvalitetsmidler, tilbudt stillinger som
 sommerstudenter. Formålet med prosjektene til disse 'CSE'
-sommerstudenter har vært å utvikle undervisningsmateriell til kurs der
+sommerstudenter har vært å utvikle undervisningsmaterialet til kurs der
 beregninger inkorporeres. Jeg har søkt, og fått tildelt, totalt 12 slike
 stillinger. Disse studentene har bidratt med mer enn 100 oppgaver, og en
 stor del av disse brukes i undervisningen. Det har vært en stor glede å
 kunne jobbe med disse studentene. Disse vet ofte selv veldig godt
-hvordan det er å lære programmering som biolog, og er veldig kreativ når
-det kommer til å finne gode biologiske problemstillinger studentene kan
-jobbe med.
+hvordan det er å lære programmering som biolog, og er veldig kreative
+når de skal finne gode biologiske problemstillinger studentene kan jobbe
+med.
 
 ```{=tex}
 \newpage
@@ -1476,7 +1506,7 @@ jobbe med.
     -   **Vedlegg** `Carpentries_Instructor_Trainer_Certificate.pdf`
 -   Jeg har bidratt til undervisningsmaterial til The Carpentries
     -   The Carpentries Instructor Training
-        [@erinalisonbecker2019carpentries]
+        [@erinalisonbecker2019Carpentries]
     -   Software Carpentry: The Unix Shell [@aldazabalmensa2017Software]
     -   Software Carpentry: Programming with Python
         [@achterberg2017Software]

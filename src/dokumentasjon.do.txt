@@ -76,7 +76,7 @@ _Software Carpentry, Data Carpentry, The Carpentries, Carpentry@UiO_
   * _Vedlegg_ `DataCarpentry_Instructor_Certificate.pdf`
   * _Vedlegg_ `Carpentries_Instructor_Trainer_Certificate.pdf`
 * Jeg har bidratt til undervisningsmaterial til The Carpentries
-  * The Carpentries Instructor Training cite{erinalisonbecker2019carpentries}
+  * The Carpentries Instructor Training cite{erinalisonbecker2019Carpentries}
   * Software Carpentry: The Unix Shell cite{aldazabalmensa2017Software}
   * Software Carpentry: Programming with Python cite{achterberg2017Software}
   * Software Carpentry: Version Control with Git cite{ahmadia2017Softwarea}
