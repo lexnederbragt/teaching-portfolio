@@ -4,7 +4,7 @@
 
 ### Underverk
 
-I 2019 tok kollega Tone Gregers ved IBV initiativ til UndervisningVerksted ved IBV,
+I 2019 tok kollega Tone Gregers ved IBV initiativ til UndervisningsVerksted ved IBV,
 også kalt Underverk. UnderVerk er
 "en workshopserie der alle som er involvert i undervisning
 ved Institutt for Biovitenskap skal få mulighet til å arbeide med

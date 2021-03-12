@@ -111,7 +111,7 @@
   Carpentry@UiO
   * UiO er siden 2017 [medlemsorganisasjon](https://carpentries.org/members/) av The Carpentries
   * Webside til [Carpentry@UiO](https://uio-carpentry.github.io), bl.a. med
-    oversikt over [tidligere worshops](https://uio-carpentry.github.io/workshops/#past-workshops)
+    oversikt over [tidligere workshops](https://uio-carpentry.github.io/workshops/#past-workshops)
   * Websidene fra Universitetsbiblioteket:
     * [carpentry.uio.no](https://carpentry.uio.no)
     * [oversikt over workshops](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/)
@@ -198,7 +198,7 @@
 * Mediaoppmerksomhet mm
   * jeg jar skrevet noen innlegg på min personlige blog om BIOS1100:
     <http://lexnederbragt.com/bios1100>
-  * besøk av daværende kunnskapsministeren til UiO, inklduert undervisningen i BIOS1100
+  * besøk av daværende kunnskapsministeren til UiO, inkludert undervisningen i BIOS1100
     * artikkel i [Uniforum](https://www.uniforum.uio.no/nyheter/2017/10/henrik-asheim-blei-begreistra-for-forsking-og-unde.html)
     * artikkel på "IBV sine websider": <https://www.mn.uio.no/ibv/om/aktuelt/aktuelle-saker/2017/kunnskapsministeren-imponert-over-bios1100-og-igem.html>
 
@@ -207,9 +207,9 @@
 
 #### Det digitale
 
-* Prosjekt "Intergrasjon av Jupyter og Canvas for digital vurdering"
+* Prosjekt "Integrasjon av Jupyter og Canvas for digital vurdering"
   * [Prosjektsiden](https://www.usit.uio.no/om/organisasjon/itf/aktiviteter/prosjekter/jupyter-canvas) (krever login med UiO brukernavn og passord)
-  * finansert av LINK - Senter for Læring og Utdanning ved UiO
+  * finansiert av LINK - Senter for Læring og Utdanning ved UiO
     * [Utlysning av prosjektmidler for digital vurdering](https://www.uio.no/link/arrangementer/2019/digitalvurdering/prosjektmidlerdigitalvurdering.pdf)
 
 

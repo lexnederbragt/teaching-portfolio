@@ -3,7 +3,7 @@
 # 4. Fokus på studentenes læring
 
 Mye av det som faller under 'Fokus på studentenes læring' er beskrevet i
-det forrige kaptilet om min undervisningsfilosofi:
+det forrige kapitlet om min undervisningsfilosofi:
 
 * Bruk av samkoding som undervisningsform for å redusere kognitiv last når
   studenter lærer programmering

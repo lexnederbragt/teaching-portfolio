@@ -79,7 +79,7 @@ i pedagogisk forskning, og at målet deres var
 og forhindre å finne opp hjulet på nytt.
 Jeg ønsket å delta på en slik workshop og tok kontakt.
 Resultatet var at deres daværende direktør Greg Wilson
-kom til Oslo og holdt den første Software Carpentry workshoppen i Norden.
+kom til Oslo og holdt den første Software Carpentry workshopen i Norden.
 Ikke bare lærte jeg mye om hvordan jeg kunne bli mer effektiv i min forskning,
 jeg ble  - gledelig - rekruttert til å bli instruktør for Software Carpentry.
 Etter et (online) instruktør treningsprogram med stor fokus på pedagogikk,
@@ -101,7 +101,7 @@ fremme bioinformatikk forskning og undervisning,
 å laget et poenggivende kurs på master og PhD nivå basert på disse kursene.
 Vi ble enige å slå oss sammen til et 5 poengs intensivkurs
 der studentene fikk en generell introduksjon til DNA sekvensering og
-data analyse, etterfuglt av moduler om anvendte analyser tilsvarende
+data analyse, etterfulgt av moduler om anvendte analyser tilsvarende
 våre opprinnelige workshops.
 I 2013 ble jeg tilbudt en 20% 1. amanuensis II stilling ved
 Institutt for Informatikk for blant annet å være kursansvarlig for dette kurset.
@@ -132,7 +132,7 @@ Våren 2014 tok jeg fellesdelen av Universitetspedagogisk Basiskompetanse.
 Siden jeg var ansatt i en 20% 1. amanuensis II stilling trengte jeg ikke
 å gjennomføre hele fellesdelen og jeg valgte da bort kollegaveiledningen.
 I 2016 ble jeg instruktørtrener for the Carpentries.
-Dette innbærte at jeg kunne lære opp nye instruktører.
+Med dette kunne jeg lære opp nye instruktører.
 Til det har The Carpentries utviklet et instruktørtrenings
 [opplærings materialet](https://carpentries.github.io/instructor-training),
 som er forankret i elementære pedagogiske forskning (pedagogisk psykologi)
@@ -153,7 +153,7 @@ I 2017 ble det introdusert nye bachelorprogrammer i alle studieprogrammer
 ved det matematisk- naturvitenskapelige fakultet ved Universitetet i Oslo.
 Alle programmene inkluderte fra da av et beregningsaspekt fra første semester.
 Målet var å integrere beregninger som et naturlig verktøy i utdanningen,
-for å forberede studentene på en karriere der dette er en mye etterpurt kompetanse.
+for å forberede studentene på en karriere der dette er en mye etterspurt kompetanse.
 På Institutt for Biovitenskap ble dette implementert
 ved et nytt introduksjonskurs BIOS1100 - Innføring i beregningsmodeller for biovitenskap,
 som er obligatorisk for alle biovitenskapelige studenter.
@@ -225,13 +225,13 @@ med hjelp av flervalgsoppgaver i forelesninger og gruppetimene.
 Bakgrunnen for dette er beskrevet i undervisningsfilosofien under avsnittet [formative_assessment](03_mappe.html#formative_assessment).
 Jeg gikk også gjennom noen utvalgte oppgaver i forelesningene.
 
-Det viste seg 2/3 del inni kurset at mange studenter
+Det viste seg 2/3 del inne i kurset at mange studenter
 ikke kom på forelesningene lenger, og at deltakelse på gruppetimene,
 som på det tidspunktet ikke var obligatorisk, også var lavt.
 I tillegg fikk studieseksjonen gjennom samtaler med studenter inntrykk av
 at mange hadde falt av tidlig og ikke klarte å komme tilbake igjen.
-Med andre ord, jeg stolte for mye på selvstendig læring av progammeringen,
-('minimal guidance'), mens foskningen viser at Direkte Instruksjon
+Med andre ord, jeg stolte for mye på selvstendig læring av programmeringen,
+('minimal guidance'), mens forskningen viser at Direkte Instruksjon
 ('direct instruction') er å foretrekke i begynnerundervisningen
 <a href="08_mappe.html#clark2012Putting">[1]</a>.
 
@@ -270,7 +270,7 @@ Derfor bestemte jeg meg at samkodingen i BIOS1100 måtte skje i gruppetimene.
 For å muliggjøre dette satset jeg på at dette skulle undervises av gruppelærere.
 
 Andre gang kurset gikk i 2018 ble dette implementert.
-Samkoding ble brukt som hovedundervisningsform i gruppetimene.
+Samkoding ble brukt som hoved undervisningsform i gruppetimene.
 Til det hadde jeg skrevet en 'oppskrift' for hva som skulle undervises
 i de ukentlige samkodingsøktene som gruppelærere kunne bruke.
 Jeg gjennomførte en egen opplæring i samkodingsundervisning med 7 av gruppelærere (alle PhD studenter)
@@ -315,9 +315,9 @@ oppgavejobbing mens det samtidig kunne tilbys samkoding om elementær Python sto
 En utfordring var å få de studentene som trenger det faktisk til å gå
 på samkodingsgruppene.
 
-Fra og med 2019 ble det også gjort forsøk å spesfikk undervise
+Fra og med 2019 ble det også gjort forsøk å spesifikk undervise
 problemløsningsstrategier.
-Dette viste seg å være vanskelig, og forløpig har jeg ikke funnet et tilstrekkelig
+Dette viste seg å være vanskelig, og foreløpig har jeg ikke funnet et tilstrekkelig
 undervisningsopplegg for dette.
 
 #### 3: Hvordan å aktivisere studentene
@@ -332,7 +332,7 @@ I BIOS1100 har jeg over tid prøvd ut og implementert følgende studentaktive (s
 * formativ vurdering kombinert med Peer Instruction, dette er beskrevet i
   kapitlet om min undervisningsfilosofi
 * tidligere eksperimenterte jeg med det jeg kalte 'offline øvelser':
-  pen-og-papir øvelser for å introdusere et programmeringskonsept uten
+  penn-og-papir øvelser for å introdusere et programmeringskonsept uten
   bruk av datamaskinen. For eksempel brukte vi et kortspill for å illustrere
   betingede strukturer: 'hvis neste kort er rød, så ..., ellers ...'.
   Dette var inspirert av CS Unplugged, "a collection of free teaching material that teaches Computer Science through engaging games and puzzles" (<https://csunplugged.org/en/>).
@@ -398,7 +398,7 @@ Det ble ikke rapportert om så mye forvirring som før.
 
 #### Andre aspekter ved BIOS1100
 
-Jeg har under utiklingen av kurset hatt stor fokus på samstemt undervisning
+Jeg har under utviklingen av kurset hatt stor fokus på samstemt undervisning
 ('Constructive Alignment') <a href="08_mappe.html#biggs2011Teaching">[5]</a>.
 Disse aspektene er beskrevet andre steder i denne mappen:
 

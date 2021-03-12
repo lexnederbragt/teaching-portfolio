@@ -77,7 +77,7 @@ disse har blitt integrert i videreutvikling av BIOS1100.
 
 **Kort sammendrag**
 
-* Resultatene indikerer at matematikk R2 ser ut til a henge sammen med
+* Resultatene indikerer at matematikk R2 ser ut til å henge sammen med
   større mestringsforventning og større interesse for BIOS1100
 * Det ser ut som om mange av studentene
   valgte bort full fordypning i biologi til fordel for R2
