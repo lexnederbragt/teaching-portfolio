@@ -23,8 +23,7 @@ src/papers.bib : src/papers.pub
 # --sections_up - move headers up to heading 1 level
 src/mappe.md: src/*.do.txt src/papers.bib src/word_template.docx
 	doconce format pandoc src/mappe \
-	-DDOCX --language=Norwegian \
-	--sections_up
+	-DDOCX --sections_up
 
 # Microsoft word
 # --lua-filter=src/pagebreak.lua - enable page breaks between chapters
@@ -42,7 +41,7 @@ pub/mappe.md: src/mappe.md
 	pandoc -s --toc src/mappe.md -o pub/mappe.md
 
 # DocOnce export for Jupyterbook
-pub/book: src/*.do.txt
+pub/book: src/*.do.txt src/papers.bib
 	doconce jupyterbook src/mappe \
 	--dest=${DEST} \
 	--dest_toc=${DEST} \
