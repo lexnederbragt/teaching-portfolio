@@ -181,7 +181,7 @@ målet deres var å undervise kunnskap opparbeidet gjennom årene om 'best
 practices', og forhindre å finne opp hjulet på nytt. Jeg ønsket å delta
 på en slik workshop og tok kontakt. Resultatet var at deres daværende
 direktør Greg Wilson kom til Oslo og holdt den første Software Carpentry
-workshoppen i Norden. Ikke bare lærte jeg mye om hvordan jeg kunne bli
+workshopen i Norden. Ikke bare lærte jeg mye om hvordan jeg kunne bli
 mer effektiv i min forskning, jeg ble - gledelig - rekruttert til å bli
 instruktør for Software Carpentry. Etter et (online) instruktør
 treningsprogram med stor fokus på pedagogikk, ble jeg og en kollega
@@ -201,7 +201,7 @@ initiativet, en satsning fra fakultetet for å fremme bioinformatikk
 forskning og undervisning, å laget et poenggivende kurs på master og PhD
 nivå basert på disse kursene. Vi ble enige å slå oss sammen til et 5
 poengs intensivkurs der studentene fikk en generell introduksjon til DNA
-sekvensering og data analyse, etterfuglt av moduler om anvendte analyser
+sekvensering og data analyse, etterfulgt av moduler om anvendte analyser
 tilsvarende våre opprinnelige workshops. I 2013 ble jeg tilbudt en 20%
 1. amanuensis II stilling ved Institutt for Informatikk for blant annet
 å være kursansvarlig for dette kurset. Dette ble INF-BIO5121/9121 - High
@@ -231,8 +231,8 @@ Våren 2014 tok jeg fellesdelen av Universitetspedagogisk
 Basiskompetanse. Siden jeg var ansatt i en 20% 1. amanuensis II stilling
 trengte jeg ikke å gjennomføre hele fellesdelen og jeg valgte da bort
 kollegaveiledningen. I 2016 ble jeg instruktørtrener for the
-Carpentries. Dette innbærte at jeg kunne lære opp nye instruktører. Til
-det har The Carpentries utviklet et instruktørtrenings [opplærings
+Carpentries. Med dette kunne jeg lære opp nye instruktører. Til det har
+The Carpentries utviklet et instruktørtrenings [opplærings
 materialet](https://carpentries.github.io/instructor-training), som er
 forankret i elementære pedagogiske forskning (pedagogisk psykologi)
 rundt hvordan vi lærer. Sentrale begreper er motivasjon, kognitiv last,
@@ -254,7 +254,7 @@ studieprogrammer ved det matematisk- naturvitenskapelige fakultet ved
 Universitetet i Oslo. Alle programmene inkluderte fra da av et
 beregningsaspekt fra første semester. Målet var å integrere beregninger
 som et naturlig verktøy i utdanningen, for å forberede studentene på en
-karriere der dette er en mye etterpurt kompetanse. På Institutt for
+karriere der dette er en mye etterspurt kompetanse. På Institutt for
 Biovitenskap ble dette implementert ved et nytt introduksjonskurs
 BIOS1100 - Innføring i beregningsmodeller for biovitenskap, som er
 obligatorisk for alle biovitenskapelige studenter. Videre skulle andre
@@ -321,13 +321,13 @@ er beskrevet i undervisningsfilosofien under avsnittet
 [formative_assessment](#formative_assessment). Jeg gikk også gjennom
 noen utvalgte oppgaver i forelesningene.
 
-Det viste seg 2/3 del inni kurset at mange studenter ikke kom på
+Det viste seg 2/3 del inne i kurset at mange studenter ikke kom på
 forelesningene lenger, og at deltakelse på gruppetimene, som på det
 tidspunktet ikke var obligatorisk, også var lavt. I tillegg fikk
 studieseksjonen gjennom samtaler med studenter inntrykk av at mange
 hadde falt av tidlig og ikke klarte å komme tilbake igjen. Med andre
-ord, jeg stolte for mye på selvstendig læring av progammeringen,
-('minimal guidance'), mens foskningen viser at Direkte Instruksjon
+ord, jeg stolte for mye på selvstendig læring av programmeringen,
+('minimal guidance'), mens forskningen viser at Direkte Instruksjon
 ('direct instruction') er å foretrekke i begynnerundervisningen
 [@clark2012Putting].
 
@@ -365,7 +365,7 @@ måtte skje i gruppetimene. For å muliggjøre dette satset jeg på at dette
 skulle undervises av gruppelærere.
 
 Andre gang kurset gikk i 2018 ble dette implementert. Samkoding ble
-brukt som hovedundervisningsform i gruppetimene. Til det hadde jeg
+brukt som hoved undervisningsform i gruppetimene. Til det hadde jeg
 skrevet en 'oppskrift' for hva som skulle undervises i de ukentlige
 samkodingsøktene som gruppelærere kunne bruke. Jeg gjennomførte en egen
 opplæring i samkodingsundervisning med 7 av gruppelærere (alle PhD
@@ -411,9 +411,10 @@ gruppetimene til selvstendig oppgavejobbing mens det samtidig kunne
 tilbys samkoding om elementær Python stoff. En utfordring var å få de
 studentene som trenger det faktisk til å gå på samkodingsgruppene.
 
-Fra og med 2019 ble det også gjort forsøk å spesfikk undervise
-problemløsningsstrategier. Dette viste seg å være vanskelig, og forløpig
-har jeg ikke funnet et tilstrekkelig undervisningsopplegg for dette.
+Fra og med 2019 ble det også gjort forsøk å spesifikk undervise
+problemløsningsstrategier. Dette viste seg å være vanskelig, og
+foreløpig har jeg ikke funnet et tilstrekkelig undervisningsopplegg for
+dette.
 
 ### 3: Hvordan å aktivisere studentene
 
@@ -428,8 +429,8 @@ studentaktive (studentaktiviserende) læringsmetoder:
 -   formativ vurdering kombinert med Peer Instruction, dette er
     beskrevet i kapitlet om min undervisningsfilosofi
 -   tidligere eksperimenterte jeg med det jeg kalte 'offline øvelser':
-    pen-og-papir øvelser for å introdusere et programmeringskonsept uten
-    bruk av datamaskinen. For eksempel brukte vi et kortspill for å
+    penn-og-papir øvelser for å introdusere et programmeringskonsept
+    uten bruk av datamaskinen. For eksempel brukte vi et kortspill for å
     illustrere betingede strukturer: 'hvis neste kort er rød, så ...,
     ellers ...'. Dette var inspirert av CS Unplugged, "a collection of
     free teaching material that teaches Computer Science through
@@ -490,7 +491,7 @@ mye smidigere. Det ble ikke rapportert om så mye forvirring som før.
 
 ### Andre aspekter ved BIOS1100
 
-Jeg har under utiklingen av kurset hatt stor fokus på samstemt
+Jeg har under utviklingen av kurset hatt stor fokus på samstemt
 undervisning ('Constructive Alignment') [@biggs2011Teaching]. Disse
 aspektene er beskrevet andre steder i denne mappen:
 
@@ -980,7 +981,7 @@ is the most fruitful way forward.
 # 4. Fokus på studentenes læring
 
 Mye av det som faller under 'Fokus på studentenes læring' er beskrevet i
-det forrige kaptilet om min undervisningsfilosofi:
+det forrige kapitlet om min undervisningsfilosofi:
 
 -   Bruk av samkoding som undervisningsform for å redusere kognitiv last
     når studenter lærer programmering
@@ -1135,7 +1136,7 @@ blitt integrert i videreutvikling av BIOS1100.
 
 **Kort sammendrag**
 
--   Resultatene indikerer at matematikk R2 ser ut til a henge sammen med
+-   Resultatene indikerer at matematikk R2 ser ut til å henge sammen med
     større mestringsforventning og større interesse for BIOS1100
 -   Det ser ut som om mange av studentene valgte bort full fordypning i
     biologi til fordel for R2
@@ -1262,7 +1263,7 @@ et fokus i BIOS1100.
 ## Underverk
 
 I 2019 tok kollega Tone Gregers ved IBV initiativ til
-UndervisningVerksted ved IBV, også kalt Underverk. UnderVerk er "en
+UndervisningsVerksted ved IBV, også kalt Underverk. UnderVerk er "en
 workshopserie der alle som er involvert i undervisning ved Institutt for
 Biovitenskap skal få mulighet til å arbeide med alle aspekter av
 undervisning i et kollegialt fellesskap." (fra [siden om
@@ -1527,7 +1528,7 @@ med.
         Carpentries
     -   Webside til [Carpentry\@UiO](https://uio-carpentry.github.io),
         bl.a. med oversikt over [tidligere
-        worshops](https://uio-carpentry.github.io/workshops/#past-workshops)
+        workshops](https://uio-carpentry.github.io/workshops/#past-workshops)
     -   Websidene fra Universitetsbiblioteket:
         -   [carpentry.uio.no](https://carpentry.uio.no)
         -   [oversikt over
@@ -1617,7 +1618,7 @@ med.
 -   Mediaoppmerksomhet mm
     -   jeg jar skrevet noen innlegg på min personlige blog om BIOS1100:
         <http://lexnederbragt.com/bios1100>
-    -   besøk av daværende kunnskapsministeren til UiO, inklduert
+    -   besøk av daværende kunnskapsministeren til UiO, inkludert
         undervisningen i BIOS1100
         -   artikkel i
             [Uniforum](https://www.uniforum.uio.no/nyheter/2017/10/henrik-asheim-blei-begreistra-for-forsking-og-unde.html)
@@ -1628,10 +1629,10 @@ med.
 
 ### Det digitale
 
--   Prosjekt "Intergrasjon av Jupyter og Canvas for digital vurdering"
+-   Prosjekt "Integrasjon av Jupyter og Canvas for digital vurdering"
     -   [Prosjektsiden](https://www.usit.uio.no/om/organisasjon/itf/aktiviteter/prosjekter/jupyter-canvas)
         (krever login med UiO brukernavn og passord)
-    -   finansert av LINK - Senter for Læring og Utdanning ved UiO
+    -   finansiert av LINK - Senter for Læring og Utdanning ved UiO
         -   [Utlysning av prosjektmidler for digital
             vurdering](https://www.uio.no/link/arrangementer/2019/digitalvurdering/prosjektmidlerdigitalvurdering.pdf)
 -   JupyterHub ved UiO
