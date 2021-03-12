@@ -3,7 +3,6 @@
   - open in MS Word
   - Save as --> PDF from MS Word (do not 'Print'),
     select 'best for electronic distribution'
-* add `ghp-import -n -p -f book/_build/html/` for gh-pages
 * fix bibliography
   *  missing URLs
   * formatting issues

@@ -1,7 +1,7 @@
 # destination for DocOnce export for Jupyterbook
 DEST=/Users/alexajo/github/teaching-portfolio/book
 
-.PHONY: all book build clean
+.PHONY: all book build publish clean
 
 all: pub/mappe.docx pub/mappe.md pub/soeknad.docx
 
@@ -53,6 +53,11 @@ pub/book: src/*.do.txt src/papers.bib
 # build the Jupyterbook
 build: pub/book book/*.md
 	jupyter-book build book --all
+
+# update the gh-pages branch
+# for updating https://github.com/lexnederbragt/teaching-portfolio
+publish:
+	ghp-import -n -p -f book/_build/html/
 
 # proposal merittert underiviser 2021
 pub/soeknad.docx: src/soeknad.do.txt src/word_template_soeknad.docx
