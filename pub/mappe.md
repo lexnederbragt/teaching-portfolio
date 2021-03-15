@@ -1,10 +1,18 @@
 ---
 author:
-- Mar 12, 2021
+- Mar 15, 2021
 title: Pedagogisk mappe Lex Nederbragt
 ---
 
 -   [1. Introduksjon](#introduksjon)
+    -   [Sammenheng mellom innholdet i denne mappen og SoTL
+        kriteriene](#sammenheng-mellom-innholdet-i-denne-mappen-og-sotl-kriteriene)
+        -   [Fokus på studentenes læring](#fokus-på-studentenes-læring)
+        -   [En klar utvikling over tid](#en-klar-utvikling-over-tid)
+        -   [En forskende tilnærming](#en-forskende-tilnærming)
+        -   [En kollegial holdning og
+            praksis](#en-kollegial-holdning-og-praksis)
+        -   [Det digitale](#det-digitale)
 -   [2. Hvordan jeg som underviser har utviklet
     meg](#hvordan-jeg-som-underviser-har-utviklet-meg)
     -   [Begynnelsen](#begynnelsen)
@@ -24,6 +32,7 @@ title: Pedagogisk mappe Lex Nederbragt
         -   [4: Rekkefølge av å undervise
             Python](#rekkefølge-av-å-undervise-python)
         -   [Andre aspekter ved BIOS1100](#andre-aspekter-ved-bios1100)
+    -   [CSE\@IBV (2018-)](#cseibv-2018-)
 -   [3. Min undervisningsfilosofi (Teaching
     Statement)](#min-undervisningsfilosofi-teaching-statement)
     -   [Om denne
@@ -47,7 +56,7 @@ title: Pedagogisk mappe Lex Nederbragt
             BIOS1100?](#what-does-this-mean-for-bios1100-2)
         -   [Practical implementation](#practical-implementation-1)
     -   [Conclusion](#conclusion)
--   [4. Fokus på studentenes læring](#fokus-på-studentenes-læring)
+-   [4. Fokus på studentenes læring](#fokus-på-studentenes-læring-1)
     -   [Valg av problemstillinger og
         motivasjon](#valg-av-problemstillinger-og-motivasjon)
     -   [Evaluering og systematisk utvikling av
@@ -73,11 +82,11 @@ title: Pedagogisk mappe Lex Nederbragt
 -   [7. Dokumentasjon](#dokumentasjon)
     -   [Universitetspedagogisk
         kompetanse](#universitetspedagogisk-kompetanse)
-    -   [En klar utvikling over tid](#en-klar-utvikling-over-tid)
-    -   [En forskende tilnærming](#en-forskende-tilnærming)
+    -   [En klar utvikling over tid](#en-klar-utvikling-over-tid-1)
+    -   [En forskende tilnærming](#en-forskende-tilnærming-1)
     -   [En kollegial holdning og
-        praksis](#en-kollegial-holdning-og-praksis)
-    -   [Det digitale](#det-digitale)
+        praksis](#en-kollegial-holdning-og-praksis-1)
+    -   [Det digitale](#det-digitale-1)
 -   [8. Litteraturliste](#litteraturliste)
 
 ```{=html}
@@ -89,17 +98,69 @@ En pedagogisk mappe er ment til å dokumentere erfaringer og utvikling
 som underviser, og er relevant for ansettelse og merittering ved
 universiteter.
 
+En webversjon av denne pedagogiske mappen er tilgjenglig på
+<https://lexnederbragt.github.io/teaching-portfolio>.
+
 Denne pedagogiske mappen har en struktur som stort sett følger SoTL
 ([Scholarship of Teaching and
 Learning](https://issotl.com/about-issotl/)) prinsippene.
 
-```{=html}
-<!-- <img src="img/pedagogisk_mappe_oversikt.png" width=350> -->
-```
-![](img/pedagogisk_mappe_oversikt.png)
+## Sammenheng mellom innholdet i denne mappen og SoTL kriteriene
 
-Denne figuren viser hvordan innholdet i denne mappen henger sammen med
-SoTL kriteriene.
+### Fokus på studentenes læring
+
+-   Behandles i undervisningsfilosofien (Teaching Statement)
+    -   Fokus på samstemt undervisning i utforming av obligatoriske
+        øvelser og eksamensoppgaver, samt hvordan eksamen gjennomføres
+    -   Bruk av samkoding som undervisningsform for å redusere kognitiv
+        last når studenter lærer programmering
+    -   Bruk av formativ vurdering kombinert med Peer Instruction for å
+        sjekke forståelse og rette opp misforståelser
+-   Behandles i et eget kapittel
+    -   Motivasjon gjennom valg av relevante biologiske
+        problemstillinger
+    -   Systematisk bruk av studentevalueringer
+
+### En klar utvikling over tid
+
+-   Behandles i undervisningsfilosofien (Teaching Statement)
+    -   Implementering av samkoding som undervisningsform i BIOS1100
+    -   Samstemt undervisning i BIOS1100
+-   Behandles i et eget kapittel
+    -   Undervisning som student og PhD student
+    -   Design og utvikling av workshops og et master/PhD kurs i
+        bioinformatikk
+    -   Design og utvikling av et begynneremne i beregningsorientert
+        biologi
+    -   Integrering av beregningsperspektivet i biovitenskapsprogrammet
+
+### En forskende tilnærming
+
+-   Behandles i undervisningsfilosofien (Teaching Statement)
+    -   Teorien om Kognitiv Last (Cognitive Load Theory)
+    -   Formativ vurdering og Peer instruction
+    -   Samstemt undervisning (Constructive Alignment)
+-   Behandles i et eget kapittel
+    -   Forskning på egen undervisning
+
+### En kollegial holdning og praksis
+
+-   Behandles i et eget kapittel
+    -   Undervisnings Verksted ved Institutt for Biovitenskap
+    -   Undervisning i et felleskap med gruppelærere og studenter
+    -   Studenter som bidragsytere i det faglige innholdet
+
+### Det digitale
+
+-   Bruk av læringsfremmende digitale midler er å finne i nesten alle
+    kapitler
+    -   Pionér i bruk av interaktive brukergrensesnitt for
+        programmeringsopplæring (Jupyter), som resulterte i en skybasert
+        løsning for flere kurs på UiO (JupyterHub)
+    -   Bruk av Student Respons Systemet Mentimeter for formativ
+        vurdering og innhenting av besvarelser i etterkant
+    -   Pågående prosjekt "Integrasjon av Jupyter og Canvas for digital
+        vurdering"
 
 ```{=tex}
 \newpage
@@ -252,14 +313,16 @@ grunnemne for det nye biovitenskapsprogrammet.
 I 2017 ble det introdusert nye bachelorprogrammer i alle
 studieprogrammer ved det matematisk- naturvitenskapelige fakultet ved
 Universitetet i Oslo. Alle programmene inkluderte fra da av et
-beregningsaspekt fra første semester. Målet var å integrere beregninger
-som et naturlig verktøy i utdanningen, for å forberede studentene på en
-karriere der dette er en mye etterspurt kompetanse. På Institutt for
-Biovitenskap ble dette implementert ved et nytt introduksjonskurs
-BIOS1100 - Innføring i beregningsmodeller for biovitenskap, som er
-obligatorisk for alle biovitenskapelige studenter. Videre skulle andre
-kurs, både obligatoriske og fordypningskursene, implementere
-beregningsperspektivet som en del av undervisningen.
+beregningsaspekt fra første semester. Dette var et viktig steg i det
+prisbelønte prosjektet 'Computing in Science Education' (CSE) ved
+fakultetet. Målet var å integrere beregninger som et naturlig verktøy i
+utdanningen, for å forberede studentene på en karriere der dette er en
+mye etterspurt kompetanse. På Institutt for Biovitenskap ble dette
+implementert ved et nytt introduksjonskurs BIOS1100 - Innføring i
+beregningsmodeller for biovitenskap, som er obligatorisk for alle
+biovitenskapelige studenter. Videre skulle andre kurs, både
+obligatoriske og fordypningskursene, implementere beregningsperspektivet
+som en del av undervisningen.
 
 Jeg var ikke involvert i prosessen som førte til disse endringene. Men
 jeg var, og er, sterkt overbevist om alle biologer bør skaffe seg
@@ -499,6 +562,25 @@ aspektene er beskrevet andre steder i denne mappen:
     undervisningsfilosofien under avsnittet [obliger](#obliger).
 -   Hvordan eksamensform har endret seg er også beskrevet der, under
     avsnittet [eksamen](#eksamen).
+
+## CSE\@IBV (2018-)
+
+BIOS1100 er et viktig kurs for å få studentene i biovitenskapsprogrammet
+en innføring i programmering og modellering av biologiske
+problebstillinger. Men, målet er at beregningsperspektivet integreres i
+hele studieprogrammet. Dette innebærer at flere kurs i programmet har et
+beregningsaspekt. Siden 2018 har det vært min oppgave å koordinere dette
+arbeidet. Jeg har jevnlig dialog med kollegaene mine om hvordan å
+tilpasse undervisning slik at studentene tar kunnskapen de tilegner seg
+i BIOS1100 videre og ser nytteverdien av den for flere biologiske fag.
+Vi er godt i gang med integreringen i begynneremnene, samt at noen
+fordypningskurs har begynt med å ta inn beregningsperspektivet. Men, det
+er mye som gjenstår, som vi også diskuterte i en rapport som jeg i 2020
+utarbeidet sammen med alle involverte undervisere. Denne rapporten er
+tilgjengelig som vedlegg til denne pedagogiske mappen. Jeg representerer
+også Institutt for Biovitenskap i lederteamet for CCSE, Centre for
+Computing in Science Education, et Senter for Fremragende Utdanning
+(SFU) ved fakultet.
 
 ```{=tex}
 \newpage
@@ -785,21 +867,21 @@ misconception, or are told about one by the Teaching Assistants, I use
 that as inspiration for writing new ones.
 
 I have used Multiple Choice Questions, through the online Student
-Response System [Mentimeter](https://mentimeter.com), during lectures
-and group work. I always combine this with Peer Instruction, using the
-approach described above. I regularly observe a mix between questions
-that are 'too simple' (a large majority of students get it right at the
-first try) and questions that reveal a misunderstanding in a significant
-proportion of students, that then gets largely resolved in the group
-discussion. Students and Teaching Assistants really like the "Menti's",
-as they are fondly called. It is an easy form of Active Learning that
-helps create a dynamic group session or lecture. A drawback is that
-executing Multiple Choice Questions takes time. I usually use no more
-than 4 questions concurrently, and those easily take up half an hour or
-more. Ideally, I would be able to always see the tally of votes for all
-questions to be able to filter out the ones that are too easy for next
-time, but is it challenging to collect that data from all Teaching
-Assistants.
+Response System [Mentimeter](https://www.mentimeter.com), during
+lectures and group work. I always combine this with Peer Instruction,
+using the approach described above. I regularly observe a mix between
+questions that are 'too simple' (a large majority of students get it
+right at the first try) and questions that reveal a misunderstanding in
+a significant proportion of students, that then gets largely resolved in
+the group discussion. Students and Teaching Assistants really like the
+"Menti's", as they are fondly called. It is an easy form of Active
+Learning that helps create a dynamic group session or lecture. A
+drawback is that executing Multiple Choice Questions takes time. I
+usually use no more than 4 questions concurrently, and those easily take
+up half an hour or more. Ideally, I would be able to always see the
+tally of votes for all questions to be able to filter out the ones that
+are too easy for next time, but is it challenging to collect that data
+from all Teaching Assistants.
 
 It is fairly straightforward to adopt Multiple Choice Questions to an
 online teaching setting, provided the platform used allows students to
@@ -886,19 +968,20 @@ for all course activities. [Jupyter Notebooks](https://jupyter.org) are
 a form of 'computational' notebooks, combining text, media, programming
 code and the ability to execute that code and include the results of
 running it in the same notebook. Teaching materials, including
-exercises, are delivered as Jupyter Notebooks. During Live Coding
-sessions and group work, students as well as teachers and Teaching
-Assistants, do all their programming in them. Obligatory assignments are
-also handed out, and handed in and graded, as notebooks. When students,
-assistants and teacher all are seeing and commenting code in the same
-environment, discussing problems and helping each other, this reduces
-the extra cognitive load of switching programming environments. We use a
-cloud-based server provided by the university, called JupyterHub, to
-provide students with this programming environment. An additional
-benefit of this programming environment is that it saves the students
-from installing software on their own laptop: as long as they have a
-working internet connection they can log in (using university
-credentials) to the server and start working.
+exercises, are delivered as Jupyter Notebooks. even the textbook written
+for the course is made available as Jupyter Notebooks. During Live
+Coding sessions and group work, students as well as teachers and
+Teaching Assistants, do all their programming in them. Obligatory
+assignments are also handed out, and handed in and graded, as notebooks.
+When students, assistants and teacher all are seeing and commenting code
+in the same environment, discussing problems and helping each other,
+this reduces the extra cognitive load of switching programming
+environments. We use a cloud-based server provided by the university,
+called JupyterHub, to provide students with this programming
+environment. An additional benefit of this programming environment is
+that it saves the students from installing software on their own laptop:
+as long as they have a working internet connection they can log in
+(using university credentials) to the server and start working.
 
 **Exam**
 
@@ -1409,19 +1492,17 @@ med.
 
 -   Jeg tok *Felles innføringsdel* for Universitetspedagogisk
     Basiskompetanse i 2019
-    -   Kursbevis: **vedlegg**
+    -   Kursbevis: Fil:
         `Kursbevis_universitetspedagogisk_basiskompetanse.pdf`
-    -   Utviklingsnotat: **vedlegg**
-        `Utviklingsnotat_Fellesdelen_2019.pdf`
+    -   Utviklingsnotat: Fil: `Utviklingsnotat_Fellesdelen_2019.pdf`
 -   moduler tatt i tillegg til Fellesdelen:
     -   Forskningsveiledning (2014)
-        -   Utviklingsarbeid: **vedlegg**
+        -   Utviklingsarbeid: Fil:
             `Utviklingsarbeid_Forskningsveiledning_2014.pdf`
     -   Forelesning og undervisning - det dramaturgiske aspekt (2015)
     -   Pedagogisk mappe (2020)
 -   Jeg tok *Felles innføringsdel* i 2014 som 20% 1. amanuensis II
-    -   Utviklingsarbeid: **vedlegg**
-        `Utviklingsarbeid_Fellesdelen_2014.pdf`
+    -   Utviklingsarbeid: Fil: `Utviklingsarbeid_Fellesdelen_2014.pdf`
 
 ### En klar utvikling over tid
 
@@ -1502,9 +1583,9 @@ med.
 -   jeg er en sertifisert
     [instruktør](https://carpentries.org/instructors/) og [instruktør
     trener](https://carpentries.org/trainers/)
-    -   **Vedlegg** `SoftwareCarpentry_Instructor_Certificate.pdf`
-    -   **Vedlegg** `DataCarpentry_Instructor_Certificate.pdf`
-    -   **Vedlegg** `Carpentries_Instructor_Trainer_Certificate.pdf`
+    -   Fil: `SoftwareCarpentry_Instructor_Certificate.pdf`
+    -   Fil: `DataCarpentry_Instructor_Certificate.pdf`
+    -   Fil: `Carpentries_Instructor_Trainer_Certificate.pdf`
 -   Jeg har bidratt til undervisningsmaterial til The Carpentries
     -   The Carpentries Instructor Training
         [@erinalisonbecker2019Carpentries]
@@ -1530,7 +1611,7 @@ med.
         bl.a. med oversikt over [tidligere
         workshops](https://uio-carpentry.github.io/workshops/#past-workshops)
     -   Websidene fra Universitetsbiblioteket:
-        -   [carpentry.uio.no](https://carpentry.uio.no)
+        -   [carpentry.uio.no](https://www.uio.no/carpentry)
         -   [oversikt over
             workshops](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/)
     -   Jeg leder [styret for
@@ -1568,27 +1649,27 @@ med.
         `Eliassen_etal_2021_Motivasjon for beregningsorientert biologi.pdf`
 -   Forskning på egen undervisning
     -   Masterstudent June Edvarda Eliassen (2020)
-        -   tittel: Biologistudenters motivasjon for beregningsorientert
+        -   Tittel: Biologistudenters motivasjon for beregningsorientert
             biologi etter innføring av krav om full fordypning i
             realfaglig matematikk
-        -   lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-82918>
-        -   fil: `Masteroppgave_Eliassen.pdf`
+        -   Lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-82918>
+        -   Fil: `Masteroppgave_Eliassen.pdf`
     -   Masterstudent Sofie Rudberg (2020)
-        -   tittel: Relevansen av kompetansen fra matematikk R2 i
+        -   Tittel: Relevansen av kompetansen fra matematikk R2 i
             beregningsorientert biologi
-        -   lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-82936>
-        -   fil: `Masteroppgave_Rudberg.pdf`
+        -   Lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-82936>
+        -   Fil: `Masteroppgave_Rudberg.pdf`
     -   Masterstudent Marthe Mjøen Berg (2019)
-        -   tittel: Studentar si interesse og meistringsforventning for
+        -   Tittel: Studentar si interesse og meistringsforventning for
             programmering og modellering i biologi
-        -   lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-73633>
-        -   fil: `Masteroppgave_Berg.pdf`
+        -   Lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-73633>
+        -   Fil: `Masteroppgave_Berg.pdf`
     -   Masterstudent Lars Erik Håland (2019)
-        -   tittel: Studenters arbeid med programmering i
+        -   Tittel: Studenters arbeid med programmering i
             biovitenskapelige problemstillinger. En kvalitativ studie av
             biologistudenters arbeid med Python
-        -   lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-73632>
-        -   fil: `Masteroppgave_Håland.pdf`
+        -   Lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-73632>
+        -   Fil: `Masteroppgave_Håland.pdf`
 
 ### En kollegial holdning og praksis
 
@@ -1602,6 +1683,12 @@ med.
     -   [Dokumentasjonssider for
         gruppelærere](https://pages.github.uio.no/alexajo/bios1100-assistants/start.html)
         (krever login med UiO brukernavn og passord)
+-   CSE\@IBV
+    -   Sammen med undervisere involvert i arbeidet med integrering av
+        beregningsperspektivet i bachelor utdanningen ('CSE\@IBV') skrev
+        vi rapporten "Computing in Science Education (CSE) på IBV:
+        status og veien videre".
+    -   Fil: `Status CSE på IBV februar 2020 og veien videre.pdf`
 -   CCSE
     -   Jeg er en del av
         [ledergruppen](https://www.mn.uio.no/ccse/english/about/organization/leader-group/)
