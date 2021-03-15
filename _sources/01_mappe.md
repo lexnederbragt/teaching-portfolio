@@ -6,15 +6,69 @@ En pedagogisk mappe er ment til å dokumentere
 erfaringer og utvikling som underviser,
 og er relevant for ansettelse og merittering ved universiteter.
 
+For denne webversjonen kan man bruke innholdsfortegnelse til venstre
+for å bytte mellom de forskjellige kapitler,
+og den til høyre for å finne avsnittene innad i kapitlet du har åpnet.
+
 Denne pedagogiske mappen har en struktur som stort sett følger SoTL
 ([Scholarship of Teaching and Learning](https://issotl.com/about-issotl/)) prinsippene.
 
-Bruk innholdsfortegnelse til venstre for å bytte
-mellom de forskjellige kapitler,
-og den til høyre for å finne avsnittene innad i kapitlet du har åpnet.
+### Sammenheng mellom innholdet i denne mappen og SoTL kriteriene
 
-<!-- <img src="img/pedagogisk_mappe_oversikt.png" width=350> -->
-![](img/pedagogisk_mappe_oversikt.png)
+#### Fokus på studentenes læring
 
-Denne figuren viser hvordan innholdet i denne mappen henger sammen med SoTL kriteriene.
+* Behandles i undervisningsfilosofien (Teaching Statement)
+  * Fokus på samstemt undervisning i utforming av obligatoriske øvelser og
+    eksamensoppgaver, samt hvordan eksamen gjennomføres
+  * Bruk av samkoding som undervisningsform for å redusere kognitiv last når
+    studenter lærer programmering
+  * Bruk av formativ vurdering kombinert med Peer Instruction for å
+    sjekke forståelse og rette opp misforståelser
+
+* Behandles i et eget kapittel
+  * Motivasjon gjennom valg av relevante biologiske problemstillinger
+  * Systematisk bruk av studentevalueringer
+
+
+#### En klar utvikling over tid
+
+* Behandles i undervisningsfilosofien (Teaching Statement)
+  * Implementering av samkoding som undervisningsform i BIOS1100
+  * Samstemt undervisning i BIOS1100
+
+* Behandles i et eget kapittel
+  * Undervisning som student og PhD student
+  * Design og utvikling av workshops og et master/PhD kurs i bioinformatikk
+  * Design og utvikling av et begynneremne i beregningsorientert biologi
+  * Integrering av beregningsperspektivet i biovitenskapsprogrammet
+
+
+#### En forskende tilnærming
+
+* Behandles i undervisningsfilosofien (Teaching Statement)
+  * Teorien om Kognitiv Last (Cognitive Load Theory)
+  * Formativ vurdering og Peer instruction
+  * Samstemt undervisning (Constructive Alignment)
+
+* Behandles i et eget kapittel
+  * Forskning på egen undervisning
+
+
+#### En kollegial holdning og praksis
+
+* Behandles i et eget kapittel
+  * Undervisnings Verksted ved Institutt for Biovitenskap
+  * Undervisning i et felleskap med gruppelærere og studenter
+  * Studenter som bidragsytere i det faglige innholdet
+
+
+#### Det digitale
+
+* Bruk av læringsfremmende digitale midler er å finne i nesten alle kapitler
+  * Pionér i bruk av interaktive brukergrensesnitt for programmeringsopplæring
+    (Jupyter), som resulterte i en skybasert løsning for flere kurs på UiO (JupyterHub)
+  * Bruk av Student Respons Systemet Mentimeter for formativ vurdering og
+    innhenting av besvarelser i etterkant
+  * Pågående prosjekt "Integrasjon av Jupyter og Canvas for digital vurdering"
+
 

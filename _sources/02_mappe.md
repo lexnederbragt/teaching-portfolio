@@ -152,6 +152,8 @@ bygge opp et helt nytt grunnemne for det nye biovitenskapsprogrammet.
 I 2017 ble det introdusert nye bachelorprogrammer i alle studieprogrammer
 ved det matematisk- naturvitenskapelige fakultet ved Universitetet i Oslo.
 Alle programmene inkluderte fra da av et beregningsaspekt fra første semester.
+Dette var et viktig steg i det prisbelønte prosjektet
+'Computing in Science Education' (CSE) ved fakultetet.
 Målet var å integrere beregninger som et naturlig verktøy i utdanningen,
 for å forberede studentene på en karriere der dette er en mye etterspurt kompetanse.
 På Institutt for Biovitenskap ble dette implementert
@@ -406,4 +408,23 @@ Disse aspektene er beskrevet andre steder i denne mappen:
   i undervisningsfilosofien under avsnittet [obliger](03_mappe.html#obliger).
 * Hvordan eksamensform har endret seg er også beskrevet der,
   under avsnittet [eksamen](03_mappe.html#eksamen).
+
+### CSE@IBV (2018-)
+
+BIOS1100 er et viktig kurs for å få studentene i biovitenskapsprogrammet
+en innføring i programmering og modellering av biologiske problebstillinger.
+Men, målet er at beregningsperspektivet integreres i hele studieprogrammet.
+Dette innebærer at flere kurs i programmet har et beregningsaspekt.
+Siden 2018 har det vært min oppgave å koordinere dette arbeidet.
+Jeg har jevnlig dialog med kollegaene mine om hvordan å tilpasse
+undervisning slik at studentene tar kunnskapen de tilegner seg i BIOS1100
+videre og ser nytteverdien av den for flere biologiske fag.
+Vi er godt i gang med integreringen i begynneremnene,
+samt at noen fordypningskurs har begynt med å ta inn beregningsperspektivet.
+Men, det er mye som gjenstår, som vi også diskuterte i en rapport
+som jeg i 2020 utarbeidet sammen med alle involverte undervisere.
+Denne rapporten er tilgjengelig som vedlegg til denne pedagogiske mappen.
+Jeg representerer også Institutt for Biovitenskap i lederteamet for
+CCSE, Centre for Computing in Science Education,
+et Senter for Fremragende Utdanning (SFU) ved fakultet.
 

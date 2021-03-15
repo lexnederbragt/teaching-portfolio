@@ -5,18 +5,18 @@
 #### Universitetspedagogisk kompetanse
 
 * Jeg tok *Felles innføringsdel* for Universitetspedagogisk Basiskompetanse i 2019
-  * Kursbevis: **vedlegg** `Kursbevis_universitetspedagogisk_basiskompetanse.pdf`
-  * Utviklingsnotat: **vedlegg** `Utviklingsnotat_Fellesdelen_2019.pdf`
+  * Kursbevis: Fil: `Kursbevis_universitetspedagogisk_basiskompetanse.pdf`
+  * Utviklingsnotat: Fil: `Utviklingsnotat_Fellesdelen_2019.pdf`
 
 * moduler tatt i tillegg til Fellesdelen:
   * Forskningsveiledning (2014)
-    * Utviklingsarbeid: **vedlegg** `Utviklingsarbeid_Forskningsveiledning_2014.pdf`
+    * Utviklingsarbeid: Fil: `Utviklingsarbeid_Forskningsveiledning_2014.pdf`
 
   * Forelesning og undervisning - det dramaturgiske aspekt (2015)
   * Pedagogisk mappe (2020)
 
 * Jeg tok *Felles innføringsdel* i 2014 som 20% 1. amanuensis II
-  * Utviklingsarbeid: **vedlegg** `Utviklingsarbeid_Fellesdelen_2014.pdf`
+  * Utviklingsarbeid: Fil: `Utviklingsarbeid_Fellesdelen_2014.pdf`
 
 
 #### En klar utvikling over tid
@@ -92,9 +92,9 @@
 * [Data Carpentry](http://www.datacarpentry.org/)
 * fra og med 2018 ble disse sammen til [The Carpentries](https://carpentries.org)
 * jeg er en sertifisert [instruktør](https://carpentries.org/instructors/) og [instruktør trener](https://carpentries.org/trainers/)
-  * **Vedlegg** `SoftwareCarpentry_Instructor_Certificate.pdf`
-  * **Vedlegg** `DataCarpentry_Instructor_Certificate.pdf`
-  * **Vedlegg** `Carpentries_Instructor_Trainer_Certificate.pdf`
+  * Fil: `SoftwareCarpentry_Instructor_Certificate.pdf`
+  * Fil: `DataCarpentry_Instructor_Certificate.pdf`
+  * Fil: `Carpentries_Instructor_Trainer_Certificate.pdf`
 
 * Jeg har bidratt til undervisningsmaterial til The Carpentries
   * The Carpentries Instructor Training <a href="08_mappe.html#erinalisonbecker2019Carpentries">[13]</a>
@@ -113,7 +113,7 @@
   * Webside til [Carpentry@UiO](https://uio-carpentry.github.io), bl.a. med
     oversikt over [tidligere workshops](https://uio-carpentry.github.io/workshops/#past-workshops)
   * Websidene fra Universitetsbiblioteket:
-    * [carpentry.uio.no](https://carpentry.uio.no)
+    * [carpentry.uio.no](https://www.uio.no/carpentry)
     * [oversikt over workshops](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/)
 
   * Jeg leder [styret for Carpentry@UiO](https://uio-carpentry.github.io/about/members/)
@@ -154,24 +154,24 @@
 
 * Forskning på egen undervisning
   * Masterstudent June Edvarda Eliassen (2020)
-    * tittel: Biologistudenters motivasjon for beregningsorientert biologi etter innføring av krav om full fordypning i realfaglig matematikk
-    * lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-82918>
-    * fil: `Masteroppgave_Eliassen.pdf`
+    * Tittel: Biologistudenters motivasjon for beregningsorientert biologi etter innføring av krav om full fordypning i realfaglig matematikk
+    * Lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-82918>
+    * Fil: `Masteroppgave_Eliassen.pdf`
 
   * Masterstudent Sofie Rudberg (2020)
-    * tittel: Relevansen av kompetansen fra matematikk R2 i beregningsorientert biologi
-    * lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-82936>
-    * fil: `Masteroppgave_Rudberg.pdf`
+    * Tittel: Relevansen av kompetansen fra matematikk R2 i beregningsorientert biologi
+    * Lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-82936>
+    * Fil: `Masteroppgave_Rudberg.pdf`
 
   * Masterstudent Marthe Mjøen Berg (2019)
-    * tittel: Studentar si interesse og meistringsforventning for programmering og modellering i biologi
-    * lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-73633>
-    * fil: `Masteroppgave_Berg.pdf`
+    * Tittel: Studentar si interesse og meistringsforventning for programmering og modellering i biologi
+    * Lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-73633>
+    * Fil: `Masteroppgave_Berg.pdf`
 
   * Masterstudent Lars Erik Håland (2019)
-    * tittel: Studenters arbeid med programmering i biovitenskapelige problemstillinger. En kvalitativ studie av biologistudenters arbeid med Python
-    * lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-73632>
-    * fil: `Masteroppgave_Håland.pdf`
+    * Tittel: Studenters arbeid med programmering i biovitenskapelige problemstillinger. En kvalitativ studie av biologistudenters arbeid med Python
+    * Lenke til oppgaven: <http://urn.nb.no/URN:NBN:no-73632>
+    * Fil: `Masteroppgave_Håland.pdf`
 
 
 
@@ -183,6 +183,12 @@
 
 * Gruppelærere
   * [Dokumentasjonssider for gruppelærere](https://pages.github.uio.no/alexajo/bios1100-assistants/start.html) (krever login med UiO brukernavn og passord)
+
+* CSE@IBV
+  * Sammen med undervisere involvert i arbeidet med integrering av
+    beregningsperspektivet i bachelor utdanningen ('CSE@IBV') skrev vi rapporten
+    "Computing in Science Education (CSE) på IBV: status og veien videre".
+  * Fil: `Status CSE på IBV februar 2020 og veien videre.pdf`
 
 * CCSE
   * Jeg er en del av [ledergruppen](https://www.mn.uio.no/ccse/english/about/organization/leader-group/)

@@ -283,7 +283,7 @@ misconception, or are told about one by the Teaching Assistants, I use
 that as inspiration for writing new ones.
 
 I have used Multiple Choice Questions, through the online Student
-Response System [Mentimeter](https://mentimeter.com), during
+Response System [Mentimeter](https://www.mentimeter.com), during
 lectures and group work. I always combine this with Peer Instruction,
 using the approach described above. I regularly observe a mix between
 questions that are 'too simple' (a large majority of students get it
@@ -384,7 +384,9 @@ for all course activities.
 'computational' notebooks, combining text, media, programming code and
 the ability to execute that code and include the results of running it
 in the same notebook. Teaching materials, including exercises, are
-delivered as Jupyter Notebooks. During Live Coding sessions and group
+delivered as Jupyter Notebooks.
+even the textbook written for the course is made available as Jupyter Notebooks.
+During Live Coding sessions and group
 work, students as well as teachers and Teaching Assistants, do all their
 programming in them. Obligatory assignments are also handed out, and
 handed in and graded, as notebooks.

@@ -1,0 +1,44 @@
+02_mappe.md:409: [broken] 03_mappe.html#eksamen: 
+02_mappe.md:221: [broken] 03_mappe.html#formative_assessment: 
+02_mappe.md:240: [broken] 03_mappe.html#samkoding: 
+02_mappe.md:407: [broken] 03_mappe.html#obliger: 
+03_mappe.md:285: [redirected permanently] https://mentimeter.com to https://www.mentimeter.com/
+04_mappe.md:55: [broken] 06_mappe.html#erfaringsdokument: 
+05_mappe.md:163: [redirected with Found] http://urn.nb.no/URN:NBN:no-73632 to https://www.duo.uio.no/handle/10852/70499
+05_mappe.md:138: [redirected with Found] http://urn.nb.no/URN:NBN:no-73633 to https://www.duo.uio.no/handle/10852/70498
+05_mappe.md:107: [redirected with Found] http://urn.nb.no/URN:NBN:no-82936 to https://www.duo.uio.no/handle/10852/79793
+05_mappe.md:76: [redirected with Found] http://urn.nb.no/URN:NBN:no-82918 to https://www.duo.uio.no/handle/10852/79849
+06_mappe.md:7: [broken] https://www.uio.no/for-ansatte/enhetssider/mn/ibv/underverk/,: 404 Client Error: Not Found for url: https://www.uio.no/for-ansatte/enhetssider/mn/ibv/underverk/,
+07_mappe.md:173: [redirected with Found] http://urn.nb.no/URN:NBN:no-73632 to https://www.duo.uio.no/handle/10852/70499
+07_mappe.md:168: [redirected with Found] http://urn.nb.no/URN:NBN:no-73633 to https://www.duo.uio.no/handle/10852/70498
+07_mappe.md:158: [redirected with Found] http://urn.nb.no/URN:NBN:no-82918 to https://www.duo.uio.no/handle/10852/79849
+07_mappe.md:163: [redirected with Found] http://urn.nb.no/URN:NBN:no-82936 to https://www.duo.uio.no/handle/10852/79793
+07_mappe.md:91: [redirected permanently] http://software-carpentry.org/ to https://software-carpentry.org/
+07_mappe.md:92: [redirected permanently] http://www.datacarpentry.org/ to https://datacarpentry.org/
+07_mappe.md:116: [broken] https://carpentry.uio.no: HTTPSConnectionPool(host='carpentry.uio.no', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10deaff98>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+07_mappe.md:74: [redirected with Found] http://angus.readthedocs.org/en/2015/week3.html to https://angus.readthedocs.io/en/2015/week3.html
+07_mappe.md:142: [redirected with Found] https://doi.org/10.5324/njsteme.v3i1.2992 to https://www.ntnu.no/ojs/index.php/njse/article/view/2992
+07_mappe.md:52: [redirected with Found] http://inf-biox121.readthedocs.org/en/2016 to https://inf-biox121.readthedocs.io/en/2016/
+07_mappe.md:223: [broken] https://jupyterhub.uio.no: HTTPSConnectionPool(host='jupyterhub.uio.no', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:852)'),))
+07_mappe.md:77: [redirected with Found] http://davis-assembly-masterclass-2013.readthedocs.org/en/latest to https://davis-assembly-masterclass-2013.readthedocs.io/en/latest/
+07_mappe.md:185: [redirected with Found] https://pages.github.uio.no/alexajo/bios1100-assistants/start.html to https://github.uio.no/login?return_to=https%3A%2F%2Fpages.github.uio.no%2Falexajo%2Fbios1100-assistants%2Fstart.html
+07_mappe.md:136: [redirected permanently] https://dx.doi.org/10.1371/journal.pcbi.1008090 to https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008090
+07_mappe.md:181: [redirected with Found] https://www.uio.no/for-ansatte/enhetssider/mn/ibv/underverk to https://weblogin.uio.no/simplesaml/module.php/delegate/login.php?AuthState=_08ec04a947cf17bc5b2444d40ab2329815524ebda0%3Ahttps%3A%2F%2Fweblogin.uio.no%2Fsimplesaml%2Fsaml2%2Fidp%2FSSOService.php%3Fspentityid%3Dhttps%253A%252F%252Fwww.uio.no%26cookieTime%3D1615818236%26RelayState%3Dhttps%253A%252F%252Fwww.uio.no%252Ffor-ansatte%252Fenhetssider%252Fmn%252Fibv%252Funderverk%252F%253FauthTicket%253DVJMmkCLIU4I505kIn6KuhA
+07_mappe.md:217: [redirected with Found] https://www.usit.uio.no/om/organisasjon/itf/aktiviteter/prosjekter/jupyter-canvas to https://weblogin.uio.no/simplesaml/module.php/delegate/login.php?AuthState=_2fadf770a46a891668ab8ff851161f7308b71ab005%3Ahttps%3A%2F%2Fweblogin.uio.no%2Fsimplesaml%2Fsaml2%2Fidp%2FSSOService.php%3Fspentityid%3Dhttps%253A%252F%252Fwww.usit.uio.no%26cookieTime%3D1615818237%26RelayState%3Dhttps%253A%252F%252Fwww.usit.uio.no%252Fom%252Forganisasjon%252Fitf%252Faktiviteter%252Fprosjekter%252Fjupyter-canvas%252F%253FauthTicket%253DtsHDOgLGgfqEQ_JSHKbMfA
+08_mappe.md:33: [redirected with Found] https://dx.doi.org/10.1037/h0043158 to https://doi.apa.org:443/doiLanding?doi=10.1037/h0043158
+08_mappe.md:50: [redirected with Found] https://dx.doi.org/10.1076/csed.13.2.137.14200 to https://www.tandfonline.com/doi/abs/10.1076/csed.13.2.137.14200
+08_mappe.md:93: [redirected permanently] https://dx.doi.org/10.1080/07294360.2012.642839 to https://www.tandfonline.com/doi/abs/10.1080/07294360.2012.642839
+08_mappe.md:17: [redirected permanently] https://dx.doi.org/10.1073/pnas.1319030111 to https://www.pnas.org/content/111/23/8410
+08_mappe.md:65: [redirected permanently] https://dx.doi.org/10.1371/journal.pcbi.1008090 to https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008090
+08_mappe.md:86: [redirected with Found] https://dx.doi.org/10.1119/1.1374249 to https://aapt.scitation.org/doi/10.1119/1.1374249
+08_mappe.md:100: [redirected permanently] https://dx.doi.org/10.1207/s15326985ep4102_4 to https://www.tandfonline.com/doi/abs/10.1207/s15326985ep4102_4
+08_mappe.md:24: [redirected with Found] https://dx.doi.org/10.1007/s10648-019-09465-5 to https://link.springer.com/article/10.1007/s10648-019-09465-5
+08_mappe.md:140: [redirected with Found] https://dx.doi.org/10.5281/zenodo.1064254 to https://zenodo.org/record/1064254
+08_mappe.md:130: [redirected with Found] https://dx.doi.org/10.5281/zenodo.278219 to https://zenodo.org/record/278219
+08_mappe.md:135: [redirected with Found] https://dx.doi.org/10.5281/zenodo.278220 to https://zenodo.org/record/278220
+08_mappe.md:125: [redirected with Found] https://dx.doi.org/10.5281/zenodo.278222 to https://zenodo.org/record/278222
+08_mappe.md:114: [redirected with Found] https://dx.doi.org/10.5324/njsteme.v5i1.3917 to https://www.ntnu.no/ojs/index.php/njse/article/view/3917
+08_mappe.md:107: [redirected with Found] https://dx.doi.org/10.5324/njsteme.v3i1.2992 to https://www.ntnu.no/ojs/index.php/njse/article/view/2992
+08_mappe.md:11: [redirected permanently] https://dx.doi.org/10.1007/978-1-4471-6630-6 to https://link.springer.com/book/10.1007%2F978-1-4471-6630-6
+08_mappe.md:120: [redirected with Found] https://dx.doi.org/10.5281/zenodo.278226 to https://zenodo.org/record/278226
+08_mappe.md:72: [redirected with Found] https://dx.doi.org/10.5281/zenodo.3258398 to https://zenodo.org/record/3258398
