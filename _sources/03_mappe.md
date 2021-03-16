@@ -2,6 +2,8 @@
 <!-- jupyter-book 03_mappe.md -->
 # 3. Min undervisningsfilosofi (Teaching Statement)
 
+<div id="teaching_statement"></div>
+
 ### Om denne undervisningsfilosofien
 
 Denne teksten er skrevet til å leses som et selvstendig dokument,

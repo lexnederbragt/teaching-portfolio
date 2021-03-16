@@ -2,6 +2,12 @@
 <!-- jupyter-book 01_mappe.md -->
 # 1. Introduksjon
 
+```{note}
+Most of this Teaching Portfolio is written in Norwegian.
+The chapter "3. Min undervisningsfilosofi (Teaching Statement)"
+is written in English.
+```
+
 En pedagogisk mappe er ment til å dokumentere
 erfaringer og utvikling som underviser,
 og er relevant for ansettelse og merittering ved universiteter.
