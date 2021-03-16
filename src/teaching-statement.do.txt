@@ -1,3 +1,5 @@
+label{teaching_statement}
+
 ===== Om denne undervisningsfilosofien =====
 
 Denne teksten er skrevet til å leses som et selvstendig dokument,
