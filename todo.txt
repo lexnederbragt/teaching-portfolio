@@ -6,6 +6,8 @@
 * fix bibliography
   *  missing URLs
   * formatting issues
+* automatically download pedagogisk_mappe.bib file:
+  `PYTHONIOENCODING=utf-8 python /Users/alexajo/github/cli-zotero/cli-zotero.py --user 3965838 --collection-to-bibtex S8RLX3MM >pedagogisk_mappe.bib`
 * use DocOnce to produce mappe.pdf ; so far works but citations become [?]
 ```
 cd src && \
