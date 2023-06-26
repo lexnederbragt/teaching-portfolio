@@ -168,7 +168,7 @@ cite{erinalisonbecker2019Carpentries}
 to train enough Teaching Assistants so that they could teach Python
 using PLC during the group sessions.
 
-The results were that string from 2018, students had a much greater confidence in
+The results were that starting from 2018, students had a much greater confidence in
 Python programming. To start learning programming using Live Coding
 helped them overcome the initial barrier (sometimes fear) of
 programming, and led to a feeling of mastery early on. Students really
